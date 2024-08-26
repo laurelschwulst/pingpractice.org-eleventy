@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        {% if layout == "layouts/page.njk" %}
+            <title>{{ title }} | Ping Practice</title>
+            <meta property="og:title" content="{{ title }} | Ping Practice">
+        {% else %}
+            <title>Ping Practice</title>
+            <meta property="og:title" content="Ping Practice">
+        {% endif %}
+
+        <meta property="og:image" content="{{ domain }}/assets/images/pp.png" />
+        <link rel="stylesheet" href="{{ domain }}/assets/css/style.css?333" />
+        <meta property="og:description" content="">
+        <meta property="og:url" content="{{ domain }}{{ page.url }}">
+
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    </head>
+    <body>
+
+        <div class="everything">
+            
+            <nav id="ping-practice" class="hide">
+                <a href="/index.html" class="home-link">Ping Practice</a>
+            </nav>
+
+            <main>
+
+                {# <nav id="primary" class="hide">
+                    <a href="/about/" class="about-link">About</a>
+                    <a href="/method/" class="method-link">Method</a>
+                    <a href="/app/" class="app-link">App</a>
+                    <a href="/people/" class="people-link">People</a>
+                    <a href="/transmissions/" class="transmissions-link">Transmissions</a>
+                </nav> #}
+                <nav id="primary" class="hide">
+                {% for individual_page in collections.pages %}
+                    <a href="{{ individual_page.url }}" class="{% if page.url == individual_page.url %}current{% endif %}">
+                    {{ individual_page.data.title }}
+                    </a>
+                {% endfor %}
+                </nav>
+
+                <figure class="pp">
+                    <img src="/assets/images/pp.png" class="original" />
+                </figure>
+
+                {% block content %}{% endblock %}
+
+            </main>
+        
+        </div>
+
+        <script src="{{ site.url }}/assets/js/mini-spa.js"></script>
+        <script src="{{ site.url }}/assets/js/jquery.min.js"></script>
+        <script src="{{ site.url }}/assets/js/script.js"></script>
+
+    </body>
+</html>
