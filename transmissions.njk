@@ -1,0 +1,18 @@
+---
+permalink: /transmissions/
+---
+
+{% extends "layouts/base.njk" %}
+
+{% block content %}
+
+{% for transmission in collections.transmissions %}
+<p class="transmission">
+    <span class="ping"></span>
+    <a href="{{ transmission.url }}" class="spa-link">
+    {{ transmission.data.title }}
+    </a>
+</p>
+{% endfor %}
+
+{% endblock %}

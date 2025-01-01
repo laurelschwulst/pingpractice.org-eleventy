@@ -1,3 +1,17 @@
-<footer>
-  <mark>This is the footer!</mark>
-</footer>
+<nav id="bottom" class="simple">
+  {% for individual_page in collections.pages %}
+    {% if individual_page.url == page.url %}
+      {% set current_index = loop.index0 %}
+      {% set next_index = current_index + 1 %}
+      
+      {% if collections.pages[next_index] %}
+        <a href="{{ collections.pages[next_index].url }}" class="button">“{{ collections.pages[next_index].data.title }}” →</a>
+      {% elseif page.url == '/transmissions/' %}
+        <a href="{{ collections.pages[0].url }}" class="button">“{{ collections.pages[0].data.title }}” →</a>
+      {% else %}
+        <a href="/transmissions/" class="button">“Transmissions” →</a>
+      {% endif %}
+      
+    {% endif %}
+  {% endfor %}
+</nav>

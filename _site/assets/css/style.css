@@ -46,11 +46,20 @@ body {
   overflow-x: hidden;
 }
 
-main {
+main,
+div#main {
   max-width: 27.5em;
   margin: 0 auto;
   padding: 18px;
   position: relative;
+}
+
+header div#main {
+  padding-bottom: 0;
+}
+
+main {
+  padding-top: 0;
 }
 
 figure {
@@ -330,13 +339,13 @@ figure.large {
 
 body.fade .everything {
   opacity: 0;
-  transition: 0.5s ease opacity;
+  transition: 0.5s ease-in-out opacity;
   animation: fade 2s normal forwards;
   animation-iteration-count: 1;
 }
 
 body.fade.out .everything {
-  transition: 0.5s ease all;
+  transition: 0.5s ease-in-out all;
   animation: fadeout 2s normal forwards;
   animation-iteration-count: 1;
 }
@@ -371,6 +380,8 @@ body.inside .everything {
 
 figure.pp {
   position: relative;
+  visibility: visible; /* Ensure it's visible */
+  opacity: 1; /* Ensure it's fully opaque */
 }
 
 figure.pp .overlay,
@@ -406,13 +417,13 @@ body.home nav#ping-practice {
 
 body.fadeee .everything {
   opacity: 0;
-  transition: 0.5s ease opacity;
+  transition: 0.5s ease-in-out opacity;
   animation: fadeee 2s normal forwards;
   animation-iteration-count: 1;
 }
 
 body.fadeee.out .everything {
-  transition: 0.5s ease all;
+  transition: 0.5s ease-in-out all;
   animation: fadeeeout 2s normal forwards;
   animation-iteration-count: 1;
 }
@@ -420,7 +431,7 @@ body.fadeee.out .everything {
 body.fadeee .hide {
   background: yellow;
   opacity: 0;
-  transition: 0.5s ease opacity;
+  transition: 0.5s ease-in-out opacity;
 }
 
 body.fadeee.out .everything .hide {
@@ -452,23 +463,30 @@ body.fadeee.out .everything .hide {
 }
 
 .content.home.hidden,
+.content.home,
 .content.about.hidden,
 .content.method.hidden,
-body.method .content.method.hidden,
 .content.app.hidden,
 .content.people.hidden,
-.content.transmissions.hidden {
+.content.transmissions.hidden,
+.content.transmission.hidden {
   opacity: 0;
-  transition: 0.5s ease opacity;
+  transition: 0.5s ease-in-out opacity;
 }
 
-.content.home,
+.content.fadeout {
+  opacity: 0 !important;
+  transition: 0.5s ease-in-out opacity !important;
+}
+
+body.home .content.home,
 .content.about,
 .content.app,
 .content.people,
-.content.transmissions {
+body.transmissions .content.transmissions.hidden,
+body.transmission .content.transmission.hidden {
   opacity: 1;
-  transition: 0.5s ease opacity;
+  transition: 0.5s ease-in-out opacity;
 }
 
 .content {
@@ -491,14 +509,19 @@ img.overlay-method,
 img.overlay-app,
 img.overlay-people {
   opacity: 0;
-  transition: 0.5s ease opacity;
+  transition: 0.5s ease-in-out opacity;
+}
+
+img.overlay.fadeout {
+  opacity: 0 !important;
+  transition: 0.5s ease-in-out opacity !important;
 }
 
 body.about nav#primary,
 body.about nav#ping-practice,
 body.method nav#primary,
 body.method nav#ping-practice,
-body.about img.overlay,
+body.about img.overlay-about,
 body.method img.overlay-method,
 body.app img.overlay-app,
 body.people img.overlay-people,
@@ -508,7 +531,7 @@ body.app .content.app,
 body.people .content.people,
 body.transmissions .content.transmissions {
   opacity: 1;
-  transition: 0.5s ease opacity;
+  transition: 0.5s ease-in-out opacity;
 }
 
 a.button {
@@ -536,7 +559,7 @@ p.transmission a {
   /* background: #f0f0f0; */
   border: 0;
   color: black;
-  transition: all 0.5s ease;
+  transition: all 0.5s ease-in-out;
 }
 
 p.transmission a:hover {
@@ -551,7 +574,7 @@ span.ping {
   background: #f0f0f0;
   margin-right: 0.5em;
   vertical-align: -0.25em;
-  transition: all 0.5s ease;
+  transition: all 0.5s ease-in-out;
 }
 
 p.transmission:hover span.ping {
@@ -643,7 +666,7 @@ div.ping {
 
 div.ping.hidden-metadata .ping-metadata {
   opacity: 0;
-  transition: 0.5s ease opacity;
+  transition: 0.5s ease-in-out opacity;
 }
 
 div.ping.hidden-metadata:hover .ping-metadata {
@@ -769,4 +792,13 @@ div.ping.small .ping-content {
 
 .ping-list .ping-metadata {
   position: static;
+}
+
+nav#transmissions {
+  opacity: 0;
+  transition: 0.5s ease-in-out opacity;
+}
+
+nav#transmissions.show {
+  opacity: 1;
 }

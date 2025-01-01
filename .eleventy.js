@@ -6,7 +6,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setTemplateFormats(["md", "njk"]);
 
   eleventyConfig.addCollection("transmissions", function (collection) {
-    // Filter the collection to include only transmissions
     return collection
       .getAll()
       .filter((item) => item.inputPath.startsWith("./transmissions/"));
@@ -17,4 +16,9 @@ module.exports = function (eleventyConfig) {
       return (a.data.nav_order || 0) - (b.data.nav_order || 0);
     });
   });
+
+  // eleventyConfig.addCollection("authors", function (collectionApi) {
+  //   const authors = collectionApi.getAll()[0].data.authors;
+  //   return authors.map((world) => author.name);
+  // });
 };

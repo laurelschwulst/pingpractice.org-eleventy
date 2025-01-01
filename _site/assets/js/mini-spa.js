@@ -21,14 +21,11 @@
       container.focus();
       window.scrollTo(0, 0);
       updateMainMenu(href);
-      setupLateralNav();
-      setupSelfieFilters();
-      setupSelfieAudio();
-      setupMobileMenu();
-      setupStars();
+      updateBodyClass(href);
+      updateTransmissionLayout(href);
+      // console.log("laurel!");
     };
     xhr.onerror = function () {
-      // fallback to normal link behaviour
       document.location.href = href;
       return;
     };
@@ -38,31 +35,100 @@
   }
 
   updateMainMenu(document.location.href);
+  updateBodyClass(document.location.href);
+  // updateTransmissionLayout(document.location.href);
+
+  function normalizeUrl(url) {
+    // Create a temporary link element to easily parse the URL
+    const a = document.createElement("a");
+    a.href = url;
+
+    // Return the pathname part of the URL, which includes the relative path
+    return a.pathname.replace(/\/+$/, ""); // Remove any trailing slashes
+  }
 
   function updateMainMenu(newHref) {
-    const menus = $(".menus");
+    newHref = normalizeUrl(newHref); // Normalize the newHref
 
-    // If splash page, hide the menu
-    if (document.querySelector(".splash")) {
-      console.log(menus);
-      menus.classList.add("hidden");
-    } else {
-      menus.classList.remove("hidden");
-    }
+    const links = document.querySelectorAll(
+      "nav#primary a, nav#ping-practice a"
+    );
 
-    if (!newHref) return;
-
-    // Make sure button in menu is active
-    const links = menus.querySelectorAll("a");
     links.forEach((link) => {
-      if (link.href === newHref) {
-        link.classList.add("active");
+      const normalizedLinkHref = normalizeUrl(link.href); // Normalize the link href
+
+      if (normalizedLinkHref === newHref) {
+        link.classList.add("current");
         link.setAttribute("aria-current", "page");
       } else {
-        link.classList.remove("active");
+        link.classList.remove("current");
         link.removeAttribute("aria-current");
       }
     });
+  }
+
+  function updateBodyClass(href) {
+    const body = document.body;
+    const normalizedHref = normalizeUrl(href);
+
+    // Extract the last part of the URL path, or set to 'home' for the root
+    const path = normalizedHref.split("/").filter(Boolean).pop() || "home";
+
+    // Check if the URL starts with /transmissions/ and has more than 2 segments
+    const isTransmission =
+      normalizedHref.startsWith("/transmissions/") &&
+      normalizedHref.split("/").length > 2;
+
+    // Set the timeout duration: 3000ms if it's a transmission, otherwise 1500ms
+    const timeoutDuration = isTransmission ? 2000 : 1250;
+
+    // Set the body class
+    setTimeout(function () {
+      body.className = isTransmission ? "transmission" : path; // Use "transmission" if it's a transmission, otherwise the path
+      document
+        .querySelectorAll("img.overlay")
+        .forEach((img) => img.classList.remove("fadeout"));
+      // Add 'show' class to nav#transmissions if it's a transmission
+      const navTransmissions = document.querySelector("nav#transmissions");
+      if (isTransmission && navTransmissions) {
+        navTransmissions.classList.add("show");
+      } else if (navTransmissions) {
+        navTransmissions.classList.remove("show"); // Optionally remove the class if not a transmission
+      }
+    }, timeoutDuration);
+  }
+
+  function updateTransmissionLayout(href) {
+    // Use URL parsing to ensure we have a path like /transmissions/something
+    const urlPath = new URL(href, document.baseURI).pathname; // Parse the pathname from the href
+    const isTransmission =
+      urlPath.startsWith("/transmissions/") && urlPath.split("/").length > 3;
+
+    const figure = document.querySelector("figure.pp");
+    const mainmenu = document.querySelector("nav#primary");
+
+    if (figure) {
+      if (isTransmission) {
+        // Fade out the figure if it's a transmission detail page
+        console.log("it's a transmission page");
+        figure.style.transition = "opacity 0.5s ease-in-out"; // Smooth fade
+        figure.style.opacity = 0; // Fade out
+        mainmenu.style.transition = "opacity 0.5s ease-in-out"; // Smooth fade
+        mainmenu.style.opacity = 0; // Fade out
+
+        // Wait 1500ms and then hide it (make it not take up space)
+        setTimeout(function () {
+          figure.style.display = "none"; // Make it disappear from the layout
+          mainmenu.style.display = "none"; // Make it disappear from the layout
+        }, 1500); // 1500ms delay
+      }
+      // else {
+      // Ensure it's visible again in the layout
+      // figure.style.display = "block"; // Make sure it takes up space in the layout
+      // figure.style.transition = "opacity 0.5s ease-in-out"; // Smooth fade
+      // figure.style.opacity = 1; // Fade in
+      // }
+    }
   }
 
   function $(sel, con) {
@@ -96,21 +162,42 @@
         /\.\w+$/.test(href)
       ) {
         console.log("no SPA handling");
-        // eleventy urls in this configuration do not have extensions like .html
-        // if they have, or if target _blank is set, or they are a hash link,
-        // then do nothing.
         return;
       }
-      // if the URL starts with the base url, do the SPA handling
-      if (href.startsWith(baseUrl)) {
-        console.log("handle SPA");
+
+      // if the link is "back to transmissions"
+      // do the opposite of this:
+
+      // const figure = document.querySelector("figure.pp");
+      // const mainmenu = document.querySelector("nav#primary");
+      // figure.style.opacity = 1;
+      // mainmenu.style.opacity = 1;
+      // figure.style.display = "block";
+      // mainmenu.style.display = "none";
+
+      // setTimeout(function () {
+      //   figure.style.opacity = 1;
+      //   mainmenu.style.opacity = 1;
+      // }, 1500);
+
+      if (href.startsWith(baseUrl) || el.classList.includes("spa-link")) {
+        console.log("handle SPA!!!!!!");
         evt.preventDefault();
-        load(href, true);
+        let modifiedHref = href.replace(/^\/|\/$/g, "");
+        document.querySelector(`div.content`).classList.add("fadeout");
+        document
+          .querySelectorAll("img.overlay")
+          .forEach((img) => img.classList.add("fadeout"));
+        setTimeout(function () {
+          load(href, true);
+        }, 500);
+        updateMainMenu(href);
       }
     }
   });
 
   window.addEventListener("popstate", function (e) {
+    // remove?
     load(document.location.pathname, false);
   });
 })();

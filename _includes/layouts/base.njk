@@ -13,50 +13,85 @@
         {% endif %}
 
         <meta property="og:image" content="{{ domain }}/assets/images/pp.png" />
-        <link rel="stylesheet" href="{{ domain }}/assets/css/style.css?333" />
+        <link rel="stylesheet" href="{{ domain }}/assets/css/style.css?33333" />
         <meta property="og:description" content="">
         <meta property="og:url" content="{{ domain }}{{ page.url }}">
 
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     </head>
-    <body>
+    <body class="home">
 
         <div class="everything">
-            
-            <nav id="ping-practice" class="hide">
-                <a href="/index.html" class="home-link">Ping Practice</a>
-            </nav>
-
-            <main>
-
-                {# <nav id="primary" class="hide">
-                    <a href="/about/" class="about-link">About</a>
-                    <a href="/method/" class="method-link">Method</a>
-                    <a href="/app/" class="app-link">App</a>
-                    <a href="/people/" class="people-link">People</a>
-                    <a href="/transmissions/" class="transmissions-link">Transmissions</a>
-                </nav> #}
-                <nav id="primary" class="hide">
-                {% for individual_page in collections.pages %}
-                    <a href="{{ individual_page.url }}" class="{% if page.url == individual_page.url %}current{% endif %}">
-                    {{ individual_page.data.title }}
-                    </a>
-                {% endfor %}
+            <header>
+                <nav id="ping-practice" class="hide">
+                    <a href="/" class="spa-link home-link">Ping Practice</a>
                 </nav>
+                <div id="main">
+                {% if layout == 'layouts/transmission.njk' %}
+                    <nav id="transmissions">
+                        <a href="/transmissions" class="spa-link">Back to Transmissions</a>
+                    </nav>
+                {% else %}
+                    <nav id="primary" class="hide">
+                    {% for individual_page in collections.pages %}
+                        <a href="{{ individual_page.url }}" class="spa-link {% if page.url == individual_page.url %}current{% endif %}">
+                        {{ individual_page.data.title }}
+                        </a>
+                    {% endfor %}
+                        <a href="/transmissions" class="spa-link {% if page.url == transmissions %}current{% endif %}">
+                            Transmissions
+                        </a>
+                    </nav>
 
-                <figure class="pp">
-                    <img src="/assets/images/pp.png" class="original" />
-                </figure>
+                    <figure class="pp preserve" data-preserve-id="unique-id-1">
 
-                {% block content %}{% endblock %}
+                        <img 
+                            src="/assets/images/pp-app-transparent.png" 
+                            class="overlay overlay-app" 
+                        />
+                        <img
+                            src="/assets/images/pp-method-transparent.png"
+                            class="overlay overlay-method"
+                        />
+                        <img
+                            src="/assets/images/pp-people-transparent.png"
+                            class="overlay overlay-people"
+                        />
+                        <img
+                            src="/assets/images/pp-ping-ping-transparent.png"
+                            class="overlay overlay-about"
+                        />
+                        <img src="/assets/images/pp.png" class="original" />
+                    </figure>
+                {% endif %}
+                </div>
+            </header>
+            
+            {# {{ page.url | log }} #}
+            {% if page.url == '/' %}
+                {% set cleanUrl = 'home' %}
+            {% elseif page.url == '/transmissions/' %}
+                {% set cleanUrl = 'transmissions' %}
+            {% elseif page.url.startsWith('/transmissions/') %}
+                {% set cleanUrl = 'transmission' %}
+            {% else %}
+                {% set cleanUrl = page.url.slice(1, -1) %}
+            {% endif %}
+
+            
+            <main class="{{ cleanUrl }}">
+
+                <div class="content {{ cleanUrl }} hidden">
+                    {% block content %}{% endblock %}
+                </div>
 
             </main>
         
         </div>
 
-        <script src="{{ site.url }}/assets/js/mini-spa.js"></script>
         <script src="{{ site.url }}/assets/js/jquery.min.js"></script>
-        <script src="{{ site.url }}/assets/js/script.js"></script>
+        <script src="{{ site.url }}/assets/js/mini-spa.js?5555"></script>
+        <script src="{{ site.url }}/assets/js/script.js?5555"></script>
 
     </body>
 </html>
