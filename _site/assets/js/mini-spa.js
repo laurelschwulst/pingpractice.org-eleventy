@@ -100,14 +100,6 @@
     const figure = document.querySelector("figure.pp");
     const mainmenu = document.querySelector("nav#primary");
 
-    // // Add 'show' class to nav#transmissions if it's a transmission
-    // const navTransmissions = document.querySelector("nav#transmissions");
-    // if (isTransmission && navTransmissions) {
-    //   navTransmissions.classList.add("show");
-    // } else if (navTransmissions) {
-    //   navTransmissions.classList.remove("show"); // Optionally remove the class if not a transmission
-    // }
-
     if (figure) {
       if (isTransmission) {
         // Fade out the figure if it's a transmission detail page
