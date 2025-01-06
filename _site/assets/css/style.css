@@ -415,7 +415,7 @@ body.home nav#ping-practice {
   opacity: 0;
 } */
 
-body.fadeee .everything {
+/* body.fadeee .everything {
   opacity: 0;
   transition: 0.5s ease-in-out opacity;
   animation: fadeee 2s normal forwards;
@@ -460,7 +460,7 @@ body.fadeee.out .everything .hide {
   100% {
     opacity: 0;
   }
-}
+} */
 
 .content.home.hidden,
 .content.home,
@@ -792,13 +792,4 @@ div.ping.small .ping-content {
 
 .ping-list .ping-metadata {
   position: static;
-}
-
-nav#transmissions {
-  opacity: 0;
-  transition: 0.5s ease-in-out opacity;
-}
-
-nav#transmissions.show {
-  opacity: 1;
 }

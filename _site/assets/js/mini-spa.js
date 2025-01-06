@@ -36,7 +36,7 @@
 
   updateMainMenu(document.location.href);
   updateBodyClass(document.location.href);
-  // updateTransmissionLayout(document.location.href);
+  updateTransmissionLayout(document.location.href);
 
   function normalizeUrl(url) {
     // Create a temporary link element to easily parse the URL
@@ -88,13 +88,6 @@
       document
         .querySelectorAll("img.overlay")
         .forEach((img) => img.classList.remove("fadeout"));
-      // Add 'show' class to nav#transmissions if it's a transmission
-      const navTransmissions = document.querySelector("nav#transmissions");
-      if (isTransmission && navTransmissions) {
-        navTransmissions.classList.add("show");
-      } else if (navTransmissions) {
-        navTransmissions.classList.remove("show"); // Optionally remove the class if not a transmission
-      }
     }, timeoutDuration);
   }
 
@@ -106,6 +99,14 @@
 
     const figure = document.querySelector("figure.pp");
     const mainmenu = document.querySelector("nav#primary");
+
+    // // Add 'show' class to nav#transmissions if it's a transmission
+    // const navTransmissions = document.querySelector("nav#transmissions");
+    // if (isTransmission && navTransmissions) {
+    //   navTransmissions.classList.add("show");
+    // } else if (navTransmissions) {
+    //   navTransmissions.classList.remove("show"); // Optionally remove the class if not a transmission
+    // }
 
     if (figure) {
       if (isTransmission) {
@@ -122,12 +123,17 @@
           mainmenu.style.display = "none"; // Make it disappear from the layout
         }, 1500); // 1500ms delay
       }
-      // else {
-      // Ensure it's visible again in the layout
-      // figure.style.display = "block"; // Make sure it takes up space in the layout
-      // figure.style.transition = "opacity 0.5s ease-in-out"; // Smooth fade
-      // figure.style.opacity = 1; // Fade in
-      // }
+      else {
+        // Ensure it's visible again in the layout
+        figure.style.display = "block"; // Make sure it takes up space in the layout
+        figure.style.transition = "opacity 0.5s ease-in-out"; // Smooth fade
+        mainmenu.style.display = "block"; // Make sure it takes up space in the layout
+        mainmenu.style.transition = "opacity 0.5s ease-in-out"; // Smooth fade
+        setTimeout(function () {
+          figure.style.opacity = 1; // Fade in
+          mainmenu.style.opacity = 1; // Fade in
+        }, 500)
+      }
     }
   }
 
