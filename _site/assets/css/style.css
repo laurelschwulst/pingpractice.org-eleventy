@@ -497,8 +497,6 @@ body.transmission .content.transmission.hidden {
   display: none !important;
 }
 
-body.home nav#primary,
-body.home nav#ping-practice,
 body.home img.overlay,
 body.home img.overlay-app,
 body.home img.overlay-people,
