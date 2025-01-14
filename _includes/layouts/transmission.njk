@@ -3,12 +3,19 @@
 {% block content %}
 
 <nav id="transmissions">
-  <a href="/transmissions" class="spa-link">Back to Transmissions</a>
+  <a href="/transmissions" class="spa-link transmission-backlink">Back to Transmissions</a>
 </nav>
 
 <h1 class="hidden">{{ title }}</h1>
 
 {{ content | safe }}
+
+<nav id="bottom" class="simple">
+  <!-- <a href="#method" class="method-link button">← “Method”</a> -->
+  <a href="#transmissions" class="transmissions-link button"
+    >“Transmissions” ↑</a
+  >
+</nav>
 
 {% include "layouts/footer.njk" %}
 

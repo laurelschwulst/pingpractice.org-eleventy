@@ -127,6 +127,16 @@
         }, 500)
       }
     }
+
+    // transmission backlink at the bottom of a transmission page
+    const backToTransmissionButton = document.querySelector('nav#bottom a.transmissions-link')
+    backToTransmissionButton.addEventListener('click', () => {
+      setTimeout(() => {
+        const backToTransmissionsLink = document.querySelector('a.transmission-backlink')
+        console.log(backToTransmissionsLink)
+        backToTransmissionsLink?.click()
+      }, 500)
+    })
   }
 
   function $(sel, con) {
