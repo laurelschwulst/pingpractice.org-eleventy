@@ -80,7 +80,7 @@
       normalizedHref.split("/").length > 2;
 
     // Set the timeout duration: 3000ms if it's a transmission, otherwise 1500ms
-    const timeoutDuration = isTransmission ? 2000 : 1250;
+    const timeoutDuration = isTransmission ? 1500 : 1250;
 
     // Set the body class
     setTimeout(function () {
