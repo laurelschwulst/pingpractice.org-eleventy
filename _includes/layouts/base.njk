@@ -19,66 +19,26 @@
 
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     </head>
-    <body class="home">
+
+    {# determine the URL of the page and assign it to the class #}
+    {% if page.url == '/' %}
+        {% set cleanUrl = 'home' %}
+    {% elseif page.url == '/transmissions/' %}
+        {% set cleanUrl = 'transmissions' %}
+    {% elseif page.url.startsWith('/transmissions/') %}
+        {% set cleanUrl = 'transmission' %}
+    {% else %}
+        {% set cleanUrl = page.url.slice(1, -1) %}
+    {% endif %}
+
+    <body class="{{ cleanUrl }}">
         <div class="everything">
-            <header>
-                <nav id="ping-practice" class="hide">
-                    <a href="/" class="spa-link home-link">Ping Practice</a>
-                </nav>
-                <div id="main">
-                    <nav id="primary" class="hide">
-                    {% for individual_page in collections.pages %}
-                        <a href="{{ individual_page.url }}" class="spa-link {% if page.url == individual_page.url %}current{% endif %}">
-                        {{ individual_page.data.title }}
-                        </a>
-                    {% endfor %}
-                        <a href="/transmissions" class="spa-link {% if page.url == transmissions %}current{% endif %}">
-                            Transmissions
-                        </a>
-                    </nav>
-
-                    <figure class="pp preserve" data-preserve-id="unique-id-1">
-                        <img 
-                            src="/assets/images/pp-app-transparent.png" 
-                            class="overlay overlay-app" 
-                        />
-                        <img
-                            src="/assets/images/pp-method-transparent.png"
-                            class="overlay overlay-method"
-                        />
-                        <img
-                            src="/assets/images/pp-people-transparent.png"
-                            class="overlay overlay-people"
-                        />
-                        <img
-                            src="/assets/images/pp-ping-ping-transparent.png"
-                            class="overlay overlay-about"
-                        />
-                        <img src="/assets/images/pp.png" class="original" />
-                    </figure>
-                </div>
-            </header>
-            
-            {# {{ page.url | log }} #}
-            {% if page.url == '/' %}
-                {% set cleanUrl = 'home' %}
-            {% elseif page.url == '/transmissions/' %}
-                {% set cleanUrl = 'transmissions' %}
-            {% elseif page.url.startsWith('/transmissions/') %}
-                {% set cleanUrl = 'transmission' %}
-            {% else %}
-                {% set cleanUrl = page.url.slice(1, -1) %}
-            {% endif %}
-
-            
+            {% include "layouts/header.njk" %}
             <main class="{{ cleanUrl }}">
-
                 <div class="content {{ cleanUrl }} hidden">
                     {% block content %}{% endblock %}
                 </div>
-
             </main>
-        
         </div>
 
         <script src="{{ site.url }}/assets/js/jquery.min.js"></script>

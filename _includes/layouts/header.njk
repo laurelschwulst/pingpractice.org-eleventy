@@ -1,9 +1,9 @@
 <header>
-    <nav id="ping-practice" class="hide">
+    <nav id="ping-practice">
         <a href="/" class="spa-link home-link">Ping Practice</a>
     </nav>
     <div id="main">
-        <nav id="primary" class="hide">
+        <nav id="primary">
         {% for individual_page in collections.pages %}
             <a href="{{ individual_page.url }}" class="spa-link {% if page.url == individual_page.url %}current{% endif %}">
             {{ individual_page.data.title }}
@@ -13,28 +13,6 @@
                 Transmissions
             </a>
         </nav>
-        <nav id="transmissions">
-            <a href="/transmissions" class="spa-link">Back to Transmissions</a>
-        </nav>
-
-        <figure class="pp preserve" data-preserve-id="unique-id-1">
-            <img 
-                src="/assets/images/pp-app-transparent.png" 
-                class="overlay overlay-app" 
-            />
-            <img
-                src="/assets/images/pp-method-transparent.png"
-                class="overlay overlay-method"
-            />
-            <img
-                src="/assets/images/pp-people-transparent.png"
-                class="overlay overlay-people"
-            />
-            <img
-                src="/assets/images/pp-ping-ping-transparent.png"
-                class="overlay overlay-about"
-            />
-            <img src="/assets/images/pp.png" class="original" />
-        </figure>
+        {% include "layouts/figure.njk" %}
     </div>
 </header>
