@@ -15,6 +15,84 @@ $(function () {
     stamp.style.transform = `rotate(${randomRotation}deg)`;
   });
 
+  // ping slideshow
+
+  $(".next").click(function () {
+    showNextPing();
+    console.log("next ping!!!");
+  });
+
+  $(".prev").click(function () {
+    showPrevPing();
+    console.log("prev ping!!!");
+  });
+
+  const slideshowPings = document.querySelectorAll(".ping-slideshow div.ping");
+  const rollPings = document.querySelectorAll(".ping-roll div.ping");
+  let currentIndex = 0;
+
+  function showPing(index) {
+    // Update active state in slideshow
+    slideshowPings.forEach((ping, i) => {
+      ping.classList.toggle("active", i === index);
+    });
+
+    // Update border in ping roll
+    rollPings.forEach((ping, i) => {
+      ping.style.border =
+        i === index ? "1px solid rgba(0,0,0,0.5)" : "1px solid #f0f0f0";
+    });
+  }
+
+  function showNextPing() {
+    currentIndex = (currentIndex + 1) % slideshowPings.length;
+    showPing(currentIndex);
+  }
+
+  function showPrevPing() {
+    currentIndex =
+      (currentIndex - 1 + slideshowPings.length) % slideshowPings.length;
+    showPing(currentIndex);
+  }
+
+  // Initial setup
+  showPing(currentIndex);
+
+  // start original ping slideshow
+
+  // $(".next").click(function () {
+  //   showNextPing();
+  //   console.log("next ping!!!");
+  // });
+
+  // $(".prev").click(function () {
+  //   showPrevPing();
+  //   console.log("prev ping!!!");
+  // });
+
+  // const pings = document.querySelectorAll(".ping-slideshow div.ping");
+  // let currentIndex = 0;
+
+  // function showPing(index) {
+  //   pings.forEach((ping, i) => {
+  //     ping.classList.toggle("active", i === index);
+  //   });
+  // }
+
+  // function showNextPing() {
+  //   currentIndex = (currentIndex + 1) % pings.length;
+  //   showPing(currentIndex);
+  // }
+
+  // function showPrevPing() {
+  //   currentIndex = (currentIndex - 1 + pings.length) % pings.length;
+  //   showPing(currentIndex);
+  // }
+
+  // showPing(currentIndex);
+
+  // end original ping slideshow
+
   // HOME -> CLICK ANYWHERE TO ENTER
 
   // $("a.enter").click(function (e) {

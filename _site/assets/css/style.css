@@ -359,7 +359,8 @@ figure.pp {
 figure.pp .overlay,
 figure.pp .overlay-method,
 figure.pp .overlay-app,
-figure.pp .overlay-people {
+figure.pp .overlay-people,
+figure.pp .overlay-transmissions {
   position: absolute;
   top: 0;
   left: 0;
@@ -422,12 +423,14 @@ body.unload-transmission .content {
 body.home img.overlay,
 body.home img.overlay-app,
 body.home img.overlay-people,
+body.home img.overlay-transmissions,
 body.method img.overlay,
 body.about img.overlay-app,
 img.overlay,
 img.overlay-method,
 img.overlay-app,
-img.overlay-people {
+img.overlay-people,
+img.overlay-transmissions {
   opacity: 0;
   transition: 0.5s ease-in-out opacity;
 }
@@ -444,7 +447,8 @@ body.about .content.about,
 body.method .content.method,
 body.app .content.app,
 body.people .content.people,
-body.transmissions .content.transmissions {
+body.transmissions .content.transmissions
+/* body.transmissions img.overlay-transmissions */ {
   opacity: 1;
   transition: 0.5s ease-in-out opacity;
 }
@@ -523,6 +527,10 @@ cite.stamp {
   line-height: 1.5;
   margin: 3.5em 0 2em;
   margin-left: -0.75em;
+}
+
+span.author {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.25);
 }
 
 cite.stamp a.author {
@@ -654,8 +662,30 @@ div.ping.small .ping-content {
 
 .ping-controls div {
   cursor: pointer;
-  padding: 1em 2em;
+  padding: 0.5em 2em;
+  width: 100%;
+  text-align: center;
+  margin: 0 0.5em;
   display: inline-block;
+  border: 1px solid #eee;
+  border-bottom-color: #aaa;
+  border-right-color: #aaa;
+  /* font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica,
+    arial, sans-serif; */
+  font-size: 1.5em;
+  border-radius: 15px;
+}
+
+.ping-controls div:active {
+  border-color: #eee;
+  border-top-color: #aaa;
+  border-left-color: #aaa;
+  color: #565656;
+}
+
+.ping-controls div:focus {
+  outline: 1px dotted;
+  outline: 5px auto -webkit-focus-ring-color;
 }
 
 .ping-slideshow div.ping {
@@ -665,8 +695,21 @@ div.ping.small .ping-content {
 .ping-roll {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 0.25em;
+  grid-gap: 0.5em;
   width: 100%;
+}
+
+.ping-roll .ping-metadata {
+  display: none;
+}
+
+.ping-roll.special div.ping {
+  align-items: flex-start;
+  font-size: 0.25em;
+}
+
+.ping-roll.special div.ping .ping-content {
+  line-height: 1.25;
 }
 
 .ping-roll .ping-metadata {
@@ -691,6 +734,19 @@ div.ping.small .ping-content {
 
 .ping-roll.special div.ping .ping-content {
   line-height: 1.25;
+}
+
+.ping-roll div.ping {
+  width: 100%;
+  height: auto;
+  font-size: 0.31em;
+  border: 0;
+  aspect-ratio: 1/ 1;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  border-radius: 12px;
+  border: 1px solid #f0f0f0;
 }
 
 .ping-list div.ping {

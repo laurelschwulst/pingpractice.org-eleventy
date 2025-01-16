@@ -6,7 +6,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setTemplateFormats(["md", "njk"]);
 
   eleventyConfig.addCollection("transmissions", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("transmissions/**/*.md");
+    return collectionApi
+      .getFilteredByGlob("transmissions/**/*.md")
+      .sort((a, b) => {
+        return new Date(a.data.date) - new Date(b.data.date); // Chronological order
+      });
   });
 
   eleventyConfig.addCollection("pages", function (collectionApi) {

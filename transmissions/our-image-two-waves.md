@@ -1,18 +1,17 @@
 ---
 layout: layouts/transmission.njk
-title: Our Image — Two Waves
-date: 2024-09-04
+title: What is the gray image with two waves?
+date: 2025-01-30
 template: transmission
 ---
 
 <h1 class="transmission" style="margin-bottom: 0.25em;">
-              <span class="ping"></span> Our Image — Two Waves
+              <span class="ping"></span> What is the gray image with two waves?
             </h1>
-            <span class="gray small" style="display: inline-block; margin-left: 2.5em;">Last edited: <a href="">January 15, 2024</a></span><br><br>
 
           <figure style="float: left; margin-right: 1.5em">
             <img
-              src="assets/images/pp.png"
+              src="/assets/images/pp.png"
               alt="two subtle concentric ripples in a gray puddle that overlap slightly"
               style="width: 150px; height: auto; margin-top: 0.25em"
             />
@@ -63,6 +62,5 @@ template: transmission
               <i>Thank you for experiencing this transmission —</i><br />
               From: Laurel Schwulst with the help
             of Perry Bleiberg<br />
-              Sent on: January 15, 2024<br>
-              Last edited: January 15, 2024</a>
+              Sent on: January 15, 2024
             </cite>
