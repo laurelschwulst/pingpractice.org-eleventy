@@ -21,5 +21,8 @@ const TransmissionPreview = ({ entry, widgetFor }) => {
     `;
 };
 
+console.log("Registering PagePreview...");
 CMS.registerPreviewTemplate("pages", PagePreview);
+
+console.log("Registering TransmissionPreview...");
 CMS.registerPreviewTemplate("transmissions", TransmissionPreview);
