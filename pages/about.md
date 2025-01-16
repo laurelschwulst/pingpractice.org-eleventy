@@ -9,7 +9,7 @@ nav_order: 1
 
 Sometimes we encounter these ideas out in the world. Other times, we hear them in our minds. Sometimes they are language, other times feelings or thoughts. Whatever they are — they’re meaningful energy.
 
-In the Ping Practice universe, we call these resonances “Pings”. <sup>1234</sup>
+In the Ping Practice universe, we call these resonances “Pings”. <sup>123</sup>
 
 What — if anything — these “Pings” might mean and how we might use them is rarely clear in the moment. Their meaning often unfolds and evolves over time.
 
@@ -23,15 +23,43 @@ The method emerged through <a href="https://ping-practice.gitbook.io/pings/exper
 
 <i>How might I locate what I learn and experience in ways that equip me to apply them in the fleeting moments when I sense opportunities to do so?</i>
 
-Ping Practices continues to be shaped by an
+Ping Practices continue to be shaped by an
 <a
               href="https://ping-practice.gitbook.io/pings/references"
               target="_blank"
               >expansive body of pre-existing thought</a
             >
 and
-<a href="https://ping-practice.gitbook.io/pings/conversations"
+<a href="https://ping-practice.gitbook.io/pings/conversations" target="_blank"
               >through conversations</a
             >
 with <a href="/people/" class="low-link">people</a> who
 see making-meaning from what they experience as an act of survival.
+
+<hr />
+
+          <footer>
+            <ol>
+              <!-- <li>
+                <a
+                  href="https://anotherdayinthedome.substack.com/p/pings-from-the-universe"
+                  >https://anotherdayinthedome.substack.com/p/pings-from-the-universe</a
+                >
+              </li> -->
+              <li>
+                <a href="https://www.are.na/block/24322667" target="_blank"
+                  >https://www.are.na/block/24322667</a
+                >
+              </li>
+              <li>
+                <a href="https://ping-practice.gitbook.io/pings/method#ping" target="_blank"
+                  >https://ping-practice.gitbook.io/pings/method#ping</a
+                >
+              </li>
+              <li>
+                <a href="https://www.youtube.com/watch?v=SUcwBG3iskM" target="_blank"
+                  >https://www.youtube.com/watch?v=SUcwBG3iskM</a
+                >
+              </li>
+            </ol>
+          </footer>

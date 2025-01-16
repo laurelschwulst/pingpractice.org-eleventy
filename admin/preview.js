@@ -1,15 +1,18 @@
+console.log("Preview.js is loaded!");
+
 import CMS from "netlify-cms-app";
 
 // Custom preview for "Pages"
 const PagePreview = ({ entry, widgetFor }) => {
   const data = entry.getIn(["data"]).toJS();
+  console.log("PagePreview data:", data); // Debug the entry data in the console
 
   return `
-    <div class="page-preview" style="background-color: yellow; padding: 20px;">
-      <h1>${data.title}</h1>
-      <div class="content">${widgetFor("body")}</div>
-    </div>
-  `;
+      <div class="page-preview" style="background-color: yellow; padding: 20px;">
+        <h1>${data.title}</h1>
+        <div class="content">${widgetFor("body")}</div>
+      </div>
+    `;
 };
 
 // Custom preview for "Transmissions"

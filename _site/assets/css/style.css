@@ -319,6 +319,10 @@ footer ol li a {
   text-decoration: none;
 }
 
+footer ol li a:hover {
+  text-decoration: underline;
+}
+
 b.step {
   background: #f0f0f0;
 }

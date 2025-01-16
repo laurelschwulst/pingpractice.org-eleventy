@@ -23,7 +23,7 @@
       updateMainMenu(href);
       updateBodyClass(href);
       updateTransmissionLayout(href);
-      document.body.classList.remove('loading');
+      document.body.classList.remove("loading");
       resetFigure();
     };
     xhr.onerror = function () {
@@ -69,28 +69,32 @@
   }
 
   function updateBodyClass(href) {
-    const isTransmission = getIsTransmission(href)
+    const isTransmission = getIsTransmission(href);
     if (isTransmission) {
-      document.body.className = "transmission"
+      document.body.className = "transmission";
     } else {
       // Extract the last part of the URL path, or set to 'home' for the root
       const normalizedHref = normalizeUrl(href);
       const path = normalizedHref.split("/").filter(Boolean).pop() || "home";
-      document.body.className = path
+      document.body.className = path;
     }
   }
 
   function updateTransmissionLayout() {
     // transmission backlink at the bottom of a transmission page
-    const backToTransmissionButton = document.querySelector('nav#bottom a.transmissions-link')
+    const backToTransmissionButton = document.querySelector(
+      "nav#bottom a.transmissions-link"
+    );
     if (backToTransmissionButton) {
-      backToTransmissionButton.addEventListener('click', () => {
+      backToTransmissionButton.addEventListener("click", () => {
         setTimeout(() => {
-          const backToTransmissionsLink = document.querySelector('a.transmission-backlink')
-          console.log(backToTransmissionsLink)
-          backToTransmissionsLink?.click()
-        }, 500)
-      })
+          const backToTransmissionsLink = document.querySelector(
+            "a.transmission-backlink"
+          );
+          console.log(backToTransmissionsLink);
+          backToTransmissionsLink?.click();
+        }, 500);
+      });
     }
   }
 
@@ -131,7 +135,7 @@
       if (href.startsWith(baseUrl) || el.classList.includes("spa-link")) {
         console.log("handle SPA!!!!!!");
         evt.preventDefault();
-        handleSpaNavigation(href)
+        handleSpaNavigation(href);
       }
     }
   });
@@ -142,42 +146,43 @@
   });
 
   async function handleSpaNavigation(newHref) {
-    document.body.classList.add("loading")
+    document.body.classList.add("loading");
 
     // if we are navigating to transmission page, handle layout
-    const currentHref = document.location.href
-    const isNewHrefTransmission = getIsTransmission(newHref)
+    const currentHref = document.location.href;
+    const isNewHrefTransmission = getIsTransmission(newHref);
     if (isNewHrefTransmission) {
-      removeFigure()
-      await sleep(500)
-      resetFigure()
-      document.body.classList.add('transmission')
+      removeFigure();
+      await sleep(500);
+      resetFigure();
+      document.body.classList.add("transmission");
     }
 
     // if we are navigating away from transmission page, handle layout
-    const isCurrentHrefTransmission = getIsTransmission(currentHref)
-    const unloadTransmission = isCurrentHrefTransmission && !isNewHrefTransmission
+    const isCurrentHrefTransmission = getIsTransmission(currentHref);
+    const unloadTransmission =
+      isCurrentHrefTransmission && !isNewHrefTransmission;
     if (unloadTransmission) {
-      document.body.classList.add('unload-transmission')
+      document.body.classList.add("unload-transmission");
       setTimeout(() => {
-        document.body.classList.remove('unload-transmission')
-        document.body.classList.remove('transmission')
+        document.body.classList.remove("unload-transmission");
+        document.body.classList.remove("transmission");
         const mainmenu = document.querySelector("nav#primary");
         const figure = document.querySelector("figure.pp");
         mainmenu.style.opacity = 0;
         figure.style.opacity = 0;
-      }, 500)
+      }, 500);
     }
 
     // if we are navigating to home page, handle layout
-    if (newHref === '/') {
-      document.body.classList.add('home')
+    if (newHref === "/") {
+      document.body.classList.add("home");
     }
 
     // wait 500ms for fadeout animations, then load
     setTimeout(function () {
       load(newHref, true);
-    }, 1000);
+    }, 1250);
     // updateMainMenu(href);
   }
 
@@ -188,8 +193,8 @@
     const isTransmission =
       normalizedHref.startsWith("/transmissions/") &&
       normalizedHref.split("/").length > 2;
-    
-    return isTransmission
+
+    return isTransmission;
   }
 
   function removeFigure() {
@@ -202,11 +207,11 @@
   function resetFigure() {
     const mainmenu = document.querySelector("nav#primary");
     const figure = document.querySelector("figure.pp");
-    figure.style.opacity = ''
-    mainmenu.style.opacity = ''
+    figure.style.opacity = "";
+    mainmenu.style.opacity = "";
   }
 
   function sleep(time) {
-    return new Promise((resolve) => setTimeout(resolve, time))
+    return new Promise((resolve) => setTimeout(resolve, time));
   }
 })();
