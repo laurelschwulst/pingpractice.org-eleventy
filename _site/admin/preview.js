@@ -1,30 +1,28 @@
 import CMS from "netlify-cms-app";
 
-// Import your site's CSS
-import "../assets/styles/main.css"; // Adjust this path to match your project's CSS location
-
-// Register global preview styles
-CMS.registerPreviewStyle("/assets/styles/main.css");
-
-// Custom preview template for "Pages" collection
+// Custom preview for "Pages"
 const PagePreview = ({ entry, widgetFor }) => {
   const data = entry.getIn(["data"]).toJS();
 
-  return `<div class="page-preview">
+  return `
+    <div class="page-preview" style="background-color: yellow; padding: 20px;">
       <h1>${data.title}</h1>
       <div class="content">${widgetFor("body")}</div>
-    </div>`;
+    </div>
+  `;
 };
 
-// Custom preview template for "Transmissions" collection
+// Custom preview for "Transmissions"
 const TransmissionPreview = ({ entry, widgetFor }) => {
   const data = entry.getIn(["data"]).toJS();
 
-  return `<article class="transmission-preview">
+  return `
+    <article class="transmission-preview" style="background-color: yellow; padding: 20px;">
       <h1>${data.title}</h1>
       <time>${data.date}</time>
       <div class="content">${widgetFor("body")}</div>
-    </article>`;
+    </article>
+  `;
 };
 
 // Register preview templates
