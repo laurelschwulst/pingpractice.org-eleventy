@@ -34,19 +34,57 @@ collections:
         file: "pages/method.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Method Text", name: "body", widget: "markdown" }
+          - { label: "Navigation Order", name: "nav_order", widget: "number" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "layouts/page.njk",
+            }
+          - {
+              label: "Permalink",
+              name: "permalink",
+              widget: "hidden",
+              default: "/about/",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "App"
         name: "app"
         file: "pages/app.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "App Text", name: "body", widget: "markdown" }
+        - { label: "Title", name: "title", widget: "string" }
+          - { label: "Navigation Order", name: "nav_order", widget: "number" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "layouts/page.njk",
+            }
+          - {
+              label: "Permalink",
+              name: "permalink",
+              widget: "hidden",
+              default: "/about/",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "People"
         name: "people"
         file: "pages/people.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "People Text", name: "body", widget: "markdown" }
+          - { label: "Navigation Order", name: "nav_order", widget: "number" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "layouts/page.njk",
+            }
+          - {
+              label: "Permalink",
+              name: "permalink",
+              widget: "hidden",
+              default: "/about/",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
   - name: "transmissions"
     label: "Transmissions"
     folder: "transmissions"
