@@ -120,6 +120,10 @@ li {
   margin-top: 1em;
 }
 
+.small.gray {
+  pointer-events: none;
+}
+
 .bottom {
   position: absolute;
   bottom: 18px;
@@ -546,7 +550,7 @@ a.author {
 }
 
 figure.photo {
-  margin: 1.75em 0;
+  margin: 1.5em 0 1em;
 }
 
 div.ping {
@@ -569,6 +573,7 @@ div.ping {
   max-height: 459px;
   margin: 1.75em 0;
   position: relative;
+  pointer-events: none !important;
 }
 
 .ping-metadata.hidden {
