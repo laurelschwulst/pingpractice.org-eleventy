@@ -16,18 +16,6 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Navigation Order", name: "nav_order", widget: "number" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "layouts/page.njk",
-            }
-          - {
-              label: "Permalink",
-              name: "permalink",
-              widget: "hidden",
-              default: "/about/",
-            }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Method"
         name: "method"
@@ -35,36 +23,13 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Navigation Order", name: "nav_order", widget: "number" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "layouts/page.njk",
-            }
-          - {
-              label: "Permalink",
-              name: "permalink",
-              widget: "hidden",
-              default: "/about/",
-            }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "App"
         name: "app"
         file: "pages/app.md"
-        - { label: "Title", name: "title", widget: "string" }
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
           - { label: "Navigation Order", name: "nav_order", widget: "number" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "layouts/page.njk",
-            }
-          - {
-              label: "Permalink",
-              name: "permalink",
-              widget: "hidden",
-              default: "/about/",
-            }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "People"
         name: "people"
@@ -72,18 +37,6 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Navigation Order", name: "nav_order", widget: "number" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "layouts/page.njk",
-            }
-          - {
-              label: "Permalink",
-              name: "permalink",
-              widget: "hidden",
-              default: "/about/",
-            }
           - { label: "Body", name: "body", widget: "markdown" }
   - name: "transmissions"
     label: "Transmissions"

@@ -21,7 +21,7 @@ Ping Practice is a journaling <a href="/method" class="low-link">method</a> and 
 
 The method emerged through <a href="https://ping-practice.gitbook.io/pings/experiments" target="_blank">years of experimentation</a> orbiting a <a href="https://www.are.na/block/20196768" target="_blank">central question</a>:
 
-How might I locate what I learn and experience in ways that equip me to apply them in the fleeting moments when I sense opportunities to do so?
+<i>How might I locate what I learn and experience in ways that equip me to apply them in the fleeting moments when I sense opportunities to do so?</i>
 
 Ping Practices continues to be shaped by an
 <a
