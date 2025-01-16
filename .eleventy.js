@@ -5,10 +5,8 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setTemplateFormats(["md", "njk"]);
 
-  eleventyConfig.addCollection("transmissions", function (collection) {
-    return collection
-      .getAll()
-      .filter((item) => item.inputPath.startsWith("./transmissions/"));
+  eleventyConfig.addCollection("transmissions", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("transmissions/**/*.md");
   });
 
   eleventyConfig.addCollection("pages", function (collectionApi) {

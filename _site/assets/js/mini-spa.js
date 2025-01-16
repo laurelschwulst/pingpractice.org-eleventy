@@ -177,7 +177,7 @@
     // wait 500ms for fadeout animations, then load
     setTimeout(function () {
       load(newHref, true);
-    }, 500);
+    }, 1000);
     // updateMainMenu(href);
   }
 
