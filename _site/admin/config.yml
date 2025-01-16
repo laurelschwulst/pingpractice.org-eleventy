@@ -15,7 +15,20 @@ collections:
         file: "pages/about.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "About Text", name: "body", widget: "markdown" }
+          - { label: "Navigation Order", name: "nav_order", widget: "number" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "layouts/page.njk",
+            }
+          - {
+              label: "Permalink",
+              name: "permalink",
+              widget: "hidden",
+              default: "/about/",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "Method"
         name: "method"
         file: "pages/method.md"
@@ -41,4 +54,17 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Transmission Text", name: "body", widget: "markdown" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "layouts/transmission.njk",
+        }
+      - {
+          label: "Template",
+          name: "template",
+          widget: "hidden",
+          default: "transmission",
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
