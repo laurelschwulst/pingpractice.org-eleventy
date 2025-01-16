@@ -1,60 +1,3 @@
-# backend:
-#     name: git-gateway
-#     branch: main
-#     repo: laurelschwulst/alt-text-selfies
-
-# media_folder: "/assets/sounds"
-# public_folder: "/assets"
-
-# collections:
-#   - name: "selfies"
-#     label: "Selfies"
-#     folder: "selfies"
-#     create: true
-#     slug: "{{slug}}"
-#     fields:
-#       - { label: "Title", name: "title", widget: "string" }
-#       - { label: "Selfie Text", name: "body", widget: "markdown" }
-#       - { label: "Is in chapbook?", name: "is-in-chapbook", widget: "boolean", default: false }
-#       - { label: "Audio", name: "audio", widget: "file", required: false, media_folder: "/assets/sounds" }
-#       - { label: "Transcript", name: "transcript", widget: "file", required: false, media_folder: "/assets/selfie-transcripts", hint: "See [this doc](https://github.com/laurelschwulst/alt-text-selfies/blob/main/docs/selfies-with-audio.md) for info on generating the transcript file for a selfie with audio." }
-#   - name: "essays"
-#     label: "Essays"
-#     folder: "essays"
-#     create: true
-#     slug: "{{slug}}"
-#     fields:
-#       - { label: "Title", name: "title", widget: "string" }
-#       - { label: "Author", name: "author", widget: "string" }
-#       - { label: "Essay Text", name: "body", widget: "markdown" }
-#   - name: "pages"
-#     label: "Pages"
-#     files:
-#       - label: "Welcome"
-#         name: "welcome"
-#         file: "welcome.md"
-#         fields:
-#           - { label: "Title", name: "title", widget: "string" }
-#           - { label: "Welcome Text", name: "body", widget: "markdown" }
-#       - label: "Book"
-#         name: "book"
-#         file: "book.md"
-#         fields:
-#           - { label: "Title", name: "title", widget: "string" }
-#           - { label: "Book Text", name: "body", widget: "markdown" }
-#       - label: "About"
-#         name: "about"
-#         file: "about.md"
-#         fields:
-#           - { label: "Title", name: "title", widget: "string" }
-#           - { label: "About Text", name: "body", widget: "markdown" }
-#       - label: "Links"
-#         name: "links"
-#         file: "links.md"
-#         fields:
-#           - { label: "Title", name: "title", widget: "string" }
-#           - { label: "Links Text", name: "body", widget: "markdown" }
-
 backend:
   name: git-gateway
   branch: master
@@ -75,19 +18,19 @@ collections:
           - { label: "About Text", name: "body", widget: "markdown" }
       - label: "Method"
         name: "method"
-        file: "method.md"
+        file: "pages/method.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Method Text", name: "body", widget: "markdown" }
       - label: "App"
         name: "app"
-        file: "app.md"
+        file: "pages/app.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "App Text", name: "body", widget: "markdown" }
       - label: "People"
         name: "people"
-        file: "people.md"
+        file: "pages/people.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "People Text", name: "body", widget: "markdown" }
@@ -98,5 +41,4 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      # - { label: "Author", name: "author", widget: "string" }
       - { label: "Transmission Text", name: "body", widget: "markdown" }
