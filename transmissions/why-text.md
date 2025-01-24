@@ -1,15 +1,14 @@
 ---
-layout: layouts/transmission.njk
 title: Why text?
 date: 2025-01-23
+layout: layouts/transmission.njk
 template: transmission
 ---
-
 <h1 class="transmission" style="margin-bottom: 0.25em;">
               <span class="ping"></span> Why text?
             </h1>
 
-<p> While some pings are pre-language, we believe text is the easiest to begin building with. Text felt intuitive to us. It’s durable and lightweight. It’s by no means exhaustive, but it’s a simple way to start.
+<p> While some pings are pre-language, we believe text is the easiest to begin building with. Text felt intuitive to us. It is durable and lightweight. It’s by no means exhaustive, but it’s a simple way to start.
 </p>
 
 <hr>
@@ -22,8 +21,10 @@ template: transmission
 
 <p>For the initial <a href="/people" class="low-link">set of practitioners</a>, this medium is text. It’s durable, lightweight and by no means exhaustive. Though, it’s  a place to start.</p>
 
-          <cite class="stamp">
-            <i>Thank you for experiencing this transmission —</i><br />
-            From: Peter Pelberg<br />
-            Sent on: January ??, 2025
-          </cite>
+```
+      <cite class="stamp">
+        <i>Thank you for experiencing this transmission —</i><br />
+        From: Peter Pelberg<br />
+        Sent on: January ??, 2025
+      </cite>
+```
