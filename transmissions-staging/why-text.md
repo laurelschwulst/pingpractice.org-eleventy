@@ -1,9 +1,10 @@
 ---
 title: Why text?
-date: 2025-01-23
+date: 2025-02-25
 layout: layouts/transmission.njk
 template: transmission
 ---
+
 <h1 class="transmission" style="margin-bottom: 0.25em;">
               <span class="ping"></span> Why text?
             </h1>

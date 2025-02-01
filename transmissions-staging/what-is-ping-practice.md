@@ -1,7 +1,7 @@
 ---
 layout: layouts/transmission.njk
 title: What is Ping Practice?
-date: 2025-01-21
+date: 2025-02-18
 template: transmission
 ---
 

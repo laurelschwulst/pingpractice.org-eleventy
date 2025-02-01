@@ -1,23 +1,20 @@
 ---
-permalink: /transmissions/
+permalink: /transmissions-staging/
 ---
 
 {% extends "layouts/base.njk" %}
 
 {% block content %}
 
-{% if collections.transmissions | length > 0 %}
-    {% for transmission in collections.transmissions %}
-    <p class="transmission">
-        <span class="ping"></span>
-        <a href="{{ transmission.url }}" class="spa-link">
-        {{ transmission.data.title }}
-        </a>
-    </p>
-    {% endfor %}
-{% else %}
-    <p><i>Coming soon</i></p>
-{% endif %}
+{% for transmission in collections.transmissions_staging %}
+<p class="transmission">
+    <span class="ping"></span>
+    <a href="{{ transmission.url }}" class="spa-link">
+    {{ transmission.data.title }}
+    </a>
+    <span class="gray small" style="display: inline-bock; margin-left: 0.5em;">{{ transmission.date | readableDate }}</span>
+</p>
+{% endfor %}
 <br>
 <hr>
 

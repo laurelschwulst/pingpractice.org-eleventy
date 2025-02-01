@@ -1,7 +1,7 @@
 ---
 layout: layouts/transmission.njk
 title: What is the gray image with two waves?
-date: 2025-01-30
+date: 2025-03-11
 template: transmission
 ---
 

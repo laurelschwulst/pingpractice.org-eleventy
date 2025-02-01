@@ -1,7 +1,7 @@
 ---
 layout: layouts/transmission.njk
 title: What is a Ping?
-date: 2025-01-20
+date: 2025-02-11
 template: transmission
 ---
 
