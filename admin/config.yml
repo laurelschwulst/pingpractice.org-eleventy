@@ -61,7 +61,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "transmissions_staging"
     label: "Transmissions Staging"
-    folder: "transmissions-saging"
+    folder: "transmissions-staging"
     create: true
     slug: "{{slug}}"
     fields:
