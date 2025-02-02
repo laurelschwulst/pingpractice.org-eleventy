@@ -26,3 +26,6 @@ CMS.registerPreviewTemplate("pages", PagePreview);
 
 console.log("Registering TransmissionPreview...");
 CMS.registerPreviewTemplate("transmissions", TransmissionPreview);
+
+console.log(CMS.getPreviewStyles()); // Check if styles are registered
+console.log(CMS.getPreviewTemplates()); // Check registered templates
