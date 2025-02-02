@@ -1,12 +1,14 @@
 console.log("Preview.js is loaded!");
 
-const PagePreview = () => {
+const PagePreview = ({ entry }) => {
   console.log("PagePreview executed!"); // Debug log
-  return `
-      <div style="background-color: yellow; height: 100px; padding: 20px;">
-        <h1>Custom Template Applied!</h1>
-      </div>
-    `;
+  return React.createElement(
+    "div",
+    { style: { backgroundColor: "yellow", padding: "20px" } },
+    React.createElement("h1", null, "Custom Template Applied!"),
+    React.createElement("h2", null, entry.getIn(["data", "title"])),
+    React.createElement("div", null, entry.getIn(["data", "body"]))
+  );
 };
 
 const TransmissionPreview = ({ entry, widgetFor }) => {
@@ -27,5 +29,4 @@ CMS.registerPreviewTemplate("pages", PagePreview);
 console.log("Registering TransmissionPreview...");
 CMS.registerPreviewTemplate("transmissions", TransmissionPreview);
 
-console.log(CMS.getPreviewStyles()); // Check if styles are registered
-console.log(CMS.getPreviewTemplates()); // Check registered templates
+CMS.registerPreviewStyle("/admin/custom-preview.css");
