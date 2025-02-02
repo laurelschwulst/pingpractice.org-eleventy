@@ -3,12 +3,10 @@ layout: layouts/transmission.njk
 title: Why an app?
 date: 2025-03-04
 template: transmission
+authors: Laurel Schwulst & Peter Pelberg
+began_date: 2024-08-15
+# last_edited_date:
 ---
-
-<h1 class="transmission" style="margin-bottom: 0.25em;">
-              <span class="ping"></span> Why an app?
-            </h1>
-            <span class="gray small" style="display: inline-block; margin-left: 2.5em;">Last edited: <a href="">January 25, 2025</a></span><br><br>
 
             <p>A smartphone app is just one of many tools in everyday life. Like other apps, it has pros and cons.</p>
 
@@ -46,9 +44,3 @@ template: transmission
           <p>
             We have faith that there will be some small number of pings that you want to share — either with another person, a group of people, or even more publicly — to refer to over time.
           </p>
-
-          <cite class="stamp">
-            <i>Thank you for experiencing this transmission —</i><br />
-            From: Laurel Schwulst & Peter Pelberg<br />
-            Sent on: January 25, 2025
-          </cite>

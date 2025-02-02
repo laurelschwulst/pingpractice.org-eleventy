@@ -3,12 +3,10 @@ layout: layouts/transmission.njk
 title: What is a Ping?
 date: 2025-02-11
 template: transmission
+authors: Laurel Schwulst & Peter Pelberg
+began_date: 2024-08-15
+# last_edited_date:
 ---
-
-<h1 class="transmission" style="margin-bottom: 0.25em;">
-              <span class="ping"></span> What is a Ping?
-            </h1>
-            <span class="gray small" style="display: inline-block; margin-left: 2.5em;">Last edited: <a href="">January 25, 2025</a></span><br><br>
 
 <p>A ping is a tiny resonant message from the universe.</p>
           <div class="ping">
@@ -98,11 +96,3 @@ template: transmission
           <hr>
 
           <i>If you'd like to learn more about pings from a more elemental lens, feel free to visit our <a href="/method" class="low-link">method</a>.</i>
-
-
-
-          <cite class="stamp">
-            <i>Thank you for experiencing this transmission —</i><br />
-            From: Laurel Schwulst & Peter Pelberg<br />
-            Sent on: January 25, 2025
-          </cite>

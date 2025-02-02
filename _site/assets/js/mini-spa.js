@@ -191,7 +191,8 @@
 
     // Check if the URL starts with /transmissions/ and has more than 2 segments
     const isTransmission =
-      normalizedHref.startsWith("/transmissions/") &&
+      (normalizedHref.startsWith("/transmissions/") ||
+        normalizedHref.startsWith("/transmissions-staging/")) &&
       normalizedHref.split("/").length > 2;
 
     return isTransmission;

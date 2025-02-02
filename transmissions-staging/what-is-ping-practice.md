@@ -3,12 +3,10 @@ layout: layouts/transmission.njk
 title: What is Ping Practice?
 date: 2025-02-18
 template: transmission
+authors: Peter Pelberg & Laurel Schwulst
+began_date: 2024-08-15
+# last_edited_date:
 ---
-
-<h1 class="transmission" style="margin-bottom: 0.25em;">
-              <span class="ping"></span> What is Ping Practice?
-            </h1>
-            <span class="gray small" style="display: inline-block; margin-left: 2.5em;">Last edited: <a href="">January 25, 2025</a></span><br><br>
 
 <div class="ping medium">
               <div class="ping-content">A camera roll for your thoughts —</div>
@@ -88,9 +86,3 @@ template: transmission
               </li>
             </ol>
           </footer>
-
-          <cite class="stamp">
-            <i>Thank you for experiencing this transmission —</i><br />
-            From: Peter Pelberg & Laurel Schwulst<br />
-            Sent on: January 25, 2025
-          </cite>

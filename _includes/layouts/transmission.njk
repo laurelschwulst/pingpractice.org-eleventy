@@ -8,7 +8,26 @@
 
 <h1 class="hidden">{{ title }}</h1>
 
+<h1 class="transmission" style="margin-bottom: 0.25em;">
+  <span class="ping"></span> {{ title }}
+</h1>
+
+{% if last_edited_date %}
+  <span class="gray small" style="display: inline-block; margin-left: 2.5em;">
+    Last edited: <a href="">{{ last_edited_date | readableDate }}</a>
+  </span>
+  <br><br>
+{% endif %}
+
 {{ content | safe }}
+
+<cite class="stamp">
+  <i>Thank you for experiencing this transmission —</i><br />
+  From: {{ authors }} <br />
+  {% if began_date %}Began on: {{ began_date | readableDate }}<br />{% endif %}
+  Sent on: {{ date | readableDate }}
+  {% if last_edited_date %}<br /><i style="opacity: 0.5;">Last edited on: {{ last_edited_date | readableDate }}</i>{% endif %}
+</cite>
 
 <nav id="bottom" class="simple">
   <!-- <a href="#method" class="method-link button">← “Method”</a> -->

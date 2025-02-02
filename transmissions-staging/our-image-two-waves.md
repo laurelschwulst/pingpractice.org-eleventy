@@ -3,11 +3,10 @@ layout: layouts/transmission.njk
 title: What is the gray image with two waves?
 date: 2025-03-11
 template: transmission
+authors: Laurel Schwulst
+began_date: 2024-08-15
+last_edited_date: 2025-03-15
 ---
-
-<h1 class="transmission" style="margin-bottom: 0.25em;">
-              <span class="ping"></span> What is the gray image with two waves?
-            </h1>
 
           <figure style="float: left; margin-right: 1.5em">
             <img
@@ -56,11 +55,3 @@ template: transmission
             >
             for helping us track its origin!
           </p>
-
-            <cite class="stamp">
-              <!-- *<br /><br /> -->
-              <i>Thank you for experiencing this transmission —</i><br />
-              From: Laurel Schwulst with the help
-            of Perry Bleiberg<br />
-              Sent on: January 15, 2024
-            </cite>

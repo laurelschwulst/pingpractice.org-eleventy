@@ -59,3 +59,24 @@ collections:
           default: "transmission",
         }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "transmissions_staging"
+    label: "Transmissions Staging"
+    folder: "transmissions-saging"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "layouts/transmission.njk",
+        }
+      - {
+          label: "Template",
+          name: "template",
+          widget: "hidden",
+          default: "transmission",
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
