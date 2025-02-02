@@ -1,43 +1,30 @@
 console.log("Preview.js is loaded!");
 
-const PagePreview = ({ entry }) => {
-  console.log("PagePreview executed!"); // Debug log
-  console.log("entry object: ", entry); // Inspect entry object
+// Check if CMS is initialized
+console.log("CMS instance: ", CMS);
 
-  // Try accessing raw data structure to debug
-  const title = entry.getIn
-    ? entry.getIn(["data", "title"])
-    : "No title available";
-  const content = entry.getIn
-    ? entry.getIn(["data", "body"])
-    : "No content available";
-
-  console.log("PagePreview data: ", title, content); // Check if data is accessible
-
+// Simple static preview to test if templates are rendering
+const StaticPreview = () => {
+  console.log("StaticPreview executed!"); // Debug log
   return React.createElement(
     "div",
     { style: { backgroundColor: "yellow", padding: "20px" } },
-    React.createElement("h1", null, title),
-    React.createElement("div", null, content)
+    React.createElement("h1", null, "Static Title"),
+    React.createElement("div", null, "This is some static content for testing.")
   );
 };
 
-console.log("Registering PagePreview...");
-CMS.registerPreviewTemplate("pages", PagePreview);
+// Debug logs for CMS registration
+console.log("Registering StaticPreview...");
+CMS.registerPreviewTemplate("pages", StaticPreview);
 
 console.log("Registering TransmissionPreview...");
 CMS.registerPreviewTemplate("transmissions", (entry) => {
   console.log("entry object: ", entry); // Inspect entry object for transmissions
-  const title = entry.getIn
-    ? entry.getIn(["data", "title"])
-    : "No title available";
-  const content = entry.getIn
-    ? entry.getIn(["data", "body"])
-    : "No content available";
   return `
     <article style="background-color: yellow; padding: 20px;">
-      <h1>${title}</h1>
-      <div>${content}</div>
+      <h1>Static Title for Transmission</h1>
+      <div>This is some static content for testing.</div>
     </article>
   `;
 });
