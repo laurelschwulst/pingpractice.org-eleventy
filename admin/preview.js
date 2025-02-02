@@ -1,15 +1,13 @@
 console.log("Preview.js is loaded!");
 
-const StaticPreview = (props) => {
-  console.log("StaticPreview executed!!!", props);
+const StaticPreview = ({ entry }) => {
+  console.log("StaticPreview executed!!!", entry);
 
-  // Ensure entry exists before accessing data
-  if (!props || !props.entry) {
-    console.error("Error: entry is missing!", props);
+  if (!entry) {
+    console.error("Error: entry is missing!", entry);
     return React.createElement("div", null, "Error: No entry data available");
   }
 
-  const entry = props.entry; // Explicitly define
   const title = entry.getIn(["data", "title"]) || "No title";
   const content = entry.getIn(["data", "body"]) || "No content";
 
@@ -25,10 +23,11 @@ const StaticPreview = (props) => {
 
 console.log("Registering StaticPreview...");
 
-// Dynamically register preview templates for all pages
-["about", "method", "app", "people"].forEach((page) => {
-  console.log(`Registering template for: ${page}`);
-  CMS.registerPreviewTemplate(page, StaticPreview);
-});
+CMS.registerPreviewTemplate("about", StaticPreview);
+CMS.registerPreviewTemplate("method", StaticPreview);
+CMS.registerPreviewTemplate("app", StaticPreview);
+CMS.registerPreviewTemplate("people", StaticPreview);
 
 CMS.registerPreviewStyle("/admin/custom-preview.css");
+
+console.log("Preview registration complete.");
