@@ -3,9 +3,11 @@ console.log("Preview.js is loaded!");
 const PagePreview = ({ entry }) => {
   console.log("PagePreview executed!"); // Debug log
 
-  // Test custom data (use fallback in case data is not available)
+  // Fallback in case data is not available
   const title = entry.getIn(["data", "title"]) || "No title available";
   const content = entry.getIn(["data", "body"]) || "No content available";
+
+  console.log("PagePreview data: ", title, content); // Check if data is accessible
 
   return React.createElement(
     "div",
