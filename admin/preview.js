@@ -2,10 +2,15 @@ console.log("Preview.js is loaded!");
 
 const PagePreview = ({ entry }) => {
   console.log("PagePreview executed!"); // Debug log
+  console.log("entry object: ", entry); // Inspect entry object
 
-  // Fallback in case data is not available
-  const title = entry.getIn(["data", "title"]) || "No title available";
-  const content = entry.getIn(["data", "body"]) || "No content available";
+  // Try accessing raw data structure to debug
+  const title = entry.getIn
+    ? entry.getIn(["data", "title"])
+    : "No title available";
+  const content = entry.getIn
+    ? entry.getIn(["data", "body"])
+    : "No content available";
 
   console.log("PagePreview data: ", title, content); // Check if data is accessible
 
@@ -22,8 +27,13 @@ CMS.registerPreviewTemplate("pages", PagePreview);
 
 console.log("Registering TransmissionPreview...");
 CMS.registerPreviewTemplate("transmissions", (entry) => {
-  const title = entry.getIn(["data", "title"]) || "No title available";
-  const content = entry.getIn(["data", "body"]) || "No content available";
+  console.log("entry object: ", entry); // Inspect entry object for transmissions
+  const title = entry.getIn
+    ? entry.getIn(["data", "title"])
+    : "No title available";
+  const content = entry.getIn
+    ? entry.getIn(["data", "body"])
+    : "No content available";
   return `
     <article style="background-color: yellow; padding: 20px;">
       <h1>${title}</h1>
