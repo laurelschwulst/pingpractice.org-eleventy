@@ -10,7 +10,7 @@ We think it’s important that you be able to capture Pings in a medium:
 2. Is usually within reach
 3. Serves the art you are ultimately making
 
-We also recognize that the above will mean different mediums for different people.
+We also think the above will mean different mediums for different people.
 
 For the initial set of practitioners, this medium is text. It’s durable, lightweight, and serves the writing we do.
 
