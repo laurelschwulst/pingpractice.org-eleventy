@@ -5,7 +5,11 @@ layout: layouts/transmission.njk
 template: transmission
 authors: Peter Pelberg & Laurel Schwulst
 began_date: 2024-08-15
+sent_date: 2024-08-15
+# last_edited_date:
 ---
+
+<!-- You might remember that we talked <a href="../what-is-a-ping">what a ping</a> is before. -->
 
 <div class="ping medium">
               <div class="ping-content">A camera roll for your thoughts —</div>

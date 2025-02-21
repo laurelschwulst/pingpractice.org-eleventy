@@ -25,8 +25,8 @@
   <i>Thank you for experiencing this transmission —</i><br />
   From: {{ authors }} <br />
   {% if began_date %}Began on: {{ began_date | readableDate }}<br />{% endif %}
-  Sent on: {{ date | readableDate }}
-  {% if last_edited_date %}<br /><i style="opacity: 0.5;">Last edited on: {{ last_edited_date | readableDate }}</i>{% endif %}
+  Sent on: {{ sent_date | readableDate }}
+  <br /><i style="opacity: 0.5;">Last edited on: {{ date | readableDate }}</i>
 </cite>
 
 <nav id="bottom" class="simple">
