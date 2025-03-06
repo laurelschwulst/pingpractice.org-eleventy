@@ -8,7 +8,7 @@ began_date: 2024-08-15
 sent_date: 2025-03-05T21:12:00.000Z
 ---
 
-<p>A Ping is a tiny resonant message from the universe.</p>
+<p>A Ping is a tiny resonant message from the universe. Energetic information without intrinsic valence.</p>
           <div class="ping">
             <div class="ping-metadata variation hidden">9:15am &nbsp;&bull;&nbsp; Monday, July 22, 2024</div>
             <div class="ping-content">Learning is the future</div>
@@ -68,11 +68,11 @@ sent_date: 2025-03-05T21:12:00.000Z
             <img src="/assets/images/what-is-a-ping-app-simple-ripple.png">
 
           </figure>
-          <p>By default, Pings are meant to be internal, local to your inner world.  <!-- That said, unless you publish a ping, your (author) name need not appear.</p>
+          <p>By default, Pings are meant to be internal, local to your inner world.  <!-- That said, unless you publish a ping, your (author) name need not appear.</p> -->
           <figure class="photo">
             <img src="/assets/images/what-is-a-ping-journal-square.jpg">
 
-          </figure> -->
+          </figure> 
           <p>If you record Pings with pen & paper, you may only have time to jot down the date. This can still be useful, so use whatever medium(s) best suit you.</p>
           <figure class="photo">
             <img src="/assets/images/what-is-a-ping-notes-app.png">
@@ -81,6 +81,9 @@ sent_date: 2025-03-05T21:12:00.000Z
           <p>
               Relatedly, you can use existing notes apps for Pings, simply by using the word “Ping.” Later on, after multiple Pings have accumulated, searching for the word “Ping” allows you to look through past Pings.
             </p>
+     <p>
+Regardless of where you record Pings, we are ready to receive them when we are open, available to feel. Ping Practices challenge the notion that sensing and 
+        </p>
 
           <hr>
 
@@ -95,5 +98,5 @@ sent_date: 2025-03-05T21:12:00.000Z
 
           <hr>
 
-          <i>If you'd like to learn more about pings from a more elemental lens, feel free to visit our <a href="/method" class="low-link">method</a>.</i>
+          <i>If you'd like to learn more about Pings from a more elemental lens, feel free to visit our <a href="/method" class="low-link">method</a>.</i>
 
