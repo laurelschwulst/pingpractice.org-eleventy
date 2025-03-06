@@ -82,7 +82,12 @@ sent_date: 2025-03-05T21:12:00.000Z
               Relatedly, you can use existing notes apps for Pings, simply by using the word “Ping.” Later on, after multiple Pings have accumulated, searching for the word “Ping” allows you to look through past Pings.
             </p>
      <p>
-Regardless of where you record Pings, we are ready to receive them when we are open, available to feel. Ping Practices challenge the notion that sensing and 
+Regardless of where you record Pings, "hearing" them depends on an open posture and a willingness to try on the idea that sensing and making sense can happen in different moments.
+
+We resonate with how <a href="https://en.wikipedia.org/wiki/Masanobu_Fukuoka">Masanobu Fukuoka</a> puts it in <a href="https://search.worldcat.org/title/one-straw-revolution-an-introduction-to-natural-farming/oclc/251203919">The One-Straw Revolution (1975): </a> 
+ <i>
+"Nature, or the body itself, serves as a capable guide. But this subtle guidance goes unheard by most people because of the clamor caused by desire and by the activity of the discriminating mind."
+  </i>
         </p>
 
           <hr>
