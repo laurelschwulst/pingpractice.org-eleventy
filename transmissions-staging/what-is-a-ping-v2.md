@@ -51,9 +51,9 @@ sent_date: 2025-03-05T21:12:00.000Z
             </li>
 
             <li>
-              <b>ID & Author</b>
+              <b>ID</b>
               <br>
-              <i>sharing this Ping;s place within the receiver's broader “Ping Practice”</i>
+              <i>sharing this Ping's place within the receiver's broader “Ping Practice”</i>
               <br>
               <span class="small gray">Ping 188 of 322 &nbsp;&bull;&nbsp; <span class="author">Laurel Schwulst</span></span>
             </li>
