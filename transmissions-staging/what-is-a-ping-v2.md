@@ -51,7 +51,7 @@ sent_date: 2025-03-05T21:12:00.000Z
               <br>
               <i>sharing this Ping’s referenceable place within the receiver’s broader practice</i>
               <br>
-              <span class="small gray">Ping 188&nbsp;&bull;&nbsp</span>
+              <span class="small gray">Ping 188</span>
             </li>
           </ol>
           <p>
