@@ -1,11 +1,11 @@
 ---
 title: What is a Ping?
-date: 2025-02-28T00:00:00.000Z
+date: 2025-03-11T21:07:00.000Z
 layout: layouts/transmission.njk
 template: transmission
 authors: Laurel Schwulst & Peter Pelberg
 began_date: 2024-08-15
-sent_date: 2025-03-05T21:12:00.000Z
+sent_date: 2025-03-14T04:00:00.000Z
 ---
 
 <p>A Ping is a tiny resonant message from the universe.</p>
