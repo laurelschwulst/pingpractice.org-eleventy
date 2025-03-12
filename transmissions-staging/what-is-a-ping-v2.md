@@ -91,7 +91,7 @@ Choosing to record a Ping – be it with your hands or thumbs – helps build yo
  <p>
 And remember: "hearing" Pings depends on a willingness to:
 <ul>
-<li>Try Decoupling sensing from sense making</li>
+<li>Decouple sensing from sense making</li>
 <li>Believe that within and between Pings lie clues to new meaning and insight</li>
 </ul> 
    <hr>
