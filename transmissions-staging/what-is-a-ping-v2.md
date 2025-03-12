@@ -82,11 +82,14 @@ Later on, searching for the word “Ping” will reveal the set of energetic mes
            <img src="/assets/images/what-is-a-ping-app-simple-ripple.png">
          </figure>
 <p>
-If you are (or would like to) experimenting with the <a href="https://pingpractice.org/app/" target="_blank">app</a> we’re developing, you'll notice Pings are packaged automatically. 
+If you experimenting (or would like to) with the <a href="https://pingpractice.org/app/" target="_blank">app</a> we’re developing, you'll notice Pings are packaged automatically. 
 
 </p>
      <p>
-Choosing to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you and remember: <strong>"hearing" Pings depends on an open posture and a willingness to try on the idea that sensing and making sense can happen in different moments.</strong>
+Choosing to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.
+</p>
+ <p>
+<strong>And remember</strong>: "hearing" Pings depends on an open posture and a willingness to try on the idea that sensing and making sense can happen in different moments.
 
    <hr>
 
