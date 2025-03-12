@@ -65,7 +65,11 @@ sent_date: 2025-03-05T21:12:00.000Z
 
           </figure> 
         
-          <p>If you record Ping with pen & paper, there may only be time to jot down the date. Choosing to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.</p>
+          <p>
+If you record Ping with pen & paper, there may only be time to jot down the date. 
+</p> 
+<p>
+Choosing to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.</p>
          <figure class="photo">
             <img src="/assets/images/what-is-a-ping-notes-app.png">
 
