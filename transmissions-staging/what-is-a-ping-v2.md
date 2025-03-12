@@ -24,7 +24,7 @@ sent_date: 2025-03-14T04:00:00.000Z
           <div class="ping">
             <div class="ping-metadata variation">9:15am &nbsp;&bull;&nbsp; Monday, July 22, 2024</div>
             <div class="ping-content">Learning is the future</div>
-            <div class="ping-metadata id">Ping 188 of 322 &nbsp;&bull;&nbsp; <span class="author">Laurel Schwulst</span></div>
+            <div class="ping-metadata id">Ping 188&nbsp;&bull;&nbsp; <span class="author">Laurel Schwulst</span></div>
           </div>
           <p>
           In this way, you can think of a Ping as a place to start from, and the metadata that accompanies each one, as markers to help you find your way back when you’re open to reflecting.
