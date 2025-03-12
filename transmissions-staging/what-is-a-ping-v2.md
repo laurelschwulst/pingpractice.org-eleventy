@@ -7,16 +7,16 @@ authors: Laurel Schwulst & Peter Pelberg
 began_date: 2024-08-15
 sent_date: 2025-03-14T04:00:00.000Z
 ---
- <figure class="photo">
+<!-- <figure class="photo">
             <img src="/assets/media/pingpractice.png">
 
-          </figure> 
+          </figure> -->
 <p>A Ping is a tiny resonant message from the universe.</p>
 
           <div class="ping">
             <div class="ping-metadata variation hidden">9:15am &nbsp;&bull;&nbsp; Monday, July 22, 2024</div>
             <div class="ping-content">Learning is the future</div>
-            <div class="ping-metadata id hidden">Ping 188 of 322 &nbsp;&bull;&nbsp; <span class="author">Laurel Schwulst</span></div>
+            <div class="ping-metadata id hidden">Ping 188&nbsp;&bull;&nbsp; <span class="author">Laurel Schwulst</span></div>
           </div>
           <p>
              What a Ping might mean, and how/if you might use it is rarely clear in the moment. 
@@ -86,7 +86,7 @@ Later on, searching for the word “Ping” will reveal the set of energetic mes
            <img src="/assets/images/what-is-a-ping-app-simple-ripple.png">
          </figure>
 <p>
-If you're experimenting (or <a href="https://docs.google.com/forms/d/1Aa1w-QsuuN9waNCW_UCEq925PwrJQ3QTEe3NDQVbpfA/edit" target="_blank">would like to</a>) with the <a href="https://pingpractice.org/app/" target="_blank">app</a> we’re developing, you'll notice Pings are packaged automatically. 
+If you're experimenting with the <a href="https://pingpractice.org/app/" target="_blank">app we're developing</a> (or <a href="https://docs.google.com/forms/d/1Aa1w-QsuuN9waNCW_UCEq925PwrJQ3QTEe3NDQVbpfA/edit" target="_blank">would like to</a>), you'll notice Pings are packaged automatically. 
 
 </p>
 
