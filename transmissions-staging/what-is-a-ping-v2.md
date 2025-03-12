@@ -89,7 +89,7 @@ If you experimenting (or would like to) with the <a href="https://pingpractice.o
 Choosing to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.
 </p>
  <p>
-<strong>And remember</strong>: "hearing" Pings depends on an open posture and a willingness to try on the idea that sensing and making sense can happen in different moments.
+And remember: "hearing" Pings depends on an open posture and a willingness to try on the idea that sensing and making sense can happen in different moments.
 
    <hr>
 
