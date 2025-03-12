@@ -75,17 +75,21 @@ Choosing to record a Ping – be it with your hands or thumbs – helps build yo
 
           </figure>
           <p>
-              If you record Pings using existing notes apps, consider including the word “Ping” along with each capture. Later on, after you have recorded multiple Pings, searching for the word “Ping” will reveal the set of energetic messages you have captured over time.
+              If you record Pings using existing notes apps, consider including the word “Ping” along with each capture. 
+</p>
+<p>
+Later on, searching for the word “Ping” will reveal the set of energetic messages you have captured over time.
             </p>
   <figure class="photo">
            <img src="/assets/images/what-is-a-ping-app-simple-ripple.png">
          </figure>
 <p>
-If you're experimenting with the <a href="https://pingpractice.org/app/" target="_blank">app</a> we’re developing, you'll notice Pings are packaged automatically. 
+If you are (or would like to) experimenting with the <a href="https://pingpractice.org/app/" target="_blank">app</a> we’re developing, you'll notice Pings are packaged automatically. 
 
 </p>
      <p>
-Regardless of where you record Pings, "hearing" them depends on an open posture and a willingness to try on the idea that sensing and making sense can happen in different moments.
+Choosing to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you and remember: <strong>"hearing" Pings depends on an open posture and a willingness to try on the idea that sensing and making sense can happen in different moments.</strong>
+
 
 We resonate with how <a href="https://en.wikipedia.org/wiki/Masanobu_Fukuoka">Masanobu Fukuoka</a> puts it in <a href="https://search.worldcat.org/title/one-straw-revolution-an-introduction-to-natural-farming/oclc/251203919">The One-Straw Revolution (1975): </a> </p>
 <p>  <i>
