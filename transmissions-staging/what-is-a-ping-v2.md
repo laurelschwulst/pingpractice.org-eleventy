@@ -107,5 +107,5 @@ We appreciate how <a href="https://en.wikipedia.org/wiki/Masanobu_Fukuoka">Masan
 
           <hr>
 
-          <i>If you'd like to learn more about Pings from a more elemental lens, consider reviewing the <a href="/method" class="low-link">method</a>.</i>
+          <i>If you'd like to learn more about Pings from a more elemental lens, consider reviewing the <a href="/method" class="low-link">Ping Practice Method</a>.</i>
 
