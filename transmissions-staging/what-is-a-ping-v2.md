@@ -23,7 +23,7 @@ sent_date: 2025-03-05T21:12:00.000Z
             <div class="ping-metadata id">Ping 188 of 322 &nbsp;&bull;&nbsp; <span class="author">Laurel Schwulst</span></div>
           </div>
           <p>
-          In this way, you can think of a Ping as a place to start from, and the metadata that accompanies each one, as markers to help you find your way back when you’re open to reflect.
+          In this way, you can think of a Ping as a place to start from, and the metadata that accompanies each one, as markers to help you find your way back when you’re open to reflecting.
         </p>
         <p>
         *
@@ -32,15 +32,7 @@ sent_date: 2025-03-05T21:12:00.000Z
             Pings are typically made up of three parts:
           </p>
           <ol>
-            <li>
-              <b>Time & Date</b>
-              <br>
-              <i>acknowledging the particular moment in time you received the Ping — local timestamp and date</i>
-              <br>
-              <span class="small gray">9:15am &nbsp;•&nbsp; Monday, July 22, 2024</span>
-            </li>
-
-            <li>
+    <li>
               <b>Ping Content</b>
               <br>
               <i>recording or translation of the Ping (in text, for now), in whatever style is most useful for you, the receiver.</i><br>
@@ -48,9 +40,16 @@ sent_date: 2025-03-05T21:12:00.000Z
             </li>
 
             <li>
+              <b>Time & Date</b>
+              <br>
+              <i>acknowledging the particular moment in time you received the Ping — local timestamp and date</i>
+              <br>
+              <span class="small gray">9:15am &nbsp;•&nbsp; Monday, July 22, 2024</span>
+            </li>
+            <li>
               <b>ID</b>
               <br>
-              <i>sharing this Ping’s referenceable place within the receiver’s broader “Ping Practice””</i>
+              <i>sharing this Ping’s referenceable place within the receiver’s broader practice</i>
               <br>
               <span class="small gray">Ping 188 of 322 &nbsp;&bull;&nbsp; <span class="author">Laurel Schwulst</span></span>
             </li>
@@ -62,19 +61,17 @@ sent_date: 2025-03-05T21:12:00.000Z
             Depending on where you record Pings, they may appear differently—
           </p>
           <figure class="photo">
-            <img src="/assets/images/what-is-a-ping-app-simple-ripple.png">
+            <img src="/assets/images/what-is-a-ping-notes-app.png">
 
           </figure>
-          <p>By default, Pings are meant to be internal, local to your inner world.  <!-- That said, unless you publish a ping, your (author) name need not appear.</p> -->
+        
+
           <figure class="photo">
             <img src="/assets/images/what-is-a-ping-journal-square.jpg">
 
           </figure> 
           <p>If you record Ping with pen & paper, there may only be time to jot down the date. Choosing to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.</p>
-          <figure class="photo">
-            <img src="/assets/images/what-is-a-ping-notes-app.png">
-
-          </figure>
+         
           <p>
               You can also use existing notes apps to record Pings, simply by including the word “Ping.” Later on, after you have recorded multiple Pings, searching for the word “Ping” will reveal the set of energetic messages you have captured over time.
             </p>
