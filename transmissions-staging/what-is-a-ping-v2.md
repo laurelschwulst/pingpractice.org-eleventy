@@ -86,9 +86,11 @@ If you're experimenting (or would like to) with the <a href="https://pingpractic
 
 </p>
 
-<hr>
+ <p>
+        *
+        </p>
      <p>
-Choosing to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.
+Making the choice to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.
 </p>
  <p>
 And remember: hearing Pings depends on a willingness to:
