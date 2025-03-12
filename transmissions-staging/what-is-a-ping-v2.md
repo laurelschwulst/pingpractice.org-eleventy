@@ -95,7 +95,7 @@ And remember: "hearing" Pings depends on a willingness to:
 <li>Believe that within and between Pings lie clues to new meaning and insight</li>
 </ul> 
 
-We resonate with how <a href="https://en.wikipedia.org/wiki/Masanobu_Fukuoka">Masanobu Fukuoka</a> puts this in <a href="https://search.worldcat.org/title/one-straw-revolution-an-introduction-to-natural-farming/oclc/251203919">The One-Straw Revolution (1975): </a> </p>
+We appreciate how <a href="https://en.wikipedia.org/wiki/Masanobu_Fukuoka">Masanobu Fukuoka</a> puts this in <a href="https://search.worldcat.org/title/one-straw-revolution-an-introduction-to-natural-farming/oclc/251203919">The One-Straw Revolution (1975): </a> </p>
 <p>  <i>
 "Nature, or the body itself, serves as a capable guide. But this subtle guidance goes unheard by most people because of the clamor caused by desire and by the activity of the discriminating mind."
   </i>
