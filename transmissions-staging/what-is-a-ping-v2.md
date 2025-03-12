@@ -94,7 +94,6 @@ And remember: "hearing" Pings depends on a willingness to:
 <li>Decouple sensing from sense making</li>
 <li>Believe that within and between Pings lie clues to new meaning and insight</li>
 </ul> 
-   <hr>
 
 We resonate with how <a href="https://en.wikipedia.org/wiki/Masanobu_Fukuoka">Masanobu Fukuoka</a> puts this in <a href="https://search.worldcat.org/title/one-straw-revolution-an-introduction-to-natural-farming/oclc/251203919">The One-Straw Revolution (1975): </a> </p>
 <p>  <i>
