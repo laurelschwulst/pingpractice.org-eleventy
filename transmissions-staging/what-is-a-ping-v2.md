@@ -1,5 +1,5 @@
 ---
-title: What is a Ping? v2
+title: What is a Ping?
 date: 2025-02-28T00:00:00.000Z
 layout: layouts/transmission.njk
 template: transmission
