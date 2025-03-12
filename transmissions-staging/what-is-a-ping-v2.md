@@ -51,7 +51,7 @@ sent_date: 2025-03-05T21:12:00.000Z
               <br>
               <i>sharing this Ping’s referenceable place within the receiver’s broader practice</i>
               <br>
-              <span class="small gray">Ping 188 of 322 &nbsp;&bull;&nbsp; <span class="author">Laurel Schwulst</span></span>
+              <span class="small gray">Ping 188&nbsp;&bull;&nbsp</span>
             </li>
           </ol>
           <p>
@@ -65,16 +65,21 @@ sent_date: 2025-03-05T21:12:00.000Z
 
           </figure>
         
-
+          <p>If you record Ping with pen & paper, there may only be time to jot down the date. Choosing to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.</p>
           <figure class="photo">
             <img src="/assets/images/what-is-a-ping-journal-square.jpg">
 
           </figure> 
-          <p>If you record Ping with pen & paper, there may only be time to jot down the date. Choosing to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.</p>
-         
           <p>
-              You can also use existing notes apps to record Pings, simply by including the word “Ping.” Later on, after you have recorded multiple Pings, searching for the word “Ping” will reveal the set of energetic messages you have captured over time.
+              If you record Pings using existing notes apps, consider including the word “Ping” along with each capture. Later on, after you have recorded multiple Pings, searching for the word “Ping” will reveal the set of energetic messages you have captured over time.
             </p>
+  <figure class="photo">
+           <img src="/assets/images/what-is-a-ping-app-simple-ripple.png">
+         </figure>
+<p>
+You can also try the app we’re developing. It’s an effort to support the serendipitous capturing and revising the method calls for.
+
+</p>
      <p>
 Regardless of where you record Pings, "hearing" them depends on an open posture and a willingness to try on the idea that sensing and making sense can happen in different moments.
 
