@@ -94,7 +94,7 @@ If you're experimenting with the <a href="https://pingpractice.org/app/" target=
         *
         </p>
      <p>
-Making the choice to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.
+Making the choice to record a Ping – be it with taps or strokes – helps build your awareness, so use whatever medium(s) best suit you.
 </p>
  <p>
 And remember, hearing Pings depends on a willingness to:
