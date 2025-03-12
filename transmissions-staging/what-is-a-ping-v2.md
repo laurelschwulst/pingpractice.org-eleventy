@@ -58,7 +58,7 @@ sent_date: 2025-03-05T21:12:00.000Z
         *
         </p>
           <p>
-            Depending on where you record Pings, they may appear differently—
+            You might handle Pings differently, depending on where you record them—
           </p>
            <figure class="photo">
             <img src="/assets/images/what-is-a-ping-journal-square.jpg">
