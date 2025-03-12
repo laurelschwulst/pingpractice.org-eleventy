@@ -100,7 +100,7 @@ Making the choice to record a Ping – be it with taps or strokes – enhances y
 And remember, hearing Pings depends on a willingness to:
 <ul>
 <li>Decouple sensing from sense making</li>
-<li>Believe that within and between Pings lies clues to new meaning and insight</li>
+<li>Believe that within and between these messages lie clues to new meaning and insight</li>
 </ul> 
 </p>
 
