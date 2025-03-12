@@ -96,7 +96,7 @@ Making the choice to record a Ping – be it with your hands or thumbs – helps
 And remember: hearing Pings depends on a willingness to:
 <ul>
 <li>Decouple sensing from sense making</li>
-<li>Believe that within and between Pings lie clues to new meaning and insight</li>
+<li>Believe that within and between these messages lie clues to new meaning and insight</li>
 </ul> 
 
 <hr>
