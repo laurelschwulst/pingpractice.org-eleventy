@@ -95,16 +95,5 @@ We resonate with how <a href="https://en.wikipedia.org/wiki/Masanobu_Fukuoka">Ma
 
           <hr>
 
-          <p>
-
-          <i>
-            I’ve been thinking about what it means to get a “ping from the universe,” and how that's a helpful metaphor for the whisper of intuition. Having that name is really helpful. Because when I get a good idea, I think to myself, “Oh, I know what that is. That's a ping from the universe.” And I can note it down.<br><br>
-            — <a href="https://escapethealgorithm.substack.com/p/a-website-is-a-sanctuary" target="_blank">Laurel Schwulst</a>
-          </i>
-
-          </p>
-
-          <hr>
-
-          <i>If you'd like to learn more about Pings from a more elemental lens, feel free to visit the <a href="/method" class="low-link">method</a>.</i>
+          <i>If you'd like to learn more about Pings from a more elemental lens, consider reviewing the <a href="/method" class="low-link">method</a>.</i>
 
