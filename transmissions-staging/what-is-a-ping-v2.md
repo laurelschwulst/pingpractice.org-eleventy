@@ -7,7 +7,10 @@ authors: Laurel Schwulst & Peter Pelberg
 began_date: 2024-08-15
 sent_date: 2025-03-14T04:00:00.000Z
 ---
+ <figure class="photo">
+            <img src="_site/assets/media/pingpractice.png">
 
+          </figure> 
 <p>A Ping is a tiny resonant message from the universe.</p>
 
           <div class="ping">
