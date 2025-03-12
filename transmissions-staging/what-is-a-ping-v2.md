@@ -60,16 +60,16 @@ sent_date: 2025-03-05T21:12:00.000Z
           <p>
             Depending on where you record Pings, they may appear differently—
           </p>
-          <figure class="photo">
-            <img src="/assets/images/what-is-a-ping-notes-app.png">
-
-          </figure>
-        
-          <p>If you record Ping with pen & paper, there may only be time to jot down the date. Choosing to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.</p>
-          <figure class="photo">
+           <figure class="photo">
             <img src="/assets/images/what-is-a-ping-journal-square.jpg">
 
           </figure> 
+        
+          <p>If you record Ping with pen & paper, there may only be time to jot down the date. Choosing to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.</p>
+         <figure class="photo">
+            <img src="/assets/images/what-is-a-ping-notes-app.png">
+
+          </figure>
           <p>
               If you record Pings using existing notes apps, consider including the word “Ping” along with each capture. Later on, after you have recorded multiple Pings, searching for the word “Ping” will reveal the set of energetic messages you have captured over time.
             </p>
