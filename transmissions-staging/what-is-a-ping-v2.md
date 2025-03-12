@@ -81,7 +81,7 @@ Choosing to record a Ping – be it with your hands or thumbs – helps build yo
            <img src="/assets/images/what-is-a-ping-app-simple-ripple.png">
          </figure>
 <p>
-You can also try the app we’re developing. It’s an effort to support the serendipitous capturing and revising the method calls for.
+If you're experimenting with the <a href="https://pingpractice.org/app/" target="_blank">app</a> we’re developing, you'll notice Pings are packaged automatically. 
 
 </p>
      <p>
