@@ -83,8 +83,8 @@ You can also try the app we’re developing. It’s an effort to support the ser
      <p>
 Regardless of where you record Pings, "hearing" them depends on an open posture and a willingness to try on the idea that sensing and making sense can happen in different moments.
 
-We resonate with how <a href="https://en.wikipedia.org/wiki/Masanobu_Fukuoka">Masanobu Fukuoka</a> puts it in <a href="https://search.worldcat.org/title/one-straw-revolution-an-introduction-to-natural-farming/oclc/251203919">The One-Straw Revolution (1975): </a> 
- <i>
+We resonate with how <a href="https://en.wikipedia.org/wiki/Masanobu_Fukuoka">Masanobu Fukuoka</a> puts it in <a href="https://search.worldcat.org/title/one-straw-revolution-an-introduction-to-natural-farming/oclc/251203919">The One-Straw Revolution (1975): </a> </p>
+<p>  <i>
 "Nature, or the body itself, serves as a capable guide. But this subtle guidance goes unheard by most people because of the clamor caused by desire and by the activity of the discriminating mind."
   </i>
         </p>
@@ -102,5 +102,5 @@ We resonate with how <a href="https://en.wikipedia.org/wiki/Masanobu_Fukuoka">Ma
 
           <hr>
 
-          <i>If you'd like to learn more about Pings from a more elemental lens, feel free to visit our <a href="/method" class="low-link">method</a>.</i>
+          <i>If you'd like to learn more about Pings from a more elemental lens, feel free to visit the <a href="/method" class="low-link">method</a>.</i>
 
