@@ -9,6 +9,12 @@ sent_date: 2025-03-14T04:00:00.000Z
 ---
 
 <p>A Ping is a tiny resonant message from the universe.</p>
+ <p>
+Hearing Pings depends on a willingness to:
+<ul>
+<li>Decouple sensing from sense making</li>
+<li>Believe that within and between these messages lie clues to new meaning and insight</li>
+</ul> 
           <div class="ping">
             <div class="ping-metadata variation hidden">9:15am &nbsp;&bull;&nbsp; Monday, July 22, 2024</div>
             <div class="ping-content">Learning is the future</div>
@@ -92,12 +98,6 @@ If you're experimenting (or <a href="https://docs.google.com/forms/d/1Aa1w-QsuuN
      <p>
 Making the choice to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.
 </p>
- <p>
-And remember: hearing Pings depends on a willingness to:
-<ul>
-<li>Decouple sensing from sense making</li>
-<li>Believe that within and between these messages lie clues to new meaning and insight</li>
-</ul> 
 
 <hr>
 
