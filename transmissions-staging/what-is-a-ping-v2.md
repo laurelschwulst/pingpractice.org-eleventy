@@ -85,6 +85,8 @@ Later on, searching for the word “Ping” will reveal the set of energetic mes
 If you're experimenting (or would like to) with the <a href="https://pingpractice.org/app/" target="_blank">app</a> we’re developing, you'll notice Pings are packaged automatically. 
 
 </p>
+
+<hr>
      <p>
 Choosing to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.
 </p>
