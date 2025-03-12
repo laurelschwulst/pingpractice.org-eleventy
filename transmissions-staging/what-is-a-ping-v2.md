@@ -82,7 +82,7 @@ Later on, searching for the word “Ping” will reveal the set of energetic mes
            <img src="/assets/images/what-is-a-ping-app-simple-ripple.png">
          </figure>
 <p>
-If you're experimenting (or would like to) with the <a href="https://pingpractice.org/app/" target="_blank">app</a> we’re developing, you'll notice Pings are packaged automatically. 
+If you're experimenting (or <a href="https://docs.google.com/forms/d/1Aa1w-QsuuN9waNCW_UCEq925PwrJQ3QTEe3NDQVbpfA/edit" target="_blank">would like to</a>) with the <a href="https://pingpractice.org/app/" target="_blank">app</a> we’re developing, you'll notice Pings are packaged automatically. 
 
 </p>
 
