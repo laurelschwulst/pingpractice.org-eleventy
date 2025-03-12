@@ -8,17 +8,14 @@ began_date: 2024-08-15
 sent_date: 2025-03-05T21:12:00.000Z
 ---
 
-<p>A Ping is a tiny resonant message from the universe. Energetic information without intrinsic valence.</p>
+<p>A Ping is a tiny resonant message from the universe.</p>
           <div class="ping">
             <div class="ping-metadata variation hidden">9:15am &nbsp;&bull;&nbsp; Monday, July 22, 2024</div>
             <div class="ping-content">Learning is the future</div>
             <div class="ping-metadata id hidden">Ping 188 of 322 &nbsp;&bull;&nbsp; <span class="author">Laurel Schwulst</span></div>
           </div>
           <p>
-             What a Ping might mean, and how/if you might use it, is rarely clear in the moment. 
-            <!-- Pings are unique for every person. In other words, no two people receive the exact same pings. That’s because pings emerge within specific yet everyday moments — -->
-
-            <!-- Pings emerge from unique contexts, which include time and place, and are unique to the people who receive them.  -->
+             What a Ping might mean, and how/if you might use it is rarely clear in the moment. 
           </p>
           <div class="ping">
             <div class="ping-metadata variation">9:15am &nbsp;&bull;&nbsp; Monday, July 22, 2024</div>
@@ -26,13 +23,13 @@ sent_date: 2025-03-05T21:12:00.000Z
             <div class="ping-metadata id">Ping 188 of 322 &nbsp;&bull;&nbsp; <span class="author">Laurel Schwulst</span></div>
           </div>
           <p>
-           In this way, you can think of a Ping as a place to start from, and the metadata that accompanies each one, as a tool to help you find your way back when you’re open to reflect on the meaning that might exist within and between them.
+          In this way, you can think of a Ping as a place to start from, and the metadata that accompanies each one, as markers to help you find your way back when you’re open to reflect.
         </p>
         <p>
         *
         </p>
           <p>
-            Each ping typically has three parts:
+            Pings are typically made up of three parts:
           </p>
           <ol>
             <li>
@@ -46,14 +43,14 @@ sent_date: 2025-03-05T21:12:00.000Z
             <li>
               <b>Ping Content</b>
               <br>
-              <i>recording or translation of the Ping (in text), in whatever style is most useful for you, the receiver</i><br>
+              <i>recording or translation of the Ping (in text, for now), in whatever style is most useful for you, the receiver.</i><br>
               <span class="small gray non-italic">Learning is the future</span>
             </li>
 
             <li>
               <b>ID</b>
               <br>
-              <i>sharing this Ping's place within the receiver's broader “Ping Practice”</i>
+              <i>sharing this Ping’s referenceable place within the receiver’s broader “Ping Practice””</i>
               <br>
               <span class="small gray">Ping 188 of 322 &nbsp;&bull;&nbsp; <span class="author">Laurel Schwulst</span></span>
             </li>
@@ -73,13 +70,13 @@ sent_date: 2025-03-05T21:12:00.000Z
             <img src="/assets/images/what-is-a-ping-journal-square.jpg">
 
           </figure> 
-          <p>If you record Pings with pen & paper, you may only have time to jot down the date. This can still be useful, so use whatever medium(s) best suit you.</p>
+          <p>If you record Ping with pen & paper, there may only be time to jot down the date. Choosing to record a Ping – be it with your hands or thumbs – helps build your awareness, so use whatever medium(s) best suit you.</p>
           <figure class="photo">
             <img src="/assets/images/what-is-a-ping-notes-app.png">
 
           </figure>
           <p>
-              Relatedly, you can use existing notes apps for Pings, simply by using the word “Ping.” Later on, after multiple Pings have accumulated, searching for the word “Ping” allows you to look through past Pings.
+              You can also use existing notes apps to record Pings, simply by including the word “Ping.” Later on, after you have recorded multiple Pings, searching for the word “Ping” will reveal the set of energetic messages you have captured over time.
             </p>
      <p>
 Regardless of where you record Pings, "hearing" them depends on an open posture and a willingness to try on the idea that sensing and making sense can happen in different moments.
