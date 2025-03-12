@@ -49,7 +49,7 @@ sent_date: 2025-03-05T21:12:00.000Z
             <li>
               <b>ID</b>
               <br>
-              <i>marking this Ping’s place within the receiver’s broader practice</i>
+              <i>marking this Ping’s place within the broader practice you maintain</i>
               <br>
               <span class="small gray">Ping 188</span>
             </li>
