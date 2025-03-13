@@ -6,7 +6,6 @@ template: transmission
 authors: Laurel Schwulst & Peter Pelberg
 began_date: 2024-08-15
 sent_date: 2025-03-14
-sent_status: true
 ---
 
 <p>A Ping is a tiny resonant message from the universe. </p>
