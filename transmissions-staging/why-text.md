@@ -1,23 +1,22 @@
 ---
 title: Why text?
-date: 2025-02-25
+date: 2025-04-04
 layout: layouts/transmission.njk
 template: transmission
 authors: Peter Pelberg
 began_date: 2024-08-15
-transmitted_date: 2025-02-25
+transmitted_date: 2025-04-04
 # last_edited_date:
 ---
 
-<p> While some pings are pre-language, we believe text is the easiest to begin building with. Text felt intuitive to us. It is durable and lightweight. It’s by no means exhaustive, but it’s a simple way to start.
-</p>
+We think it is important that you be able to capture Pings in a medium:
 
-<hr>
+1. You feel fluent in
+2. Is usually within reach
+3. Serves the art you are making
 
-<p><i>Said another way...</i></p>
+We also think the above will mean different mediums for different people.
 
-<p>We think it’s important that you be able to capture pings in a medium you feel fluent within, can easily “reach,” and are practiced building with.</p>
+For the initial set of practitioners, this medium is text. It is durable, lightweight, and serves the writing we do.
 
-<p>We also recognize that different people will find different mediums will hold these qualities for them.</p>
-
-<p>For the initial <a href="/people" class="low-link">set of practitioners</a>, this medium is text. It’s durable, lightweight and by no means exhaustive. Though, it’s  a place to start.</p>
+While text is by no means exhaustive, it is somewhere to start from.

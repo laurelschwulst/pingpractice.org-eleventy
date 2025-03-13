@@ -1,11 +1,11 @@
 ---
 title: What is Ping Practice?
-date: 2025-03-14T19:00:00.000Z
+date: 2025-03-28T19:00:00.000Z
 layout: layouts/transmission.njk
 template: transmission
 authors: Peter Pelberg & Laurel Schwulst
 began_date: 2024-08-15
-sent_date: 2024-08-15
+sent_date: 2025-03-28
 # last_edited_date:
 ---
 

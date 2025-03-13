@@ -1,11 +1,12 @@
 ---
 layout: layouts/transmission.njk
 title: What is the gray image with two waves?
-date: 2025-03-11
+date: 2025-05-02
 template: transmission
 authors: Laurel Schwulst
 began_date: 2024-08-15
-last_edited_date: 2025-03-15
+sent_date: 2025-05-02
+last_edited_date: 2025-05-02
 ---
 
           <figure style="float: left; margin-right: 1.5em">

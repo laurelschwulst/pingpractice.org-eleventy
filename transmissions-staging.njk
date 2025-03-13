@@ -6,14 +6,15 @@ permalink: /transmissions-staging/
 
 {% block content %}
 
+
 {% for transmission in collections.transmissions_staging %}
+
 <p class="transmission">
     <span class="ping"></span>
     <a href="{{ transmission.url }}" class="spa-link">
     {{ transmission.data.title }}
     </a>
-    <span class="gray small" style="display: inline-bock; margin-left: 0.5em;">{{ transmission.date | readableDate }}</span>
-</p>
+<span class="gray small" style="display: inline-block; margin-left: 0.5em;">{% if transmission.data.sent_status == true %}<mark>{% endif %}{{ transmission.date | readableDate }}{% if transmission.data.sent_status == true %}</mark>{% endif %}</span></p>
 {% endfor %}
 <br>
 <hr>
