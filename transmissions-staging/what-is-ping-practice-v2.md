@@ -31,13 +31,6 @@ sent_date: 2025-03-28
 
             <p>Ping Practice is a set of invitations. Invitations to:</p>
 
-<li>Add distance between noticing and knowing</li>
-<li>Treat meaning as malleable</li>
-<li>.</li>
-<li>.</li>
-
-            <p>Similar to swiping through photos on your phone, you should also be able to do something similar for your thoughts — or <i>pings</i> — as we like to call them...</p>
-
 <div class="ping-slideshow">
               <div class="ping extra-large active">
                 <div class="ping-content">
