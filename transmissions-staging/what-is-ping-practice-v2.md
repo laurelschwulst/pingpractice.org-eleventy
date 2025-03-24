@@ -80,7 +80,7 @@ sent_date: 2025-03-28
             </div>
           </div>
 
-            <p>While we are developing Ping Practice, we encourage all people who ping to develop their own—no two ping practices will look or feel exactly the same.</p>
+            <p>Common among the people with whom Ping Practice resonates, is an acceptance and appreciation for the ongoing challenge accepting these invitations poses and the impact accepting them offers.</p>
 
             <hr>
 
