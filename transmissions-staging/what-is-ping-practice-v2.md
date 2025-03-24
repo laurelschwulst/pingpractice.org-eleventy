@@ -27,8 +27,7 @@ sent_date: 2025-03-28
               <div class="ping-metadata"></div>
             </div>
 
-            <p>While still all true, revisiting this question now, ~7 months later, in March 2025, we’d like to offer an additional frame.
-</p>
+            <p>While still all true, revisiting this question now, # months later, in March 2025, we’d like to offer an additional frame to look at Ping Practice through.</p>
 
             <p>Ping Practice is a set of invitations. Invitations to:</p>
 
