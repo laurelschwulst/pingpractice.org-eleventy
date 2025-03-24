@@ -27,7 +27,7 @@ sent_date: 2025-03-28
               <div class="ping-metadata"></div>
             </div>
 
-            <p>While still all true, revisiting this question now, ~7 months later, in March 2025, we’d like to offer an additional frame: Ping Practice is a repatterining in the ways we respond to our bodies, grounded in # invitations. </p>
+            <p>While still all true, revisiting this question now, ~7 months later, in March 2025, we’d like to offer an additional frame: Ping Practice is a series of prompts...</p>
 
 <div class="ping-slideshow">
               <div class="ping extra-large active">
