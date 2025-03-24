@@ -64,17 +64,17 @@ sent_date: 2025-03-28
 
           <div class="ping-roll special">
             <div class="ping extra-large active">
-              <div class="ping-content">A camera roll for your thoughts —</div>
+              <div class="ping-content">See language as a living force</div>
               <div class="ping-metadata variation">11:47am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
               <div class="ping-metadata id">Ping 8,023 of 9,812 &nbsp;&bull;&nbsp; <a href="#" class="author">Peter Pelberg</a></div>
             </div>
             <div class="ping extra-large">
-              <div class="ping-content">Ping Practice is a not-for-profit journaling app & methodology</div>
+              <div class="ping-content">Add distance between noticing and knowing</div>
               <div class="ping-metadata variation">11:47am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
               <div class="ping-metadata id">Ping 8,024 of 9,812 &nbsp;&bull;&nbsp; <a href="#" class="author">Peter Pelberg</a></div>
             </div>
             <div class="ping extra-large">
-              <div class="ping-content">Meant to help you carry a conversation with yourself across time...</div>
+              <div class="ping-content">Treat meaning as malleable</div>
               <div class="ping-metadata variation">11:48am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
               <div class="ping-metadata id">Ping 8,025 of 9,812 &nbsp;&bull;&nbsp; <a href="#" class="author">Peter Pelberg</a></div>
             </div>
