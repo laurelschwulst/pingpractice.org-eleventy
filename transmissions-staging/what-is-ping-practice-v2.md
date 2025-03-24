@@ -78,9 +78,9 @@ sent_date: 2025-03-28
             </div>
           </div>
 
-            <p>Ping Practice takes seriously the ongoing challenge accepting these invitations poses and the impact doing so causes.</p>
+            <p>Common among people with whom Ping Practice resonates, is a humbled appreciation for the challenge pursuing these prompts poses and a faith in the capacity doing so creates.</p>
 
-Coming back to where this Transmission started, the Ping Practice method and app are meant to serve as scaffolding to support 
+<p>To put a finer point on this: we see these prompts as a repatterining and expansion of the ways we respond to our bodies and Ping Practice - the method and app – is meant to serve as the scaffolding for people to invent the tools they can use them to support them in existing within the uncertainty inherent in an embodied and creative existence.</p>
 
 </p>
 
