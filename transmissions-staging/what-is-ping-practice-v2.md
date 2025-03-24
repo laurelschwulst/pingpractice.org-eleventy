@@ -63,10 +63,6 @@ sent_date: 2025-03-28
                 <div class="ping-metadata variation">11:48am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
                 <div class="ping-metadata id">Ping 8,025 of 9,812 &nbsp;&bull;&nbsp; <span class="author">Peter Pelberg</span></div>
               </div>
-               <div class="ping-content">TBD</div>
-                <div class="ping-metadata variation">11:48am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
-                <div class="ping-metadata id">Ping 8,025 of 9,812 &nbsp;&bull;&nbsp; <span class="author">Peter Pelberg</span></div>
-              </div>
             </div>
 
           <div class="ping-controls" style="margin-bottom: 2.5em;">
