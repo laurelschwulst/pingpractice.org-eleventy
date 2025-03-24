@@ -1,0 +1,100 @@
+---
+title: What is Ping Practice? v2
+date: 2025-03-28T19:00:00.000Z
+layout: layouts/transmission.njk
+template: transmission
+authors: Peter Pelberg & Laurel Schwulst
+began_date: 2024-08-15
+sent_date: 2025-03-28
+---
+
+<!-- You might remember that we talked <a href="../what-is-a-ping">what a ping</a> is before. -->
+
+ <p>When we started this Transmission, we described Ping Practice in the following way:</P
+
+<div class="ping medium">
+              <div class="ping-content">A camera roll for your thoughts —</div>
+              <div class="ping-metadata"></div>
+            </div>
+  
+            <div class="ping medium">
+              <div class="ping-content">Ping Practice is a not-for-profit journaling app and method</div>
+              <div class="ping-metadata"></div>
+            </div>
+  
+            <div class="ping medium">
+              <div class="ping-content">Meant to help you carry a conversation with yourself across time...</div>
+              <div class="ping-metadata"></div>
+            </div>
+
+            <p>While still all true, revisiting this question now, ~7 months later, in March 2025, we’d like to offer an additional frame.
+</p>
+
+            <p>Ping Practice is a set of invitations. Invitations to:</p>
+
+            <ul
+<li>See language as a living force</li>
+<li>Create space between noticing and knowing</li>
+<li>Treat meaning as malleable</li>
+<li>.</li>
+<li>.</li>
+
+            <p>Similar to swiping through photos on your phone, you should also be able to do something similar for your thoughts — or <i>pings</i> — as we like to call them...</p>
+
+<div class="ping-slideshow">
+              <div class="ping extra-large active">
+                <div class="ping-content">
+                A camera roll for your thoughts —
+                </div>
+                <div class="ping-metadata variation">11:47am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
+                <div class="ping-metadata id">Ping 8,023 of 9,812 &nbsp;&bull;&nbsp; <span class="author">Peter Pelberg</span></div>
+              </div>
+    
+              <div class="ping large">
+                <div class="ping-content">Ping Practice is a not-for-profit journaling app & methodology</div>
+                <div class="ping-metadata variation">11:47am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
+                <div class="ping-metadata id">Ping 8,024 of 9,812 &nbsp;&bull;&nbsp; <span class="author">Peter Pelberg</span></div>
+              </div>
+    
+              <div class="ping large">
+                <div class="ping-content">Meant to help you carry a conversation with yourself across time...</div>
+                <div class="ping-metadata variation">11:48am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
+                <div class="ping-metadata id">Ping 8,025 of 9,812 &nbsp;&bull;&nbsp; <span class="author">Peter Pelberg</span></div>
+              </div>
+            </div>
+
+          <div class="ping-controls" style="margin-bottom: 2.5em;">
+            <div class="prev">←</div><div class="next">→</div>
+          </div>
+
+          <div class="ping-roll special">
+            <div class="ping extra-large active">
+              <div class="ping-content">A camera roll for your thoughts —</div>
+              <div class="ping-metadata variation">11:47am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
+              <div class="ping-metadata id">Ping 8,023 of 9,812 &nbsp;&bull;&nbsp; <a href="#" class="author">Peter Pelberg</a></div>
+            </div>
+            <div class="ping extra-large">
+              <div class="ping-content">Ping Practice is a not-for-profit journaling app & methodology</div>
+              <div class="ping-metadata variation">11:47am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
+              <div class="ping-metadata id">Ping 8,024 of 9,812 &nbsp;&bull;&nbsp; <a href="#" class="author">Peter Pelberg</a></div>
+            </div>
+            <div class="ping extra-large">
+              <div class="ping-content">Meant to help you carry a conversation with yourself across time...</div>
+              <div class="ping-metadata variation">11:48am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
+              <div class="ping-metadata id">Ping 8,025 of 9,812 &nbsp;&bull;&nbsp; <a href="#" class="author">Peter Pelberg</a></div>
+            </div>
+          </div>
+
+            <p>While we are developing Ping Practice, we encourage all people who ping to develop their own—no two ping practices will look or feel exactly the same.</p>
+
+            <hr>
+
+            <footer>
+            <ol>
+              <li>
+                <a href="https://pingpractice.netlify.app/transmissions/what-is-a-ping" target="_blank"
+                  >https://pingpractice.netlify.app/transmissions/what-is-a-ping</a
+                >
+              </li>
+            </ol>
+          </footer>
