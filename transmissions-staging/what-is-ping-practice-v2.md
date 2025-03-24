@@ -27,7 +27,7 @@ sent_date: 2025-03-28
               <div class="ping-metadata"></div>
             </div>
 
-            <p>While still all true, revisiting this question now, # months later, in March 2025, we’d like to offer an additional frame: Ping Practice is a series of invitations. Invitations to:</p>
+            <p>While still all true, revisiting this question now, # months later, in March 2025, we’d like to offer an additional frame: Ping Practice is a repatterining in the ways we respond to our bodies, grounded in # invitations. </p>
 
 <div class="ping-slideshow">
               <div class="ping extra-large active">
@@ -78,7 +78,11 @@ sent_date: 2025-03-28
             </div>
           </div>
 
-            <p>Common among the people with whom Ping Practice resonates, is an acceptance and appreciation for the ongoing challenge accepting these invitations poses and the impact accepting them offers.</p>
+            <p>Ping Practice takes seriously the ongoing challenge accepting these invitations poses and the impact doing so causes.</p>
+
+Coming back to where this Transmission started, the Ping Practice method and app are meant to serve as scaffolding to support 
+
+</p>
 
             <hr>
 
