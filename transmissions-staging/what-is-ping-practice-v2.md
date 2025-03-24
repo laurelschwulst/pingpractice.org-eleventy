@@ -10,7 +10,7 @@ sent_date: 2025-03-28
 
 <!-- You might remember that we talked <a href="../what-is-a-ping">what a ping</a> is before. -->
 
- <p>When we started this Transmission, we described Ping Practice in the following way:</P
+ <p>When we started this Transmission in August 2024, we described Ping Practice in the following way:</P
 
 <div class="ping medium">
               <div class="ping-content">A camera roll for your thoughts —</div>
@@ -27,7 +27,7 @@ sent_date: 2025-03-28
               <div class="ping-metadata"></div>
             </div>
 
-            <p>While still all true, revisiting this question now, # months later, in March 2025, we’d like to offer an additional frame to look at Ping Practice through.</p>
+            <p>While still all true, revisiting this question now, # months later, in March 2025, we’d like to offer an additional frame...</p>
 
             <p>Ping Practice is a set of invitations. Invitations to:</p>
 
