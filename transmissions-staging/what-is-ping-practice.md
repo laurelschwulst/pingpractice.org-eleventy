@@ -23,7 +23,11 @@ sent_status: true
   <div class="ping-content">Meant to help you carry a conversation with yourself across time...</div>
 </div>
 
-<p>This all remains true. However, circling back to what Ping Practice is now, we’d like to offer an additional frame…</p>
+<p>This all remains true. Ping Practice is an evolving journaling <a href="/method" class="low-link">methodology</a> and <a href="/app" class="low-link">app</a>. Its basis are pings.<sup>1</sup></p>
+
+<p>*</p>
+
+<p>However, circling back to what Ping Practice is now, we’d like to offer an additional frame…</p>
 
 <p>Ping Practice is a series of <i>invitations:</i></p>
 
@@ -50,3 +54,13 @@ sent_status: true
 <p>This project, and the exploration it invites, is at once personal and communal.</p>
 
 <p>If you would like to be made aware when we are hosting a conversation with people experimenting with Ping Practice, [please be in touch](https://forms.gle/PYSr3mLY2WwUAAHa6).</p>
+
+<footer>
+<ol>
+<li>
+<a href="https://pingpractice.org/transmissions/what-is-a-ping" target="_blank"
+                  >https://pingpractice.org/transmissions/what-is-a-ping</a
+                >
+</li>
+</ol>
+</footer>
