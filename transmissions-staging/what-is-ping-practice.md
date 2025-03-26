@@ -61,6 +61,8 @@ sent_status: true
 
 <p>Taken together, these invitations are about “repatterning” — expanding the ways we respond to what we feel and engage with the wider world and the beings we share it with.</p>
 
+<hr>
+
 <p>Ping Practice takes seriously the fact that no two journeys through this practice look the same —</p>
 
 <p>As such, the <a href="/method" class="low-link">methodology</a> and <a href="/app" class="low-link">app</a> are not fixed. Rather, they are scaffolding: starting structures to support you in discovering what moves you to live these invitations and ultimately, thrive in the uncertainty of an open, ongoing, and creative existence.</p>
