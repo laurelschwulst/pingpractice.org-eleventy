@@ -7,91 +7,45 @@ authors: Peter Pelberg & Laurel Schwulst
 began_date: 2024-08-15
 sent_date: 2025-03-28
 ---
+<p>When we originally started this writing over six months ago, we described Ping Practice as:</p>
 
-<!-- You might remember that we talked <a href="../what-is-a-ping">what a ping</a> is before. -->
-
- <p>When we started this Transmission in August 2024, we described Ping Practice in the following way:</P
 
 <div class="ping medium">
-              <div class="ping-content">A camera roll for your thoughts —</div>
-              <div class="ping-metadata"></div>
-            </div>
-  
-            <div class="ping medium">
-              <div class="ping-content">Ping Practice is a not-for-profit journaling app and method</div>
-              <div class="ping-metadata"></div>
-            </div>
-  
-            <div class="ping medium">
-              <div class="ping-content">Meant to help you carry a conversation with yourself across time...</div>
-              <div class="ping-metadata"></div>
-            </div>
+  <div class="ping-content">A camera roll for your thoughts –</div>
+</div>
 
-            <p>While still all true, revisiting this question now, ~7 months later, in March 2025, we’d like to offer an additional frame: Ping Practice is a series of prompts...</p>
+<div class="ping medium">
+  <div class="ping-content">Ping Practice is a not-for-profit journaling app & method –</div>
+</div>
 
-<div class="ping-slideshow">
-              <div class="ping extra-large active">
-                <div class="ping-content">
-                See language as a living force
-                </div>
-                <div class="ping-metadata variation">11:47am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
-                <div class="ping-metadata id">Ping 8,023 of 9,812 &nbsp;&bull;&nbsp; <span class="author">Peter Pelberg</span></div>
-              </div>
-    
-              <div class="ping large">
-                <div class="ping-content">Add distance between noticing and knowing</div>
-                <div class="ping-metadata variation">11:47am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
-                <div class="ping-metadata id">Ping 8,024 of 9,812 &nbsp;&bull;&nbsp; <span class="author">Peter Pelberg</span></div>
-              </div>
-    
-              <div class="ping large">
-                <div class="ping-content">Treat meaning as malleable</div>
-                <div class="ping-metadata variation">11:48am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
-                <div class="ping-metadata id">Ping 8,025 of 9,812 &nbsp;&bull;&nbsp; <span class="author">Peter Pelberg</span></div>
-              </div>
- <div class="ping large">
-                <div class="ping-content">TBD</div>
-                <div class="ping-metadata variation">11:48am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
-                <div class="ping-metadata id">Ping 8,025 of 9,812 &nbsp;&bull;&nbsp; <span class="author">Peter Pelberg</span></div>
-              </div>
-            </div>
+<div class="ping medium">
+  <div class="ping-content">Meant to help you carry a conversation with yourself across time...</div>
+</div>
 
-          <div class="ping-controls" style="margin-bottom: 2.5em;">
-            <div class="prev">←</div><div class="next">→</div>
-          </div>
+<p>This all remains true. However, circling back to what Ping Practice is now, we’d like to offer an additional frame…</p>
 
-          <div class="ping-roll special">
-            <div class="ping extra-large active">
-              <div class="ping-content">See language as a living force</div>
-              <div class="ping-metadata variation">11:47am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
-              <div class="ping-metadata id">Ping 8,023 of 9,812 &nbsp;&bull;&nbsp; <a href="#" class="author">Peter Pelberg</a></div>
-            </div>
-            <div class="ping extra-large">
-              <div class="ping-content">Add distance between noticing and knowing</div>
-              <div class="ping-metadata variation">11:47am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
-              <div class="ping-metadata id">Ping 8,024 of 9,812 &nbsp;&bull;&nbsp; <a href="#" class="author">Peter Pelberg</a></div>
-            </div>
-            <div class="ping extra-large">
-              <div class="ping-content">Treat meaning as malleable</div>
-              <div class="ping-metadata variation">11:48am &nbsp;&bull;&nbsp; Saturday, July 27, 2024</div>
-              <div class="ping-metadata id">Ping 8,025 of 9,812 &nbsp;&bull;&nbsp; <a href="#" class="author">Peter Pelberg</a></div>
-            </div>
-          </div>
+<p>Ping Practice is a series of <i>invitations:</i></p>
 
-            <p>Common among people with whom Ping Practice resonates, is a humbled appreciation for the challenge pursuing these prompts poses and a faith in the capacity doing so creates.</p>
+<div class="ping medium">
+  <div class="ping-content">See language as a living force</div>
+</div>
 
-<p>To put a finer point on this: we see these prompts as a repatterining and expansion of the ways we respond to our bodies and Ping Practice - the method and app – is meant to serve as the scaffolding for people to invent the tools they can use them to support them in existing within the uncertainty inherent in an embodied and creative existence.</p>
+<div class="ping medium">
+  <div class="ping-content">Add distance between noticing and knowing</div>
+</div>
 
-</p>
+<div class="ping medium">
+  <div class="ping-content">Treat meaning as malleable</div>
+</div>
 
-            <hr>
+<p>We call these “invitations” because doing so reminds us of the posture we maintain: offering Ping Practice openly and without expectation, as something to try out and evaluate for oneself what’s resonant and/or useful.</p>
 
-            <footer>
-            <ol>
-              <li>
-                <a href="https://pingpractice.netlify.app/transmissions/what-is-a-ping" target="_blank"
-                  >https://pingpractice.netlify.app/transmissions/what-is-a-ping</a
-                >
-              </li>
-            </ol>
-          </footer>
+<p>Taken together, these invitations are about “repatterning” — expanding the ways we respond to what we feel and engage with the wider world and the beings we share it with.</p>
+
+<p>Ping Practice takes seriously the fact that no two journeys through this practice look the same —</p>
+
+<p>As such, the method and app are not fixed. They are scaffolding: starting structures to support you in discovering what moves you to live these invitations and ultimately, thrive in the uncertainty of an open, ongoing, and creative existence.</p>
+
+<p>This project, and the exploration it invites, is at once personal and communal.</p>
+
+<p>If you would like to be made aware when we are hosting a conversation with people experimenting with Ping Practice, [please be in touch](https://forms.gle/PYSr3mLY2WwUAAHa6).</p>
