@@ -13,7 +13,7 @@ sent_status: true
 
 <div class="ping extra-large">
   <div class="ping-content">A camera roll for your thoughts –</div>
-  <div class="ping-metadata variation">What is Ping Practice? &bull; 1 of 3</div>
+  <div class="ping-metadata variation">What is Ping Practice?&nbsp;&nbsp;&bull;&nbsp;&nbsp;1 of 3</div>
   <div class="ping-metadata id">August 15, 2024</div>
 </div>
 
