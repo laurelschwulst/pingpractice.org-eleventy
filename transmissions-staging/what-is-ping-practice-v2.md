@@ -1,5 +1,5 @@
 ---
-title: What is Ping Practice? v2
+title: What is Ping Practice?
 date: 2025-03-28T19:00:00.000Z
 layout: layouts/transmission.njk
 template: transmission
