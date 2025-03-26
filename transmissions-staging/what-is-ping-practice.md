@@ -11,27 +11,29 @@ sent_status: true
 <p>When we originally started this writing over six months ago, we described Ping Practice as:</p>
 
 
-<div class="ping medium">
+<div class="ping large">
   <div class="ping-content">A camera roll for your thoughts –</div>
 </div>
 
 <div class="ping medium">
-  <div class="ping-content">Ping Practice is a not-for-profit journaling app & method –</div>
+  <div class="ping-content">Ping Practice is a not-for-profit journaling method & app –</div>
 </div>
 
 <div class="ping medium">
   <div class="ping-content">Meant to help you carry a conversation with yourself across time...</div>
 </div>
 
-<p>This all remains true. Ping Practice is an evolving journaling <a href="/method" class="low-link">methodology</a> and <a href="/app" class="low-link">app</a>. Its basis are pings.<sup>1</sup></p>
+<p>This all remains true —</p>
 
-<p>*</p>
+<p>Ping Practice is an evolving journaling <a href="/method" class="low-link">methodology</a> and <a href="/app" class="low-link">app</a>. Its basis are pings.<sup>1</sup></p>
 
-<p>However, circling back to what Ping Practice is now, we’d like to offer an additional frame…</p>
+<hr>
+
+<p>However, circling back to Ping Practice now, we’d like to offer an additional frame…</p>
 
 <p>Ping Practice is a series of <i>invitations:</i></p>
 
-<div class="ping medium">
+<div class="ping large">
   <div class="ping-content">See language as a living force</div>
 </div>
 
@@ -43,17 +45,17 @@ sent_status: true
   <div class="ping-content">Treat meaning as malleable</div>
 </div>
 
-<p>We call these “invitations” because doing so reminds us of the posture we maintain: offering Ping Practice openly and without expectation, as something to try out and evaluate for oneself what’s resonant and/or useful.</p>
+<p>We call these “invitations” because doing so reminds us of the posture we maintain: offering Ping Practice openly and without expectation, as something to try out and evaluate for oneself what’s useful.</p>
 
 <p>Taken together, these invitations are about “repatterning” — expanding the ways we respond to what we feel and engage with the wider world and the beings we share it with.</p>
 
 <p>Ping Practice takes seriously the fact that no two journeys through this practice look the same —</p>
 
-<p>As such, the method and app are not fixed. They are scaffolding: starting structures to support you in discovering what moves you to live these invitations and ultimately, thrive in the uncertainty of an open, ongoing, and creative existence.</p>
+<p>As such, the <a href="/method" class="low-link">methodology</a> and <a href="/app" class="low-link">app</a> are not fixed. Rather, they are scaffolding: starting structures to support you in discovering what moves you to live these invitations and ultimately, thrive in the uncertainty of an open, ongoing, and creative existence.</p>
 
 <p>This project, and the exploration it invites, is at once personal and communal.</p>
 
-<p>If you would like to be made aware when we are hosting a conversation with people experimenting with Ping Practice, [please be in touch](https://forms.gle/PYSr3mLY2WwUAAHa6).</p>
+<p>If you would like to be made aware when we are hosting a conversation with people experimenting with Ping Practice, <a href="https://forms.gle/PYSr3mLY2WwUAAHa6" target="_blank">please be in touch</a>.</p>
 
 <footer>
 <ol>
