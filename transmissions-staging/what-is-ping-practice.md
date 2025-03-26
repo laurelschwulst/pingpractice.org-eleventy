@@ -6,6 +6,7 @@ template: transmission
 authors: Peter Pelberg & Laurel Schwulst
 began_date: 2024-08-15
 sent_date: 2025-03-28
+sent_status: true
 ---
 <p>When we originally started this writing over six months ago, we described Ping Practice as:</p>
 
