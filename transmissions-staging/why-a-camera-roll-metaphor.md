@@ -7,7 +7,6 @@ authors: Peter Pelberg & Laurel Schwulst
 began_date: 2024-08-15
 sent_date: 2025-05-16T00:00:00.000Z
 ---
-TKTK
 
 <div class="ping-slideshow">
               <div class="ping extra-large active">
