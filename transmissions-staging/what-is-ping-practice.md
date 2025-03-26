@@ -17,13 +17,13 @@ sent_status: true
   <div class="ping-metadata variation">August 15, 2024</div>
 </div>
 
-<div class="ping large">
+<div class="ping extra-large">
   <div class="ping-content">Ping Practice is a not-for-profit journaling method & app –</div>
   <div class="ping-metadata id">What is Ping Practice? &nbsp;&bull;&nbsp; 2 of 3</div>
   <div class="ping-metadata variation">August 15, 2024</div>
 </div>
 
-<div class="ping large">
+<div class="ping extra-large">
   <div class="ping-content">Meant to help you carry a conversation with yourself across time...</div>
   <div class="ping-metadata id">What is Ping Practice? &nbsp;&bull;&nbsp; 3 of 3</div>
   <div class="ping-metadata variation">August 15, 2024</div>
@@ -45,13 +45,13 @@ sent_status: true
   <div class="ping-metadata variation">March 15, 2025</div>
 </div>
 
-<div class="ping large">
+<div class="ping extra-large">
   <div class="ping-content">Add distance between noticing and knowing</div>
   <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 2 of 3</div>
   <div class="ping-metadata variation">March 15, 2025</div>
 </div>
 
-<div class="ping large">
+<div class="ping extra-large">
   <div class="ping-content">Treat meaning as malleable</div>
   <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 3 of 3</div>
   <div class="ping-metadata variation">March 15, 2025</div>
