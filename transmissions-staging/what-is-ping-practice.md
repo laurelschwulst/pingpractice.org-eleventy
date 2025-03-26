@@ -11,15 +11,17 @@ sent_status: true
 <p>When we originally started this writing over six months ago, we described Ping Practice as:</p>
 
 
-<div class="ping large">
+<div class="ping extra-large">
   <div class="ping-content">A camera roll for your thoughts –</div>
+  <div class="ping-metadata variation">What is Ping Practice? 1 of 3</div>
+  <div class="ping-metadata id">August 15, 2024</div>
 </div>
 
-<div class="ping medium">
+<div class="ping large">
   <div class="ping-content">Ping Practice is a not-for-profit journaling method & app –</div>
 </div>
 
-<div class="ping medium">
+<div class="ping large">
   <div class="ping-content">Meant to help you carry a conversation with yourself across time...</div>
 </div>
 
@@ -56,6 +58,8 @@ sent_status: true
 <p>This project, and the exploration it invites, is at once personal and communal.</p>
 
 <p>If you would like to be made aware when we are hosting a conversation with people experimenting with Ping Practice, <a href="https://forms.gle/PYSr3mLY2WwUAAHa6" target="_blank">please be in touch</a>.</p>
+
+<hr>
 
 <footer>
 <ol>
