@@ -69,7 +69,7 @@ sent_status: true
 
 <p>This project, and the exploration it invites, is at once personal and communal.</p>
 
-<p>If you would like to be made aware when we are hosting a conversation with people experimenting with Ping Practice, <a href="https://forms.gle/PYSr3mLY2WwUAAHa6" target="_blank">please be in touch</a>.</p>
+<p><i>If you would like to be made aware when we are hosting a conversation with people experimenting with Ping Practice, <a href="https://forms.gle/PYSr3mLY2WwUAAHa6" target="_blank">please be in touch</a></i>.</p>
 
 <hr>
 
