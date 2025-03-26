@@ -1,6 +1,6 @@
 ---
 title: Why a camera roll metaphor?
-date: 2025-03-26T20:00:00.000Z
+date: 2025-05-16T21:00:00.000Z
 layout: layouts/transmission.njk
 template: transmission
 authors: Peter Pelberg & Laurel Schwulst
