@@ -771,5 +771,6 @@ blockquote {
   margin-left: 0;
   padding-left: 1.5em;
   margin: 1.5em 0;
-  font-family: "garamondno8-italic";
+  font-style: normal;
+  font-family: "garamondno8italic";
 }
