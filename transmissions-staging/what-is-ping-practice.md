@@ -35,12 +35,12 @@ sent_status: true
 
 <hr>
 
-<p>However, circling back to Ping Practice now, we’d like to offer an additional frame…</p>
+<p>Circling back to Ping Practice now, we’d like to offer an additional frame…</p>
 
 <p>Ping Practice is a series of <i>invitations:</i></p>
 
 <div class="ping extra-large">
-  <div class="ping-content">See language as a living force</div>
+  <div class="ping-content">See language as an energetic force</div>
   <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 1 of 3</div>
   <div class="ping-metadata variation">March 15, 2025</div>
 </div>
@@ -52,7 +52,19 @@ sent_status: true
 </div>
 
 <div class="ping extra-large">
-  <div class="ping-content">Treat meaning as malleable</div>
+  <div class="ping-content">Trust meaning to reveal itself when ready</div>
+  <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 3 of 3</div>
+  <div class="ping-metadata variation">March 15, 2025</div>
+</div>
+
+<div class="ping extra-large">
+  <div class="ping-content">Ground in the certainty within</div>
+  <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 3 of 3</div>
+  <div class="ping-metadata variation">March 15, 2025</div>
+</div>
+
+<div class="ping extra-large">
+  <div class="ping-content">Move by trying new choices</div>
   <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 3 of 3</div>
   <div class="ping-metadata variation">March 15, 2025</div>
 </div>
@@ -70,6 +82,12 @@ sent_status: true
 <p>This project, and the exploration it invites, is at once personal and communal.</p>
 
 <p><i>If you would like to be made aware when we are hosting a conversation with people experimenting with Ping Practice, <a href="https://forms.gle/PYSr3mLY2WwUAAHa6" target="_blank">please be in touch</a></i>.</p>
+
+<hr>
+
+We quite like the form Viktor Frankl (<a href="https://www.viktorfrankl.org/quote_stimulus.html" target="_blank">source not known</a>) brought to the space Ping Practice is meant to help you develop the capacity for creating:
+
+<blockquote>Between stimulus and response lies a space. In that space lie our freedom and power to choose a response. In our response lies our growth and our happiness.</blockquote>
 
 <hr>
 
