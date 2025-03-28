@@ -368,29 +368,6 @@ figure.pp .overlay-transmissions {
   bottom: 0;
 }
 
-@media screen and (max-width: 725px) {
-  nav#ping-practice {
-    max-width: 27.5em;
-    margin: 0 auto;
-    padding: 18px;
-    padding-bottom: 0;
-    position: static;
-  }
-  main {
-    position: static;
-  }
-  div.ping.extra-large .ping-content {
-    font-family: "garamondno8regular", serif;
-    font-size: 18px;
-    line-height: 1.35;
-  }
-  div.ping.large .ping-content {
-    font-family: "garamondno8regular", serif;
-    font-size: 18px;
-    line-height: 1.35;
-  }
-}
-
 /* TEST */
 
 nav#primary,
@@ -783,4 +760,27 @@ blockquote {
   margin: 1.5em 0;
   font-style: normal;
   font-family: "garamondno8italic";
+}
+
+@media screen and (max-width: 725px) {
+  nav#ping-practice {
+    max-width: 27.5em;
+    margin: 0 auto;
+    padding: 18px;
+    padding-bottom: 0;
+    position: static;
+  }
+  main {
+    position: static;
+  }
+  div.ping.extra-large .ping-content {
+    font-family: "garamondno8regular", serif;
+    font-size: 18px;
+    line-height: 1.35;
+  }
+  div.ping.large .ping-content {
+    font-family: "garamondno8regular", serif;
+    font-size: 18px;
+    line-height: 1.35;
+  }
 }
