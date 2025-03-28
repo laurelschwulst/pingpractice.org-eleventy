@@ -40,31 +40,31 @@ sent_date: 2025-03-28
 
 <div class="ping extra-large">
   <div class="ping-content">See language as an energetic force</div>
-  <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 1 of 3</div>
+  <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 1 of 5</div>
   <div class="ping-metadata variation">March 15, 2025</div>
 </div>
 
 <div class="ping extra-large">
   <div class="ping-content">Add distance between noticing and knowing</div>
-  <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 2 of 3</div>
+  <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 2 of 5</div>
   <div class="ping-metadata variation">March 15, 2025</div>
 </div>
 
 <div class="ping extra-large">
   <div class="ping-content">Trust meaning to reveal itself when ready</div>
-  <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 3 of 3</div>
+  <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 3 of 5</div>
   <div class="ping-metadata variation">March 15, 2025</div>
 </div>
 
 <div class="ping extra-large">
   <div class="ping-content">Ground in the certainty within</div>
-  <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 3 of 3</div>
+  <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 4 of 5</div>
   <div class="ping-metadata variation">March 15, 2025</div>
 </div>
 
 <div class="ping extra-large">
   <div class="ping-content">Move by trying new choices</div>
-  <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 3 of 3</div>
+  <div class="ping-metadata id">Ping Practice Invitation &nbsp;&bull;&nbsp; 5 of 5</div>
   <div class="ping-metadata variation">March 15, 2025</div>
 </div>
 
