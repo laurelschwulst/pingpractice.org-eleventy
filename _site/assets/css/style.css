@@ -379,6 +379,16 @@ figure.pp .overlay-transmissions {
   main {
     position: static;
   }
+  div.ping.extra-large .ping-content {
+    font-family: "garamondno8regular", serif;
+    font-size: 18px;
+    line-height: 1.35;
+  }
+  div.ping.large .ping-content {
+    font-family: "garamondno8regular", serif;
+    font-size: 18px;
+    line-height: 1.35;
+  }
 }
 
 /* TEST */
