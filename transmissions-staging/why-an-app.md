@@ -5,7 +5,7 @@ date: 2025-04-18
 template: transmission
 authors: Laurel Schwulst & Peter Pelberg
 began_date: 2024-08-15
-sent_data: 2025-04-18
+sent_data: 2025-04-23
 ---
 
             <p>A smartphone app is just one of many tools in everyday life. Like other apps, it has pros and cons.</p>
