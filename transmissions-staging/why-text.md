@@ -1,6 +1,6 @@
 ---
 title: Why text?
-date: 2025-04-04
+date: 2025-04-09
 layout: layouts/transmission.njk
 template: transmission
 authors: Peter Pelberg
