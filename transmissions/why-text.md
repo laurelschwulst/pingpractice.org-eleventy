@@ -4,7 +4,7 @@ date: 2025-04-11
 layout: layouts/transmission.njk
 template: transmission
 authors: Peter Pelberg
-began_date: 2024-08-15
+began_date: 2024-09-15
 transmitted_date: 2025-04-11
 # last_edited_date:
 ---
