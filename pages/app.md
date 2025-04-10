@@ -5,7 +5,7 @@ title: App
 nav_order: 3
 ---
 
-<h2>App for iOS and Android</h2>
+<h2>App for iOS</h2>
           <p>
             While Ping Practice is tool agnostic, a
             <a href="https://ping-practice.gitbook.io/pings/experiments" target="_blank"
@@ -15,7 +15,10 @@ nav_order: 3
             would be worthwhile —
           </p>
           <p>
-            We are currently developing a smartphone app for iOS and Android.
+            We are currently developing a smartphone app for iOS. (We would like to extend this to Android eventually as well.)
+          </p>
+          <p>
+            <i>You can explore our latest (published April 2025) app prototype in this <a href="https://apossible.com/collections/ae-002-ping-practice/project-overview?view=stack" target="_blank">case study</a>, published with support of APossible.</i>
           </p>
           <figure style="text-align: center">
             <img src="/assets/images/ping-practice-app-icon.png" width="100" />
