@@ -6,6 +6,7 @@ template: transmission
 authors: Peter Pelberg
 began_date: 2024-08-15
 transmitted_date: 2025-04-11
+sent_status: true
 # last_edited_date:
 ---
 
