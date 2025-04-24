@@ -27,7 +27,7 @@ Whether people used Apple Notes, emailing/texting themselves, physical notebooks
 3. Convenience
 4. Privacy
 
-All the while, no matter the medium or method, people described a tension –
+All the while, no matter the medium or method, people described a tension:
 
 1. People felt grounded, clear, and inspired when they revisited what they had captured
 
