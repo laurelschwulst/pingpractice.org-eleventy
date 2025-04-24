@@ -5,7 +5,7 @@ date: 2025-04-25
 template: transmission
 authors: Laurel Schwulst & Peter Pelberg
 began_date: 2024-08-15
-sent_data: 2025-04-25
+sent_date: 2025-04-25
 ---
 
 We’ve <a href="https://pingpractice.org/transmissions/what-is-a-ping/">previously explored</a> how Ping Practice is medium-agnostic.
