@@ -47,4 +47,4 @@ Ping Practice (the app) draws inspiration from the gradual meaning-making editin
 
 We call it “a camera roll for your thoughts.”
 
-To see how we’ve given shape to the above, we invite you to review this <a href="https://apossible.com/pages/ping-practice?token=678412c06424c4870162888457b32bee9d45a06e">case study</a> and/or <a href="https://forms.gle/52CsyyrqSrcwD5JM8">join us in experimenting</a> with the prototype.
+To see how we’ve given <i>initial</i> shape to the above, we invite you to review this <a href="https://apossible.com/pages/ping-practice?token=678412c06424c4870162888457b32bee9d45a06e">case study</a> and/or <a href="https://forms.gle/52CsyyrqSrcwD5JM8">join us in experimenting</a> with the prototype.
