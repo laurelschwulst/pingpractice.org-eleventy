@@ -3,7 +3,7 @@ layout: layouts/transmission.njk
 title: Why an app?
 date: 2025-04-25
 template: transmission
-authors: Laurel Schwulst & Peter Pelberg
+authors: Peter Pelberg & Laurel Schwulst
 began_date: 2024-08-15
 sent_date: 2025-04-25
 ---
