@@ -1,7 +1,7 @@
 ---
 layout: layouts/transmission.njk
 title: What is the gray image with two waves?
-date: 2025-05-07
+date: 2025-05-09
 template: transmission
 authors: Laurel Schwulst
 began_date: 2024-08-15
@@ -57,3 +57,7 @@ sent_status: true
             >
             for helping us track its origin!
           </p>
+
+<p>
+Finding this elemental physics reference has been grounding for us, as we’ve been considering “ping” as our “core atomic unit.”
+</p>
