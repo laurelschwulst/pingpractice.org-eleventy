@@ -1,12 +1,12 @@
 ---
 layout: layouts/transmission.njk
 title: What is the gray image with two waves?
-date: 2025-05-09
+date: 2025-05-10
 template: transmission
 authors: Laurel Schwulst
 began_date: 2024-08-15
-sent_date: 2025-05-09
-last_edited_date: 2025-05-09
+sent_date: 2025-05-10
+last_edited_date: 2025-05-10
 sent_status: true
 ---
 
@@ -18,8 +18,7 @@ sent_status: true
             />
           </figure>
           <p>
-            The primary image we have been using on our website depicts two
-            subtle concentric ripples in a gray puddle that overlap slightly.
+            The primary image we have been using on our website (and as our prototype iOS app icon) depicts two subtle concentric ripples in a gray puddle that overlap slightly.
           </p>
           <div style="clear: both"></div>
           <p>We enjoy how it visually represents the practice of listening to
