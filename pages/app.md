@@ -20,11 +20,11 @@ nav_order: 3
           <p>
              Please <a href="https://forms.gle/aozYLH1Cxpt5YqLNA" target="_blank">be in touch</a> if you would like to try the beta. 
 </p>
-  <p><i>
-In the meantime, we invite you to review this <a href="https://apossible.com/applied-experiments/ping-practice" target="_blank">case study</a>, published with the support of <a href="https://apossible.com/" target="_blank">APossible</a> (April 2025)</i>.
-          </p>
           </p>
           <figure style="text-align: center">
             <img src="/assets/images/ping-practice-app-icon.png" width="100" />
           </figure>
+  <p><i>
+In the meantime, we invite you to review this <a href="https://apossible.com/applied-experiments/ping-practice" target="_blank">case study</a>, published with the support of <a href="https://apossible.com/" target="_blank">APossible</a> (April 2025)</i>.
+          </p>
         
