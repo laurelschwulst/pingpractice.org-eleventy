@@ -24,4 +24,4 @@ Slowing down enough to embody this intention can take, well, practice. 
 
 The[ June and August (2025) Practitioners Calls](https://docs.google.com/forms/d/e/1FAIpQLSeVAXbCplH75NaRmaFCYJ8chI9GSPc2MKe3VQttUVBomDETTg/viewform?usp=sharing&ouid=115658284533241088477) clarified how energized many of us are to learn about revisiting techniques from one another. 
 
-If offering your revisiting experience for fellow Practitioners to learn from feel energizing, we invite you to visit this form:[ https://forms.gle/1B3gv1AbZHf2yhMN8](https://forms.gle/1B3gv1AbZHf2yhMN8)
+If reflecting on your revisiting experience feels energizing, we invite you to visit this form:[ https://forms.gle/1B3gv1AbZHf2yhMN8](https://forms.gle/1B3gv1AbZHf2yhMN8)
