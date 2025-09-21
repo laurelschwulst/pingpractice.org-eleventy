@@ -16,11 +16,11 @@ Intent on choosing to notice and defer the uncertainty that can accompany Pings:
 
 Slowing down enough to embody this intention can take, well, practice. 
 
-[The method](https://pingpractice.org/method/) grounds its guidance for us to set aside this pull towards certainty in the assumption that there will be a time and place for us to welcome these questions: when we revisit.
+[The method](https://pingpractice.org/method/) grounds its guidance for us to set aside this pull towards meaning in the assumption that there will be a time and place for us to welcome it: when we revisit.
 
 *So, when do you revisit Pings? Where are you? How are you going back through them? What impact do you notice revisiting having?*
 
-\*\*\*\**
+- - -
 
 The[ June and August (2025) Practitioners Calls](https://docs.google.com/forms/d/e/1FAIpQLSeVAXbCplH75NaRmaFCYJ8chI9GSPc2MKe3VQttUVBomDETTg/viewform?usp=sharing&ouid=115658284533241088477) clarified how energized many of us are to learn about revisiting techniques from one another. 
 
