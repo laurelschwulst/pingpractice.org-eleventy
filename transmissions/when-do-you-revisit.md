@@ -15,7 +15,7 @@ We are also intentional – choosing to notice and defer the uncertainty that ca
 
 Slowing down enough to embody this intention can take, well, practice.
 
-[The method](https://pingpractice.org/method/) grounds its guidance for us to set aside this potential pull towards immediate knowing in the assumption that there will be a time and place for us to welcome it: when we revisit.
+[The method](https://pingpractice.org/method/) grounds its guidance for us to set aside this pull towards immediate knowing in the assumption that there will be a time and place for us to welcome it: when we revisit.
 
 - - -
 
