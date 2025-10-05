@@ -3,6 +3,7 @@ title: When do you revisit?
 began_date: 2025-09-05T07:26:00.000-07:00
 sent_date: 2025-10-05T06:00:00.000-07:00
 date: 2025-10-04T21:27:00.000-07:00
+authors: Peter Pelberg
 layout: layouts/transmission.njk
 template: transmission
 ---
