@@ -21,7 +21,7 @@ Slowing down enough to embody this intention can take, well, practice.
 
 Revisiting can take on many forms.
 
-Maybe it’s taking a moment on a Monday to scroll back through Pings from previous Tuesdays. Or maybe searching for Pings that mention the name of a friend you’ll soon be seeing. Or scrolling Pings from “last week” when you want to meet a *“How are you?”* you’re expecting with an earnest answer. 
+Maybe it’s taking a moment on a Sunday to scroll back through Pings from previous Mondays. Or maybe searching for Pings that mention the name of a friend you’ll soon be seeing. Or scrolling Pings from “last week” when you want to meet a *“How are you?”* you’re expecting with an earnest answer. 
 
 - - -
 
