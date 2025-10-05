@@ -8,7 +8,7 @@ template: transmission
 ---
 We capture Pings without expectations.
 
-When we are capturing Pings, we are receiving, listening, *[sensing](https://pingpractice.org/method/)*.
+When we are capturing Pings, we are receiving, listening, *[Sensing](https://pingpractice.org/method/)*.
 
 We are also intentional – choosing to notice and defer the uncertainty that can accompany Pings: *What does this mean? What do I do now? How will I use this?*
 
