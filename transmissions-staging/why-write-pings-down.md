@@ -11,7 +11,7 @@ Capturing Pings can offer a feeling of lightness brought on by:
 1. Seeing a felt place more clearly
 2. Seeing an intrusive Ping disappear <sup>\[i]</sup>
 
-In both cases, the act of capturing can settle a concern -  *“Will I remember this?”* <sup>\[ii]</sup> – which if left unattended could interfere with being present with the work, conversation, play, view, walk, moment, etc. the Ping met you in.
+In both cases, capturing can relieve a tension -  *“I want to remember this ?”* <sup>\[ii]</sup> – which if left unattended could interfere with being present with the work, conversation, play, view, walk, moment, etc. the Ping met you in.
 
 Capturing also creates the potential to revisit Pings and in doing so:
 
@@ -30,7 +30,7 @@ As we talk about all of this, it’s important to name a tension: capturing Ping
 
 Sometimes noticing a Ping is enough. Other times, capturing a Ping deepens our awareness in ways noticing alone may not.
 
-An integral part of Ping Practice is noticing what you sense and making an *intentional* choice from that place.
+An integral part of Ping Practice is becoming clear about is true for you and making *intentional* choices from this place.
 
 - - -
 
