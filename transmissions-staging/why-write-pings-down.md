@@ -8,7 +8,7 @@ template: transmission
 ---
 Capturing Pings can offer a feeling of lightness brought on by:
 
-1. Making a felt place a bit more legible
+1. Drawing a 'line' around a felt place
 2. Seeing an intrusive Ping disappear <sup>\[i]</sup>
 
 In both cases, the act of capturing can settle a concern -  *“Will I remember this?”* <sup>\[ii]</sup> – which if left unattended could interfere with being present with the work, conversation, play, view, walk, moment, etc. the Ping met you in.
