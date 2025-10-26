@@ -6,7 +6,7 @@ date: 2025-10-26T07:16:00.000-07:00
 layout: layouts/transmission.njk
 template: transmission
 ---
-Capturing Pings can offer a lightness that comes from seeing:
+Capturing Pings can offer a feeling of lightness that comes from seeing:
 
 1. A resonant place more clearly
 2. An intrusive Ping disappear <sup>\[i]</sup>
@@ -17,9 +17,9 @@ Capturing also creates the potential to revisit Pings, and in doing so:
 
 1. See how they (and you) evolve 
 2. Sense the themes that exist within Pings 
-3. Ultimately, discover what Pings prove true for you
+3. Ultimately, discover what Pings remain true for you
 
-Browsing past Pings can also help you take a step back and see the thoughts, feelings, ideas, and moods you experience as the energetic flow that they are.
+Browsing past Pings can also help you take a step back and see the thoughts, feelings, ideas, and moods you experience as the energetic flows that they are.
 
 The metadata the [Ping Practice app](https://pingpractice.org/transmissions/why-an-app/) automatically associates with each Ping supports this act. This information grounds Pings in time which can provide a durable scaffolding for navigating Pings and understanding how they relate to the embodied moments we meet Pings in.<sup>[iii]</sup>
 
