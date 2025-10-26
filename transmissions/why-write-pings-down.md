@@ -22,7 +22,7 @@ Capturing also creates the potential to revisit Pings, and in doing so:
 
 Browsing past Pings can also help you take a step back and see the thoughts, feelings, ideas, and moods you experience as the energetic flows that they are.
 
-The metadata the [Ping Practice app](https://pingpractice.org/transmissions/why-an-app/) automatically associates with each Ping supports this act. This information grounds Pings in time (and one day place?) which can provide a durable scaffolding for navigating Pings and understanding how they relate to the embodied moments we meet Pings in.
+The metadata the [Ping Practice app](https://pingpractice.org/transmissions/why-an-app/) automatically associates with each Ping supports this act. This information grounds Pings in time (and one day, place?) which can provide a durable scaffolding for navigating Pings and understanding how they relate to the embodied moments we meet Pings in.
 
 ---
 
