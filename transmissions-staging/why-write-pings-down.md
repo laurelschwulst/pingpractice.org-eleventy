@@ -27,7 +27,7 @@ The metadata the [Ping Practice app](https://pingpractice.org/transmissions/why-
 
 As we talk about all of this, it’s important to name another tension: capturing Pings has the potential to support presence as much as it can interfere with it.
 
-Sometimes noticing a Ping is enough. Other times, capturing a Ping deepens our awareness and brings us further into our bodies in ways noticing alone may not.
+Sometimes noticing a Ping is enough. Other times, capturing a Ping deepens our awareness in ways noticing alone may not.
 
 An integral part of Ping Practice is learning what proves true for you and making creative choices in alignment with these inner places.
 
