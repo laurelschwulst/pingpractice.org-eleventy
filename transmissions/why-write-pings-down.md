@@ -1,6 +1,9 @@
 ---
 title: Why write Pings down?
 date: 2025-10-26T15:00:00.000-07:00
+began_date: 2025-10-03
+sent_date: 2025-10-26
+authors: Peter Pelberg
 layout: layouts/transmission.njk
 template: transmission
 ---
