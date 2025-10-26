@@ -33,7 +33,7 @@ An integral part of Ping Practice is learning what proves true for you and makin
 
 - - -
 
-<small>i. This “disappearing” refers specifically to the capture experience within the Ping Practice app. *See 15-second demo*.</small>
+<small>i. This “disappearing” refers specifically to the capture experience within the Ping Practice app. *Watch [13 second demo](https://www.youtube.com/shorts/o2cSMp6JDlU)*.</small>
 
 <small>ii. I think it’s important to unpack, without judgement, how some of us have come to A) question our  capacity to remember and/or B) become fearful of forgetting. For now, Ping Practice accepts us and see these responses as reflections of the dominant contexts we currently interface with.</small>
 
