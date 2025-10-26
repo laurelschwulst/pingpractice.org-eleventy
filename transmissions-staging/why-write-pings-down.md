@@ -21,13 +21,13 @@ Capturing also creates the potential to revisit Pings, and in doing so:
 
 Browsing past Pings can also help you take a step back and see the thoughts, feelings, ideas, and moods you experience as the energetic flows that they are.
 
-The metadata the [Ping Practice app](https://pingpractice.org/transmissions/why-an-app/) automatically associates with each Ping supports this act. This information grounds Pings in time which can provide a durable scaffolding for navigating Pings and understanding how they relate to the embodied moments we meet Pings in.<sup>[iii]</sup>
+The metadata the [Ping Practice app](https://pingpractice.org/transmissions/why-an-app/) automatically associates with each Ping supports this act. This information grounds Pings in time which can provide a durable scaffolding for navigating Pings and understanding how they relate to the embodied moments we meet Pings in.
 
 ---
 
-As we talk about all of this, it’s important to name a tension: capturing Pings has the potential to support presence as much as it can interfere with it.
+As we talk about all of this, it’s important to name another tension: capturing Pings has the potential to support presence as much as it can interfere with it.
 
-Sometimes noticing a Ping is enough. Other times, capturing a Ping deepens our awareness in ways noticing alone may not.
+Sometimes noticing a Ping is enough. Other times, capturing a Ping deepens our awareness and brings us further into our bodies in ways noticing alone may not.
 
 An integral part of Ping Practice is learning what proves true for you and making choices in alignment with these inner places.
 
@@ -35,6 +35,4 @@ An integral part of Ping Practice is learning what proves true for you and makin
 
 <small>i. This “disappearing” refers specifically to the capture experience within the Ping Practice app. See 15-second demo.</small>
 
-<small>ii. I think it’s important to unpack, without judgement, how some of us have come to A) question our  capacity to remember and/or B) become fearful of forgetting. For now, Ping Practice accepts us and see these responses as reflections of the dominant contexts we currently exist within.</small>
-
-<small>iii. Reviewing the pictures you captured, texts you sent, calls you made, etc. around the time of a Ping can bring added dimension and depth to it .</small>
+<small>ii. I think it’s important to unpack, without judgement, how some of us have come to A) question our  capacity to remember and/or B) become fearful of forgetting. For now, Ping Practice accepts us and see these responses as reflections of the dominant contexts we currently interface with.</small>
