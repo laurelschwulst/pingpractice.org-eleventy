@@ -35,7 +35,7 @@ An integral part of Ping Practice is learning what proves true for you and makin
 
 <small>i. This “disappearing” refers specifically to the capture experience within the Ping Practice app. *Watch [13 second demo](https://www.youtube.com/shorts/o2cSMp6JDlU)*.</small>
 
-<small>ii. I think it’s important to unpack, without judgement, how some of us have come to A) question our  capacity to remember and/or B) become fearful of forgetting. For now, Ping Practice accepts us and see these responses as reflections of the dominant contexts we currently interface with.</small>
+<small>ii. I think it’s important to acknowledge, without judgement, how some of us have come to A) question our  capacity to remember and/or B) become fearful of forgetting. For now, Ping Practice accepts us and see these responses as reflections of the dominant contexts we currently interface with.</small>
 
 - - -
 <small>*Thank you to [Jasmin Huff](https://www.jasminehuff.com/) for posing the question that inspired this transmission. If there is a question/topic you'd value exploring, I hope you will [consider writing](mailto:peter@pingpractice.org).*</small>
