@@ -1,28 +1,27 @@
 ---
 title: Why write Pings down?
 began_date: 2025-10-03T21:11:00.000-07:00
-sent_date: 2025-10-19T06:00:00.000-07:00
-date: 2025-10-12T21:27:00.000-07:00
+sent_date: 2025-10-27T06:00:00.000-07:00
+date: 2025-10-26T07:16:00.000-07:00
 layout: layouts/transmission.njk
 template: transmission
 ---
-Capturing Pings can offer a feeling of lightness brought on by:
+Capturing Pings can offer a lightness that comes from seeing:
 
-1. Seeing a felt place more clearly
-2. Seeing an intrusive Ping disappear <sup>\[i]</sup>
+1. A resonant place more clearly
+2. An intrusive Ping disappear <sup>\[i]</sup>
 
-In both cases, capturing can relieve a tension -  *“I want to remember this ?”* <sup>\[ii]</sup> – which if left unattended could interfere with being present with the work, conversation, play, view, walk, moment, etc. the Ping met you in.
+In both cases, capturing can relieve a tension:  *“I want to remember this later and release it right now.”* <sup>\[ii]</sup> Left unattended to, this tension could interfere with being present with the moment the Ping met you in.
 
-Capturing also creates the potential to revisit Pings and in doing so:
+Capturing also creates the potential to revisit Pings, and in doing so:
 
-1. Notice what a Ping does/does not  bring up over time
-2. Learn what Pings continue to resonate
-3. Develop a sense for the themes that exist within Pings 
-4. Ultimately, discover what Pings to integrate and how
+1. See how they (and you) evolve 
+2. Sense the themes that exist within Pings 
+3. Ultimately, discover what Pings prove true for you
 
-Browsing through Pings can also help you take a step back and see the thoughts, feelings, ideas, and moods you experience as the dynamic flow that they are.
+Browsing past Pings can also help you take a step back and see the thoughts, feelings, ideas, and moods you experience as the energetic flow that they are.
 
-The metadata the Ping Practice app automatically associates with each Ping supports this act. This information grounds Pings in time which can provide a reliable scaffolding for navigating Pings and understanding how they relate to the lived moments we meet Pings in.
+The metadata the [Ping Practice app](https://pingpractice.org/transmissions/why-an-app/) automatically associates with each Ping supports this act. This information grounds Pings in time which can provide a durable scaffolding for navigating Pings and understanding how they relate to the embodied moments we meet Pings in.<sup>[iii]</sup>
 
 ---
 
@@ -30,10 +29,12 @@ As we talk about all of this, it’s important to name a tension: capturing Ping
 
 Sometimes noticing a Ping is enough. Other times, capturing a Ping deepens our awareness in ways noticing alone may not.
 
-An integral part of Ping Practice is becoming clear about is true for you and making *intentional* choices from this place.
+An integral part of Ping Practice is learning what proves true for you and making choices in alignment with these inner places.
 
 - - -
 
 <small>i. This “disappearing” refers specifically to the capture experience within the Ping Practice app. See 15-second demo.</small>
 
-<small>ii. I think it’s important to unpack, without judgement, how some of us have come to A) question our  capacity to remember and/or B) become fearful of forgetting. For now, Ping Practice accepts us and see these responses as reflections of the dominant contexts we exist within right now.</small>
+<small>ii. I think it’s important to unpack, without judgement, how some of us have come to A) question our  capacity to remember and/or B) become fearful of forgetting. For now, Ping Practice accepts us and see these responses as reflections of the dominant contexts we currently exist within.</small>
+
+<small>iii. Reviewing the pictures you captured, texts you sent, calls you made, etc. around the time of a Ping can bring added dimension and depth to it .</small>
