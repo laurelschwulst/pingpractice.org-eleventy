@@ -27,9 +27,14 @@ The scaffolding of Ping Practice had disappeared. We were talking and crucially,
 
 The above feels clear to me. What remains a consistent point of curiosity are the formats and containers that Pings – outside of our internal practices – might thrive within.
 
-As a step in this direction, I’ve recorded  a few videos that attempt to show what Ping Practice can look like for me. 
+As a step in this direction, I’ve recorded a few videos:
+→ Video #1
+→ Video #2
+→ Video #3
 
-“Pings in Practice” felt like an apt name. I feel deeply energized by the prospect of other people contributing. So, if any ideas emerge for you, I hope you will be in touch.
+“Pings in Practice” as I'm calling it, is an attempt to bring some concreteness to what this all can look and feel like.
+
+I feel deeply energized by the prospect of other people contributing. So, if any ideas emerge for you, I hope you will be in touch.
 
 
 <hr>
