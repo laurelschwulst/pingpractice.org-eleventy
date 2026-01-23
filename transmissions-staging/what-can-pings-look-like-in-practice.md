@@ -33,8 +33,7 @@ The scaffolding of Ping Practice had disappeared. We were talking and crucially,
                E.g. The pages on pingpractice.org, Ping Practice Gitbook, this Transmission, etc.</li><br>
                <li>This exercise invited each person to revisit the Pings they had captured, select one that resonated, and place it on a slide for the group to see. Along with the Ping each person had chosen, the exercise asked everyone to share a lightweight reflection about the Ping they were showing and what had moved them to join that day’s conversation.</li><br>
                <li>Namely, towards discussions about the mechanics of the app and method.</li><br>
- <li>Namely, towards discussions about the mechanics of the app and method.</li><br>
- <li>When did you capture this ping? What was happening for you around this time? What has this ping come to mean?</li><br>
+ <li>*When did you capture this ping? What was happening for you around this time? What has this ping come to mean?*</li><br>
 <li>I remember a particular part in the conversation between Ruiqi ma and Isalina Chow #TODO</li>
             </ol>
           </footer>
