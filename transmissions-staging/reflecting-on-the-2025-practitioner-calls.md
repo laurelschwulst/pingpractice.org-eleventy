@@ -1,0 +1,31 @@
+---
+title: Reflecting on the 2025 Practitioner Calls
+began_date: 2026-01-07T12:37:00.000-08:00
+sent_date: 2026-02-27T05:00:00.000-08:00
+date: 2026-02-23T16:37:00.000-08:00
+layout: layouts/transmission.njk
+template: transmission
+---
+Last April, 5 of us gathered for, what would become, the first of 4 “Ping Practitioner” calls ## of us joined in 2025.
+
+In that initial April conversation, we experimented with an exercise that we carried into each subsequent one.<sup>1</sup>
+
+In April and June, this exercise served as an introduction: to each other, and to the place we were meeting in. A series of prompts followed that directed us elsewhere.<sup>2</sup>
+
+In August and November, we tried something different. Rather than moving on from the Pings we’d shared, we stayed with them. People started asking questions.  These questions led to stories and these stories led to patterns and reflections that seemed to resonate across the room.
+
+This all felt like flight: lightness, harmony, propulsion, clarity, fluidity…movement.
+
+The scaffolding of Ping Practice had disappeared. We were talking and crucially, learning with and from one another about what it can be like to create from and navigate experience in the ways Ping Practice speaks to.
+
+While Ping Practice began as an internal practice, 2025 helped reveal to me how connective it can be. 
+
+ <footer>
+            <ol>
+              <li>
+               This exercise invited each person to revisit the Pings they had captured, select one that resonated, and place it on a slide for the group to see. Along with the Ping each person had chosen, the exercise asked everyone to share a lightweight reflection about the Ping they were showing and what had moved them to join that day’s conversation.<br>
+               <li> Namely, towards discussions about the mechanics of the app and method.</li><br>
+ <li>*"When did you capture this ping? What was happening for you around this time? What has this ping come to mean?"*</li><br>
+            </ol>
+          </footer>
+
