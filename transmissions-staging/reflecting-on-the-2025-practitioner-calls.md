@@ -6,7 +6,7 @@ date: 2026-02-23T16:37:00.000-08:00
 layout: layouts/transmission.njk
 template: transmission
 ---
-Last April, 5 of us gathered for, what would become, the first of 4 “Ping Practitioner” calls ## of us joined in 2025.
+Last April, five of us gathered for, what would become, the first of four “Ping Practitioner” calls ## of us joined in 2025.
 
 In that initial April conversation, we experimented with an exercise that we carried into each subsequent one.<sup>1</sup>
 
@@ -14,7 +14,9 @@ In April and June, this exercise served as an introduction: to each other, and t
 
 ---
 
-In August and November, we tried something different. Rather than moving on from the Pings we’d shared, we stayed with them. People started asking questions.  These questions led to stories and these stories led to patterns and reflections that seemed to resonate across the room.
+In August and November, we tried something different. 
+
+Rather than moving on from the Pings we’d shared, we stayed with them. People started asking questions. These questions led to stories and these stories led to patterns and reflections that seemed to resonate across the "room."
 
 This all felt like flight: lightness, harmony, propulsion, clarity, fluidity…movement.
 
@@ -22,7 +24,7 @@ The scaffolding of Ping Practice had disappeared. We were talking and crucially,
 
 ---
 
-While Ping Practice began as an internal practice, 2025 helped reveal to me how connective it can be. This all leaves me wondering: what containers (broadly defined) might further enable this in 2026?
+While Ping Practice began as an internal practice, 2025 helped reveal to me how connective it can be. This all leaves me wondering: what containers (broadly) might further enable this in 2026?
 
 
 ---
