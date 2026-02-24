@@ -12,13 +12,19 @@ In that initial April conversation, we experimented with an exercise that we car
 
 In April and June, this exercise served as an introduction: to each other, and to the place we were meeting in. A series of prompts followed that directed us elsewhere.<sup>2</sup>
 
+---
+
 In August and November, we tried something different. Rather than moving on from the Pings we’d shared, we stayed with them. People started asking questions.  These questions led to stories and these stories led to patterns and reflections that seemed to resonate across the room.
 
 This all felt like flight: lightness, harmony, propulsion, clarity, fluidity…movement.
 
 The scaffolding of Ping Practice had disappeared. We were talking and crucially, learning with and from one another about what it can be like to create from and navigate experience in the ways Ping Practice speaks to.
 
+---
+
 While Ping Practice began as an internal practice, 2025 helped reveal to me how connective it can be. 
+
+---
 
  <footer>
             <ol>
