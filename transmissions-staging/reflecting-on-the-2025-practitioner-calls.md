@@ -18,11 +18,12 @@ In August and November, we tried something different. Rather than moving on from
 
 This all felt like flight: lightness, harmony, propulsion, clarity, fluidity…movement.
 
-The scaffolding of Ping Practice had disappeared. We were talking and crucially, learning with and from one another about what it can be like to create from and navigate experience in the ways Ping Practice speaks to.
+The scaffolding of Ping Practice had disappeared. We were talking and crucially, learning with and from one another about what it can be like to create from and navigate our creative experience in the ways Ping Practice speaks to.
 
 ---
 
-While Ping Practice began as an internal practice, 2025 helped reveal to me how connective it can be. 
+While Ping Practice began as an internal practice, 2025 helped reveal to me how connective it can be. This all leaves me wondering: what containers (broadly defined) might further enable this in 2026?
+
 
 ---
 
