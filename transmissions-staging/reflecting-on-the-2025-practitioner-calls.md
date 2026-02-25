@@ -20,7 +20,7 @@ Rather than moving on from the Pings we’d shared, we stayed with them. People 
 
 This all felt like flight: lightness, harmony, propulsion, clarity, fluidity…movement.
 
-The scaffolding of Ping Practice had disappeared. We were talking, and crucially, learning with and from one another about what it can be like to create from and navigate our experiences in the ways Ping Practice speaks to.
+The scaffolding of Ping Practice had disappeared. We were talking, and crucially, learning with and from one another about what it can be like to navigate and create from our experiences in the ways Ping Practice speaks to.
 
 ---
 
