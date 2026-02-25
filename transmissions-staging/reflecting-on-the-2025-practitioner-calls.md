@@ -6,7 +6,7 @@ date: 2026-02-23T16:37:00.000-08:00
 layout: layouts/transmission.njk
 template: transmission
 ---
-Last April, five of us gathered for, what would become, the first of four “Ping Practitioner” calls ## of us joined in 2025.
+Last April, five of us gathered for, what would become, the first of four “Ping Practitioner” calls in 2025.
 
 In that initial April conversation, we experimented with an exercise that we carried into each subsequent one.<sup>1</sup>
 
