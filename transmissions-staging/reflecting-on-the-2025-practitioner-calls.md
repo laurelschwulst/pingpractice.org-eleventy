@@ -1,5 +1,5 @@
 ---
-title: What are other people pinging?
+title: "Reflection: 2025 Practitioner Calls"
 began_date: 2026-01-07T12:37:00.000-08:00
 sent_date: 2026-02-27T05:00:00.000-08:00
 date: 2026-02-23T16:37:00.000-08:00
