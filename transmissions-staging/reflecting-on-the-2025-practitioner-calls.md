@@ -6,6 +6,7 @@ date: 2026-02-23T16:37:00.000-08:00
 layout: layouts/transmission.njk
 template: transmission
 ---
+
 Last April, five of us gathered for, what would become, the first of four “Ping Practitioner” calls in 2025.
 
 In that initial April conversation, we experimented with an exercise that we carried into each subsequent one.<sup>1</sup>
@@ -39,7 +40,8 @@ While Ping Practice began as an internal practice, 2025 helped reveal to me how 
                This exercise invited each person to revisit the Pings they had captured, select one that resonated, and place it on a slide for the group to see. Along with the Ping each person had chosen, the exercise asked everyone to share a lightweight reflection about the Ping they were showing and what had moved them to join that day’s conversation.</li><br>
                <li> Namely, towards discussions about the mechanics of the app and method.</li><br>
  <li>*"When did you capture this ping? What was happening for you around this time? What has this ping come to mean?"*</li><br>
- <li>*Using "us" feels apt to me. In larger part, I think because of how aligned and connected the past year's conversations have caused me to feel to everyone who has/continues to create space for this project in their lives.*</li><br>
+ <li>Using "us" feels apt to me. In larger part, I think because of how aligned and connected the past year's conversations have caused me to feel to everyone who has/continues to create space for this project in their lives.</li><br>
             </ol>
           </footer>
+
 
