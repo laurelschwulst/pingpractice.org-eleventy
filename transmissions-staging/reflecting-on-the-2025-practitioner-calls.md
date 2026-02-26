@@ -39,7 +39,7 @@ While Ping Practice began as an internal practice, 2025 helped reveal to me how 
                This exercise invited each person to revisit the Pings they had captured, select one that resonated, and place it on a slide for the group to see. Along with the Ping each person had chosen, the exercise asked everyone to share a lightweight reflection about the Ping they were showing and what had moved them to join that day’s conversation.</li><br>
                <li> Namely, towards discussions about the mechanics of the app and method.</li><br>
  <li>*"When did you capture this ping? What was happening for you around this time? What has this ping come to mean?"*</li><br>
- <li>*Using "us" feels apt to me. In larger part, I think because of how aligned and connected the past year's conversations have caused me to feel to everyone who created space for this project in their lives.*</li><br>
+ <li>*Using "us" feels apt to me. In larger part, I think because of how aligned and connected the past year's conversations have caused me to feel to everyone who has/continues to create space for this project in their lives.*</li><br>
             </ol>
           </footer>
 
