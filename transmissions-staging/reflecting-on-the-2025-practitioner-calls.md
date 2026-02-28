@@ -10,6 +10,8 @@ template: transmission
 Last April, five of us gathered for, what would become, the first of four “Ping Practitioner” calls in 2025.
 
 In that initial April conversation, we experimented with an exercise that we carried into each subsequent one.<sup>1</sup>
+      <figure class="photo" alt="a Google Slide with four prompts that people present during the April 2025 Practitioner Call responded to to help us introduce one another.">
+            <img src="/assets/images/Practitioner-Exercise-April2025.png">
 
 In April and June, this exercise served as an introduction: to each other, and to the place we were meeting in. A series of prompts followed that directed us elsewhere.<sup>2</sup>
 
