@@ -21,11 +21,11 @@ Rather than moving on from the Pings we’d shared, we stayed with them. People 
 
 This all felt like flight: lightness, harmony, propulsion, clarity, fluidity…movement.
 
-The scaffolding of Ping Practice had disappeared. We were talking, and crucially, reflecting on and learning from one another about navigating and creating from our experiences in the ways Ping Practice speaks to.
+The scaffolding of Ping Practice had disappeared. We were talking, and crucially, learning from one another about creating in the ways Ping Practice speaks to.
 
 ---
 
-While Ping Practice began as an internal practice, 2025 helped reveal to me how generative and connective of a meeting place it can be for us.<sup>3</sup>
+While Ping Practice began as an internal practice, 2025 helped reveal to me how generative and connective of a meeting place it can be.<sup>3</sup>
 
 
 
