@@ -32,7 +32,8 @@ The scaffolding of Ping Practice had disappeared. We were talking, and crucially
 While Ping Practice began as an internal practice, 2025 helped reveal to me how generative and connective of a meeting place it can be.<sup>3</sup>
 
 
-
+---
+<i> Thank you to NAME, NAME, NAME, NAME, NAME for joining and special thanks to Laurel Schwulst for offering the idea of the initial exercise.</i>
 
 
 
