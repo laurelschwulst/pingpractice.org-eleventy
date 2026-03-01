@@ -18,6 +18,8 @@ In April and June, this exercise served as an introduction: to each other, and t
 ---
 
 In August and November, we tried something different. 
+  <figure class="photo" alt="a Google Slide with two images. On the left is an image of '*' oriented in a circle around the ping practice pond. On the right is an image of '*' existing within the ping practice pong.">
+            <img src="/assets/images/PractitionerCall-August-2025.png‎">
 
 Rather than moving on from the Pings we’d shared, we stayed with them. People started asking questions. The questions led to stories, and the stories surfaced patterns and reflections that seemed to resonate across the room.
 
