@@ -1,8 +1,12 @@
 ---
 title: "Reflection: 2025 Practitioner Calls"
-date: 2026-03-04T18:30:00.000-08:00
+date: 2026-03-04
 layout: layouts/transmission.njk
 template: transmission
+author: Peter Pelberg
+began_date: 2026-01-07
+sent_date:
+sent_status: false
 ---
 Last April, five of us gathered for, what would become, the first of four “Ping Practitioner” calls in 2025.
 
