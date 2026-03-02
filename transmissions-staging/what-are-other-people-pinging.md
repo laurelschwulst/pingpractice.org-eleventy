@@ -31,4 +31,6 @@ So far, it's felt like step that is aligned with the reflection-oriented publish
 
 →  <a href="https://pelberg.com/2026/mendocino-2025/" target="_blank">pelberg.com/2026/mendocino-2025</a> 
 
-If the above “pings” for you, we’d be eager to know. And if the prospect of experimenting yourself feels energizing, the source files are available here. We’re eager to learn from what you try.
+---
+
+If the above resonates, we would be eager to hear from you. And if the prospect of experimenting yourself feels energizing, the source files are available here. We’re eager to learn from what you try.
