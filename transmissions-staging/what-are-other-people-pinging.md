@@ -26,7 +26,8 @@ With all of the above in mind, linked below are a few examples that demonstrate 
 
 So far, it's felt like step that is aligned with the reflection-oriented publishing seeing what other people are pinging might depend on.
 
-→  <a href="https://joannelam.com/inpractice" target="_blank">joannelam.com/inpractice</a 
+→  <a href="https://joannelam.com/inpractice" target="_blank">joannelam.com/inpractice</a> 
+
 →  <a href="https://pelberg.com/2026/mendocino-2025/" target="_blank">pelberg.com/2026/mendocino-2025/</a> 
 
 If the above “pings” for you, we’d be eager to know. And if the prospect of experimenting yourself feels energizing, the source files are available here. We’re eager to learn from what you try.
