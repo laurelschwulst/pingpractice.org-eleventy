@@ -10,7 +10,9 @@ Versions of this question continue to emerge in conversations with people who ar
 
 ---
 
-I wonder about this too. Specifically, about the forms and places outside of our internal practices that pings might thrive within. 
+I wonder about this too. 
+
+Specifically, about the forms and places outside of our internal practices that pings might thrive within. 
 
 Put another way: <i> What might inspire us to publish Pings in ways that…?</i> 
 1. <i>Feel aligned with the open posture we receive them in</i>
