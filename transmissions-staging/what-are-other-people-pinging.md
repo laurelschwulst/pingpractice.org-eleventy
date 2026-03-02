@@ -19,7 +19,8 @@ Put another way: <i> What might inspire us to publish Pings in ways that…?</i>
 2. <i>Encourage the revisiting and reflection Ping Practice is meant to facilitate</i>
 3. <i>Support the meaning-making , connection, and collaboration that we’ve seen emerge in conversations with people who are also pinging</i>
 
-While I think the “places” that give rise to these conditions are still to-be-discovered, the steps and thrust  for moving towards them feels clear.
+While I think the “places” that give rise to these conditions are still to-be-discovered, <a href="https://pingpractice.org/method/" target="_blank">the steps</a>  and <a href="https://pingpractice.org/transmissions/reflection-2025-practitioner-calls/" target="_blank">thrust for moving</a> towards them feels clear.
+
 
 - - - 
 With all of the above in mind, linked below are a few examples that demonstrate a format Joanne Lam and I have been experimenting with. 
@@ -28,6 +29,6 @@ So far, it's felt like step that is aligned with the reflection-oriented publish
 
 →  <a href="https://joannelam.com/inpractice" target="_blank">joannelam.com/inpractice</a> 
 
-→  <a href="https://pelberg.com/2026/mendocino-2025/" target="_blank">pelberg.com/2026/mendocino-2025/</a> 
+→  <a href="https://pelberg.com/2026/mendocino-2025/" target="_blank">pelberg.com/2026/mendocino-2025</a> 
 
 If the above “pings” for you, we’d be eager to know. And if the prospect of experimenting yourself feels energizing, the source files are available here. We’re eager to learn from what you try.
