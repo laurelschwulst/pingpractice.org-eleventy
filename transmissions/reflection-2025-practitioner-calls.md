@@ -1,12 +1,12 @@
 ---
-title: "Reflection: 2025 Practitioner Calls"
-date: 2026-03-01
 layout: layouts/transmission.njk
-template: transmission
 author: Peter Pelberg
-began_date: 2026-01-07
+date: 2026-03-01
 sent_date: 2026-03-06
+title: "Reflection: 2025 Practitioner Calls"
 sent_status: true
+template: transmission
+began_date: 2026-01-07
 ---
 
 Last April, five of us gathered for, what would become, the first of four “Ping Practitioner” calls in 2025.
@@ -35,7 +35,7 @@ While Ping Practice began as an internal practice, 2025 helped reveal to me how 
 
 
 ---
-<i> Laurel Schwulst, thank you for for offering the idea of the initial exercise. Haidar Aqilla, Lennox Bishop, Fatima del Bosque, Cole Chandler, Samantha Charleston, Isalina Chow, Clay Devlin, Jasmine Huff, Ben Kassoy, Jamie Lee, Jennifer Lee, Connie Liu, Ruiqi Ma, Caroline Paddon, Matt Prebeg, Kyra Sims, Adrienne Sloan, Kirsten Spruit, Purity Waigi, Irena Wang: thank you for joining in 2025.</i>
+<i> Laurel Schwulst, thank you for for offering the idea of the initial exercise. Bảo Anh, Haidar Aqilla, Lennox Bishop, Fatima del Bosque, Cole Chandler, Samantha Charleston, Isalina Chow, Clay Devlin, Jasmine Huff, Ben Kassoy, Jamie Lee, Jordan Lee, Jennifer Lee, Connie Liu, Ruiqi Ma, Rachel Ostrowski, Caroline Paddon, Matt Prebeg, Kyra Sims, Adrienne Sloan, Kirsten Spruit, Sandister Tei, Purity Waigi, Irena Wang: thank you for joining in 2025.</i>
 
 
 
