@@ -21,7 +21,9 @@ The <a href="https://pingpractice.org/transmissions/reflection-2025-practitioner
 Informed by the above, and inspired by an <a href="https://writing.joannelam.com/a-portrait-of-tracy/" target="_blank">experimental short documentary</a> Joanne wrote and directed,  we began wondering together what a publishing format shaped by Ping Practice might look like.
 
 Joanne describes it this way:
-<i>INSERT QUOTES FROM JOANNE</i>
+    <blockquote>
+INSERT QUOTES FROM JOANNE
+    </blockquote>
 
 →  <a href="https://joannelam.com/inpractice" target="_blank">joannelam.com/inpractice</a> 
 
@@ -32,6 +34,7 @@ Joanne describes it this way:
 So far, the format feels directionally aligned with the lightweight, calm, an gradual, and reflection-oriented publishing seeing what other people are pinging might depend on. 
 
 If the above “pings” for you, we’d love to know. And if experimenting yourself feels energizing, the source files are available here. We’re eager to learn what you notice.
+
 ---
 
  <footer>
