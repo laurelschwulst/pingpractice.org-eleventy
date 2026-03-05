@@ -6,26 +6,22 @@ date: 2026-03-01T17:49:00.000-08:00
 layout: layouts/transmission.njk
 template: transmission
 ---
-Versions of this question continue to emerge in conversations with people who are pinging.
+Versions of this question continue to emerge in conversations with people who are pinging.<sup>1</sup>
+
+I wonder about this too. Specifically:
+
+<i>What might inspire us to publish Pings in ways that are aligned with the openness we receive them with, invite reflection, and support the meaning-making, learning, and connection we’ve seen emerge in conversations with people who are also pinging?</i>
 
 ---
 
-I wonder about this too. 
+The <a href="https://pingpractice.org/transmissions/reflection-2025-practitioner-calls/" target="_blank">2025 Practitioner Calls</a>  offer one point of reference.<sup>2</sup> So too do the Are.na channels we’ve experimented with in recent months.<sup>3</sup>
 
-Specifically, about the forms and places outside of our internal practices that pings might thrive within. 
+---
 
-Put another way: <i> What might inspire us to publish Pings in ways that…?</i> 
-1. <i>Feel aligned with the open posture we receive them in</i>
-2. <i>Encourage the revisiting and reflection Ping Practice is meant to facilitate</i>
-3. <i>Support the meaning-making , connection, and collaboration that we’ve seen emerge in conversations with people who are also pinging</i>
+Informed by the above, and inspired by an <a href="https://writing.joannelam.com/a-portrait-of-tracy/" target="_blank">experimental short documentary</a> Joanne wrote and directed,  we began wondering together what a publishing format shaped by Ping Practice might look like.
 
-While I think the “places” that give rise to these conditions are still to-be-discovered, <a href="https://pingpractice.org/method/" target="_blank">the steps</a>  and <a href="https://pingpractice.org/transmissions/reflection-2025-practitioner-calls/" target="_blank">thrust for moving</a> towards them feels clear.
-
-
-- - - 
-With all of the above in mind, linked below are a few examples that demonstrate a format Joanne Lam and I have been experimenting with. 
-
-So far, it's felt like step that is aligned with the reflection-oriented publishing seeing what other people are pinging might depend on.
+Joanne describes it this way:
+<i>INSERT QUOTES FROM JOANNE</i>
 
 →  <a href="https://joannelam.com/inpractice" target="_blank">joannelam.com/inpractice</a> 
 
@@ -33,4 +29,15 @@ So far, it's felt like step that is aligned with the reflection-oriented publish
 
 ---
 
-If the above resonates, we would be eager to hear from you. And if the prospect of experimenting yourself feels energizing, the source files are available here. We’re eager to learn from what you try.
+So far, the format feels directionally aligned with the lightweight, calm, an gradual, and reflection-oriented publishing seeing what other people are pinging might depend on. 
+
+If the above “pings” for you, we’d love to know. And if experimenting yourself feels energizing, the source files are available here. We’re eager to learn what you notice.
+---
+
+ <footer>
+            <ol>
+              <li> <i>“Am I doing this ‘right’?” What can “pinging” actually look like? Might there be ways of Pinging that I could consider trying? Might other people be Pinging around related ideas and experiences? Who else is pinging?”
+</i></li><br>
+               <li> <i>During the 2025 Practitioner Calls, we led with an exercise that invited each person to revisit the Pings they had captured, select one that resonated, and place it on a slide for the group to see. Along with the Ping each person had chosen, the exercise asked everyone to share a lightweight reflection about the Ping they were showing and what had moved them to join that day’s conversation. From there, the conversations naturally took flight.</i></li><br>
+            </ol>
+          </footer>
