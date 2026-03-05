@@ -25,9 +25,12 @@ Joanne describes it this way:
 INSERT QUOTES FROM JOANNE
     </blockquote>
 
-→  <a href="https://joannelam.com/inpractice" target="_blank">joannelam.com/inpractice</a> 
+→  <a href="https://joannelam.com/inpractice" target="_blank">In Practice</a> 
 
-→  <a href="https://pelberg.com/2026/mendocino-2025/" target="_blank">pelberg.com/2026/mendocino-2025</a> 
+→  <a href="https://pelberg.com/2026/mendocino-2025/" target="_blank">Mendocino 2025</a> 
+
+→  <a href="https://pelberg.com/2026/the-world-is-so-loud/index.html" target="_blank">The world is so loud</a> 
+
 
 ---
 
