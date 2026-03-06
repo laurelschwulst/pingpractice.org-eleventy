@@ -1,14 +1,13 @@
 ---
+authors: Peter Pelberg
 title: "Reflection: 2025 Practitioner Calls"
 date: 2026-03-01T15:00:00.000-07:00
-sent_status: true
-began_date: 2026-01-07
-sent_date: 2026-03-06
-authors: Peter Pelberg
 layout: layouts/transmission.njk
+sent_date: 2026-03-06
+sent_status: true
 template: transmission
+began_date: 2026-01-07
 ---
-
 Last April, five of us gathered for, what would become, the first of four “Ping Practitioner” calls in 2025.
 
 In that initial April conversation, we experimented with an exercise that we carried into each subsequent one.<sup>1</sup>
@@ -17,9 +16,10 @@ In that initial April conversation, we experimented with an exercise that we car
 
 In April and June, this exercise served as an introduction: to each other, and to the place we were meeting in. A series of prompts followed that directed us elsewhere.<sup>2</sup>
 
----
+- - -
 
 In August and November, we tried something different. 
+
   <figure class="photo" alt="a Google Slide with two images. On the left is an image of '*' oriented in a circle around the ping practice pond. On the right is an image of '*' existing within the ping practice pond.">
             <img src="/assets/images/PractitionerCall-August-2025.png">
 
@@ -29,17 +29,15 @@ This all felt like flight: lightness, harmony, propulsion, clarity, fluidity…m
 
 The scaffolding of Ping Practice had disappeared. We were talking, and crucially, learning from one another about creating in the ways Ping Practice speaks to.
 
----
+- - -
 
 While Ping Practice began as an internal practice, 2025 helped reveal to me how generative and connecting it can be.<sup>3</sup>
 
+- - -
 
----
-<i> Laurel Schwulst, thank you for for offering the idea of the initial exercise. Bảo Anh, Haidar Aqilla, Lennox Bishop, Fatima del Bosque, Cole Chandler, Samantha Charleston, Isalina Chow, Clay Devlin, Jasmine Huff, Ben Kassoy, Jamie Lee, Jordan Lee, Jennifer Lee, Connie Liu, Ruiqi Ma, Rachel Ostrowski, Caroline Paddon, Matt Prebeg, Kyra Sims, Adrienne Sloan, Kirsten Spruit, Sandister Tei, Purity Waigi, Irena Wang: thank you for joining in 2025.</i>
+<i> [Laurel Schwulst](https://laurelschwulst.com/), thank you for for offering the idea of the initial exercise. [Bảo Anh](https://www.instagram.com/banhbn/), Haidar Aqilla, Lennox Bishop, [Fatima del Bosque](https://fatimadelbosque.myportfolio.com/), Cole Chandler, Samantha Charleston, Isalina Chow, [Clay Devlin](https://www.coincidence.studio/), [Jasmine Huff](https://www.jasminehuff.com/), [Ben Kassoy](https://www.benkassoy.com/), Jamie Lee, [Jordan Lee](https://www.mutualbenef.it/about/), [Jennifer Lee](https://linktr.ee/jenniferrlee_), [Connie Liu](https://connie.surf/), [Ruiqi Ma](https://riqi2nd.com/), Rachel Ostrowski, Caroline Paddon, [Matthew Prebeg](https://matt-prebeg.com/), [Kyra Sims](https://www.kyrasims.com/), [Adrienne Sloan](https://adriennesloan.com/), [Kirsten Spruit](https://kirstenspruit.com/), [Sandister Tei](https://en.wikipedia.org/wiki/Sandister_Tei), Purity Waigi, [Irena Wang](https://www.irena-w.xyz/): thank you for joining in 2025.</i>
 
-
-
----
+- - -
 
  <footer>
             <ol>
@@ -48,5 +46,3 @@ While Ping Practice began as an internal practice, 2025 helped reveal to me how 
                <li> Namely, towards discussions about the mechanics of the app and method.</li><br>
             </ol>
           </footer>
-
-
