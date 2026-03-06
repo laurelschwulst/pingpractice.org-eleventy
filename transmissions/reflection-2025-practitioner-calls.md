@@ -31,11 +31,11 @@ The scaffolding of Ping Practice had disappeared. We were talking, and crucially
 
 - - -
 
-While Ping Practice began as an internal practice, 2025 helped reveal to me how generative and connecting it can be.<sup>3</sup>
+While Ping Practice began as an internal practice, 2025 helped reveal to me how generative and connecting it can be.
 
 - - -
 
-<i> [Laurel Schwulst](https://laurelschwulst.com/), thank you for for offering the idea of the initial exercise. [Bảo Anh](https://www.instagram.com/banhbn/), Haidar Aqilla, Lennox Bishop, [Fatima del Bosque](https://fatimadelbosque.myportfolio.com/), Cole Chandler, Samantha Charleston, Isalina Chow, [Clay Devlin](https://www.coincidence.studio/), [Jasmine Huff](https://www.jasminehuff.com/), [Ben Kassoy](https://www.benkassoy.com/), Jamie Lee, [Jordan Lee](https://www.mutualbenef.it/about/), [Jennifer Lee](https://linktr.ee/jenniferrlee_), [Connie Liu](https://connie.surf/), [Ruiqi Ma](https://riqi2nd.com/), Rachel Ostrowski, Caroline Paddon, [Matthew Prebeg](https://matt-prebeg.com/), [Kyra Sims](https://www.kyrasims.com/), [Adrienne Sloan](https://adriennesloan.com/), [Kirsten Spruit](https://kirstenspruit.com/), [Sandister Tei](https://en.wikipedia.org/wiki/Sandister_Tei), Purity Waigi, [Irena Wang](https://www.irena-w.xyz/): thank you for joining in 2025.</i>
+<i> [Laurel Schwulst](https://laurelschwulst.com/), thank you for for offering the idea of the initial exercise. [Bảo Anh](https://www.instagram.com/banhbn/), Haidar Aqilla, Lennox Bishop, [Fatima del Bosque](https://fatimadelbosque.myportfolio.com/), Cole Chandler, Samantha Charleston, Isalina Chow, [Clay Devlin](https://www.coincidence.studio/), [Jasmine Huff](https://www.jasminehuff.com/), [Ben Kassoy](https://www.benkassoy.com/), Jamie Lee, [Jordan Lee](https://www.mutualbenef.it/about/), [Jennifer Lee](https://linktr.ee/jenniferrlee_), [Connie Liu](https://connie.surf/), [Ruiqi Ma](https://riqi2nd.com/), Rachel Ostrowski, Caroline Paddon, [Matthew Prebeg](https://matt-prebeg.com/), [Kyra Sims](https://www.kyrasims.com/), [Adrienne Sloan](https://adriennesloan.com/), [Kirsten Spruit](https://kirstenspruit.com/), [Sandister Tei](https://en.wikipedia.org/wiki/Sandister_Tei), Purity Waigi, [Irena Wang](https://www.irena-w.xyz/): thank you for joining in 2025.<sup>3</sup></i>
 
 - - -
 
@@ -43,6 +43,7 @@ While Ping Practice began as an internal practice, 2025 helped reveal to me how 
             <ol>
               <li>
                This exercise invited each person to revisit the Pings they had captured, select one that resonated, and place it on a slide for the group to see. Along with the Ping each person had chosen, the exercise asked everyone to share a lightweight reflection about the Ping they were showing and what had moved them to join that day’s conversation.</li><br>
-               <li> Namely, towards discussions about the mechanics of the app and method.</li><br>
+               <li> Namely, towards discussions about the mechanics of the app and method.</li><br>\
+<li>Note: if you appear in this list and A) you'd prefer not to be or B) would prefer a different URL be linked, I hope you will let me know. Of course, if you do not appear and were present for a call, I hope you will be in touch about this too.</li><br>
             </ol>
           </footer>
