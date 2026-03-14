@@ -8,42 +8,53 @@ template: transmission
 ---
 Versions of this question continue to emerge in conversations with people who are pinging.<sup>1</sup>
 
-I wonder about this too. Specifically:
+Informed by the above, and inspired by an [experimental short documentary](https://writing.joannelam.com/a-portrait-of-tracy/) Joanne<sup>2</sup> wrote and directed,  we began wondering together: *What might a reflection-oriented publishing format look like?* 
 
-<i>What might inspire us to publish Pings in ways that are aligned with the openness we receive them with, invite reflection, and support the meaning-making, learning, and connection we’ve seen emerge in conversations with people who are also pinging?</i>
+A format that:
 
----
+1. Aligns with the openness and uncertainty we receive Pings with
+2. Inspires the reflection and meaning-making Ping Practice describes
+3. Enables the learning and connection that’s [emerged in Practitioner Calls.](https://pingpractice.org/transmissions/reflection-2025-practitioner-calls/)
 
-The <a href="https://pingpractice.org/transmissions/reflection-2025-practitioner-calls/" target="_blank">2025 Practitioner Calls</a>  offer one point of reference.<sup>2</sup> So too do the Are.na channels we’ve experimented with in recent months.<sup>3</sup>
+- - -
 
----
+What follows is an initial exploration into the above. You can see some examples of what we’ve published here:
 
-Informed by the above, and inspired by an <a href="https://writing.joannelam.com/a-portrait-of-tracy/" target="_blank">experimental short documentary</a> Joanne wrote and directed,  we began wondering together what a publishing format shaped by Ping Practice might look like.
+→ [https://joannelam.com/in-practice/](https://joannelam.com/inpractice/)\
+*Tracing how Joanne crossed paths with Ping Practice*
+\
+→ <https://pelberg.com/2026/mendocino-2025/>\
+*Changing plans and following intuition: April and May, 2025*
 
-Joanne describes it this way:
-    <blockquote>
-INSERT QUOTES FROM JOANNE
-    </blockquote>
+→ [https://pelberg.com/2026/the-world-is-so-loud](https://pelberg.com/2026/the-world-is-so-loud/index.html) 
+*Pings becoming a poem: September - November, 2025*
 
-→  <a href="https://joannelam.com/inpractice" target="_blank">In Practice</a> 
+- - -
 
-→  <a href="https://pelberg.com/2026/mendocino-2025/" target="_blank">Mendocino 2025</a> 
+So far, browsing each other’s Pings has felt fluid, focused, and quiet.<sup>3</sup> The format has also felt intimate: Pings are afforded the space to resonate with one another, and our innermost expressions are exhibited with care.<sup>4</sup>
 
-→  <a href="https://pelberg.com/2026/the-world-is-so-loud/index.html" target="_blank">The world is so loud</a> 
+- - -
 
+Now, circling back to the title of this Transmission – *What are other people Pinging? –* we would like to try an experiment together:
 
----
+1. Revisit the Pings you captured between January 1 and February 28, 2026 
+2. As you browse them, notice which resonate with you and that you feel drawn to “bringing” with you
+3. When you happen upon Pings that feel aligned with the above, take a screenshot
+4. After revisiting your Pings, open your Photos app and select up to five that you’d feel comfortable being published.
+5. Upload those Pings using [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6).
 
-So far, the format feels directionally aligned with the lightweight, calm, an gradual, and reflection-oriented publishing seeing what other people are pinging might depend on. 
+Joanne and I will then review all of the Pings and publish a selection of them using this format.
 
-If the above “pings” for you, we’d love to know. And if experimenting yourself feels energizing, the source files are available here. We’re eager to learn what you notice.
+Let’s see how this feels.
 
----
+- - -
 
  <footer>
             <ol>
               <li> <i>“Am I doing this ‘right’?” What can “pinging” actually look like? Might there be ways of Pinging that I could consider trying? Might other people be Pinging around related ideas and experiences? Who else is pinging?”
 </i></li><br>
-               <li> <i>During the 2025 Practitioner Calls, we led with an exercise that invited each person to revisit the Pings they had captured, select one that resonated, and place it on a slide for the group to see. Along with the Ping each person had chosen, the exercise asked everyone to share a lightweight reflection about the Ping they were showing and what had moved them to join that day’s conversation. From there, the conversations naturally took flight.</i></li><br>
-            </ol>
+               <li> <i> Joanne is a creative producer, writer, and publisher of projects that bring curious connections into orbit through the senses.
+</i></li><br>
+ <li> <i>  I (Peter) have also noticed myself feeling more strongly drawn to revisiting pings knowing there is a clear and inspiring container to shape and present them with.</i></li><br>          
+</ol>
           </footer>
