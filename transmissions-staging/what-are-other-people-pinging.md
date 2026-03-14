@@ -24,7 +24,8 @@ What follows is an initial exploration into the above. You can see some examples
 
 → [https://joannelam.com/in-practice/](https://joannelam.com/inpractice/)\
 *Tracing how Joanne crossed paths with Ping Practice*
-\
+
+
 → <https://pelberg.com/2026/mendocino-2025/>\
 *Changing plans and following intuition: April and May, 2025*
 
