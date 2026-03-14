@@ -29,6 +29,8 @@ What follows is an initial exploration into the above. You can see some examples
 *Changing plans and following intuition. Pings from April and May, 2025*
 
 →[The world is so loud](https://pelberg.com/2026/the-world-is-so-loud/index.html)
+
+
 *TBD. Pings from September and October, 2025*
 
 - - -
