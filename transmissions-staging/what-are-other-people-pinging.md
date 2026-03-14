@@ -22,15 +22,13 @@ A format that:
 
 What follows is an initial exploration into the above. You can see some examples of what we’ve published here:
 
-→ [In practice](https://joannelam.com/inpractice/)\
+\* [In practice](https://joannelam.com/inpractice/)\
 *Tracing how Joanne crossed paths with Ping Practice*
 
-→ [Mendocino 2025](https://pelberg.com/2026/mendocino-2025/)\
+\* [Mendocino 2025](https://pelberg.com/2026/mendocino-2025/)\
 *Changing plans and following intuition. Pings from April and May, 2025*
 
-→[The world is so loud](https://pelberg.com/2026/the-world-is-so-loud/index.html)
-
-
+\* [The world is so loud](https://pelberg.com/2026/the-world-is-so-loud/index.html)
 *TBD. Pings from September and October, 2025*
 
 - - -
