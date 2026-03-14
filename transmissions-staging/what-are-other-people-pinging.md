@@ -33,7 +33,7 @@ What follows is an initial exploration into the above. You can see some examples
 
 - - -
 
-So far, browsing each other’s Pings has felt fluid, focused, and quiet.<sup>3</sup> The format has also felt intimate: Pings are afforded the space to resonate with one another, and our innermost expressions are exhibited with care.<sup>4</sup>
+So far, browsing each other’s Pings in this format has felt fluid, focused, and quiet.<sup>3</sup> The format has also felt intimate: Pings are afforded the space to resonate with one another, and our innermost expressions are exhibited with care.<sup>4</sup>
 
 - - -
 
