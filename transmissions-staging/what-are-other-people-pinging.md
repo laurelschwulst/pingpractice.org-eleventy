@@ -39,7 +39,7 @@ So far, browsing each other’s Pings in this format has felt fluid, focused, an
 
 - - -
 
-Now, circling back to the title of this Transmission – *What are other people Pinging? –* we would like to try an experiment together:
+Now, circling back to the title of this Transmission – *What are other people Pinging? –* we would like to try an experiment together that goes like this:
 
 1. Revisit the Pings you captured between January 1 and February 28, 2026 
 2. As you browse them, notice which resonate with you and that you feel drawn to “bringing” with you
