@@ -27,10 +27,10 @@ What follows is an initial exploration into the above. You can see some examples
 
 
 → <https://pelberg.com/2026/mendocino-2025/>\
-*Changing plans and following intuition: April and May, 2025*
+*Changing plans and following intuition. Pings from April and May, 2025*
 
 → [https://pelberg.com/2026/the-world-is-so-loud](https://pelberg.com/2026/the-world-is-so-loud/index.html) 
-*Pings becoming a poem: September - November, 2025*
+*TBD. Pings from September and October, 2025*
 
 - - -
 
