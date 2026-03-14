@@ -55,6 +55,7 @@ Let’s see how this feels.
 </i></li><br>
                <li> <i> Joanne is a creative producer, writer, and publisher of projects that bring curious connections into orbit through the senses.
 </i></li><br>
- <li> <i>  I (Peter) have also noticed myself feeling more strongly drawn to revisiting pings knowing there is a clear and inspiring container to shape and present them with.</i></li><br>          
+ <li> <i>  I (Peter) have also noticed myself feeling more strongly drawn to revisiting pings knowing there is a clear and inspiring container to shape and present them with.</i></li><br> 
+ <li> <i>“Guard the mysteries! Constantly reveal them!”</i>, Lew Welch, <i>“Theology”</i></li><br> 
 </ol>
           </footer>
