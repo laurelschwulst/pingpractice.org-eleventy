@@ -20,7 +20,7 @@ A format that:
 
 - - -
 
-What follows is an initial exploration into the above. You can see some examples of what we’ve published here:
+What follows are some examples of an initial exploration into the above:
 
 \* [In practice](https://joannelam.com/inpractice/)\
 *Tracing how Joanne crossed paths with Ping Practice*
@@ -37,7 +37,7 @@ So far, browsing each other’s Pings in this format has felt fluid, focused, an
 
 - - -
 
-Now, circling back to the title of this Transmission – *What are other people Pinging? –* we would like to try an experiment together that goes like this:
+Now, circling back to the title of this Transmission – *What are other people Pinging? –* we would like to try an experiment together that'll go like this:
 
 1. Revisit the Pings you captured between January 1 and February 28, 2026 
 2. As you browse them, notice which resonate with you and that you feel drawn to “bringing” with you
