@@ -58,7 +58,7 @@ We will each:
 5. We (Joanne and Peter) will then review all of the Pings and publish a selection of them using this format.
 6. That's it 
 
-Thank you for being open to this prospect. Let’s see how this feels \*\**
+Thank you for being open to this prospect. Let’s see how this feels *
 
 - - -
 
