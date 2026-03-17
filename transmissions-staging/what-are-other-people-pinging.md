@@ -37,9 +37,9 @@ What follows are some examples of an initial exploration into the above:
 
 So far, browsing each other’s Pings in this format has felt fluid and quiet.<sup>3</sup> 
 
-The format has also felt intimate: Pings are afforded the space to resonate with one another, and our inner expressions are exhibited with care.<sup>4</sup>
+I (Joanne) am finding the format to be quite intimate: Pings are afforded the space to resonate with one another, and our innermost expressions are exhibited with care.<sup>4</sup>
 
-I (Peter) have also noticed myself revisiting pings differently knowing there is a clear and inspiring container to shape and present the relationships I'd felt and previously not yet externalized. 
+I (Peter) have noticed myself revisiting pings differently knowing there is a clear and inspiring container to shape and present the relationships I'd felt between pings and not yet expressed. 
 
 *What about for you? What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate, "Yes"? Anything that gave you pause? Whatever the case, [we'd be eager to learn from you](https://www.are.na/peter-pelberg/ping-practice-publishing).*
 
