@@ -1,9 +1,8 @@
 ---
-authors: Joanne Lam, Peter Pelberg
 title: What are other people pinging?
 began_date: 2026-01-23T15:34:00.000-08:00
-sent_date: 2026-03-20T17:30:00.000-07:00
-date: 2026-03-15T17:49:00.000-08:00
+sent_date: 2026-03-08T17:30:00.000-07:00
+date: 2026-03-01T17:49:00.000-08:00
 layout: layouts/transmission.njk
 template: transmission
 ---
@@ -42,7 +41,7 @@ I (Joanne) am finding the format to be quite intimate: Pings are afforded the sp
 
 I (Peter) have noticed myself revisiting pings differently knowing there is a clear and inspiring container to shape and present the relationships I'd felt and not yet expressed. 
 
-*What about for you? What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate, "Yes"? Anything that gave you pause? Whatever the case, [we'd be eager to hear](https://www.are.na/peter-pelberg/ping-practice-publishing).*
+*What about for you? What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if?"? Anything that gave you pause? Whatever the case, [we'd be eager to hear](https://www.are.na/peter-pelberg/ping-practice-publishing).*
 
 - - -
 
