@@ -35,9 +35,9 @@ What follows are some examples of an initial exploration into the above:
 
 - - -
 
-So far, browsing each other’s Pings in this format has felt fluid and quiet.<sup>3</sup> 
+So far, browsing each other’s Pings in this format has felt fluid and quiet.
 
-I (Joanne) am finding the format to be quite intimate: Pings are afforded the space to resonate with one another, and our innermost expressions are exhibited with care.<sup>4</sup>
+I (Joanne) am finding the format to be quite intimate: Pings are afforded the space to resonate with one another, and our innermost expressions are exhibited with care.<sup>3</sup>
 
 I (Peter) have noticed myself revisiting pings differently knowing there is a clear and inspiring container to shape and present the relationships I'd felt and not yet expressed. 
 
@@ -68,7 +68,6 @@ Joanne and I will then review all of the Pings and publish a selection of them u
 </i></li><br>
                <li> <i> Joanne is a creative producer, writer, and publisher of projects that bring curious connections into orbit through the senses.
 </i></li><br>
- <li> <i>  I (Peter) have also noticed myself feeling more strongly drawn to revisiting pings knowing there is a clear and inspiring container to shape and present them with.</i></li><br> 
  <li> <i>“Guard the mysteries! Constantly reveal them!”</i> – Lew Welch, <i>“Theology”</i></li><br> 
 </ol>
           </footer>
