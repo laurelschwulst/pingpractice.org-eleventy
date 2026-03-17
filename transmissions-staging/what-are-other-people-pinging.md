@@ -52,7 +52,7 @@ Here's how it will go. We will each:
 
 Joanne and I will then review all of the Pings and publish a selection of them using this format.
 
-\~ \*Let’s see how this feels \* \~ 
+\* Let’s see how this feels \* 
 
 - - -
 
