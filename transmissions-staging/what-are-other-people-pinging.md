@@ -53,13 +53,12 @@ We will each:
 
 1. Revisit the Pings we captured between January 1 and February 28, 2026<br>
 2. As we browse our respective pings, we will notice which ping(s) resonate and take a screenshot of those that do<br>
-3. After revisiting ours Pings, we'll open the Photos app, and select up to five that we want to put out into the universe<br>
-4. Upload the Pings we selected in "4." using [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6).
+3. After revisiting our Pings, we'll open the Photos app, and select up to five that we want to put out into the universe<br>
+4. We'll each then upload the Pings we selected in "4." using [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6).
 5. We (Joanne and Peter) will then review all of the Pings and publish a selection of them using this format.
+6. That's it!
 
-Thank you for being open to this prospect. 
-
-\* Let’s see how this feels \* 
+Thank you for being open to this prospect. Let’s see how this feels \*\**
 
 - - -
 
