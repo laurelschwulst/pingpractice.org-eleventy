@@ -41,20 +41,20 @@ The format has also felt intimate: Pings are afforded the space to resonate with
 
 I (Peter) have also noticed myself revisiting pings differently knowing there is a clear and inspiring container to shape and present the relationships I'd felt and previously not yet externalized. 
 
-*What about for you? What (if anything) came up for you as you scrolled these? Might you have seen something within these that felt like an immediate, "Yes"? Whatever the case, [we'd be eager to hear](https://www.are.na/peter-pelberg/ping-practice-publishing).*
+*What about for you? What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate, "Yes"? Anything that gave you pause? Whatever the case, [we'd be eager to learn from you](https://www.are.na/peter-pelberg/ping-practice-publishing).*
 
 - - -
 
-Okay. Now, getting back to "*What are other people Pinging?"...*
+Now, getting back to "*What are other people Pinging?"*
 
-We would like to invite you try experimenting with this format with us. To start, we're thinking 
+We would like to try an experiment. Here's how it will go.
 
-Here's how it will go. We will each:
+We will each:
 
 1. Revisit the Pings we captured between January 1 and February 28, 2026 
-2. As we browse them, we will notice which ping(s) resonate and take a screenshot of those that do
-3. After revisiting your Pings, open your Photos app and select up to five that you want to put out into the universe
-4. Upload the Pings you slected in "4." using [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6).
+2. As we browse our respective pings, we will notice which ping(s) resonate and take a screenshot of those that do
+3. After revisiting your Pings, open your Photos app, and select up to five that you want to put out into the universe
+4. Upload the Pings you selected in "4." using [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6).
 
 Joanne and I will then review all of the Pings and publish a selection of them using this format.
 
