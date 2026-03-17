@@ -8,7 +8,7 @@ template: transmission
 ---
 Versions of this question continue to emerge in conversations with people who are pinging.<sup>1</sup>
 
-Informed by the above, and inspired by an [experimental short documentary](https://writing.joannelam.com/a-portrait-of-tracy/) Joanne<sup>2</sup> wrote and directed,  we began wondering together: 
+Informed by the above, and inspired by an [experimental short documentary](https://writing.joannelam.com/a-portrait-of-tracy/) Joanne<sup>2</sup> wrote and directed, we began wondering together: 
 
 > *What might a reflection-oriented publishing format look like?* 
 
@@ -17,7 +17,7 @@ Informed by the above, and inspired by an [experimental short documentary](https
 A format that:
 
 1. **Aligns** with the openness we receive Pings with
-2. **Inspires** the reflection and meaning-making Ping Practice supports
+2. **Inspires** the reflection and meaning-making [Ping Practice supports](https://pingpractice.org/method/)
 3. **Enables** the learning and connection that’s [emerged in Practitioner Calls.](https://pingpractice.org/transmissions/reflection-2025-practitioner-calls/)
 
 - - -
@@ -35,13 +35,19 @@ What follows are some examples of an initial exploration into the above:
 
 - - -
 
-So far, browsing each other’s Pings in this format has felt fluid, focused, and quiet.<sup>3</sup> 
+So far, browsing each other’s Pings in this format has felt fluid and quiet.<sup>3</sup> 
 
 The format has also felt intimate: Pings are afforded the space to resonate with one another, and our inner expressions are exhibited with care.<sup>4</sup>
 
+I (Peter) have also noticed myself revisiting pings differently knowing there is a clear and inspiring container to shape and present the relationships I'd felt and previously not yet externalized. 
+
+*What about for you? What (if anything) came up for you as you scrolled these? Might you have seen something within these that felt like an immediate, "Yes"? Whatever the case, [we'd be eager to hear](https://www.are.na/peter-pelberg/ping-practice-publishing).*
+
 - - -
 
-Now, circling back to the title of this Transmission – *What are other people Pinging? –* we would like to try an experiment together.
+Okay. Now, getting back to "*What are other people Pinging?"...*
+
+We would like to invite you try experimenting with this format with us. To start, we're thinking 
 
 Here's how it will go. We will each:
 
