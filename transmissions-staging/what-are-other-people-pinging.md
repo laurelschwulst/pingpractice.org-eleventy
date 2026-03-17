@@ -12,11 +12,13 @@ Informed by the above, and inspired by an [experimental short documentary](https
 
 > *What might a reflection-oriented publishing format look like?* 
 
+- - -
+
 A format that:
 
-1. Aligns with the openness and uncertainty we receive Pings with
-2. Inspires the reflection and meaning-making Ping Practice describes
-3. Enables the learning and connection that’s [emerged in Practitioner Calls.](https://pingpractice.org/transmissions/reflection-2025-practitioner-calls/)
+1. **Aligns** with the openness we receive Pings with
+2. **Inspires** the reflection and meaning-making Ping Practice supports
+3. **Enables** the learning and connection that’s [emerged in Practitioner Calls.](https://pingpractice.org/transmissions/reflection-2025-practitioner-calls/)
 
 - - -
 
@@ -33,21 +35,24 @@ What follows are some examples of an initial exploration into the above:
 
 - - -
 
-So far, browsing each other’s Pings in this format has felt fluid, focused, and quiet.<sup>3</sup> The format has also felt intimate: Pings are afforded the space to resonate with one another, and our innermost expressions are exhibited with care.<sup>4</sup>
+So far, browsing each other’s Pings in this format has felt fluid, focused, and quiet.<sup>3</sup> 
+
+The format has also felt intimate: Pings are afforded the space to resonate with one another, and our inner expressions are exhibited with care.<sup>4</sup>
 
 - - -
 
-Now, circling back to the title of this Transmission – *What are other people Pinging? –* we would like to try an experiment together that'll go like this:
+Now, circling back to the title of this Transmission – *What are other people Pinging? –* we would like to try an experiment together.
 
-1. Revisit the Pings you captured between January 1 and February 28, 2026 
-2. As you browse them, notice which resonate with you and that you feel drawn to “bringing” with you
-3. When you happen upon Pings that feel aligned with the above, take a screenshot
-4. After revisiting your Pings, open your Photos app and select up to five that you’d feel comfortable being published.
-5. Upload those Pings using [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6).
+Here's how it will go. We will each:
+
+1. Revisit the Pings we captured between January 1 and February 28, 2026 
+2. As we browse them, we will notice which ping(s) resonate and take a screenshot of those that do
+3. After revisiting your Pings, open your Photos app and select up to five that you want to put out into the universe
+4. Upload the Pings you slected in "4." using [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6).
 
 Joanne and I will then review all of the Pings and publish a selection of them using this format.
 
-Let’s see how this feels.
+\~ \*Let’s see how this feels \* \~ 
 
 - - -
 
