@@ -39,26 +39,25 @@ So far, browsing each other’s Pings in this format has felt fluid and quiet.
 
 I (Joanne) am finding the format to be quite intimate: Pings are afforded the space to resonate with one another, and our innermost expressions are exhibited with care.<sup>3</sup>
 
-I (Peter) have noticed myself revisiting pings differently knowing there is a clear and inspiring container to shape and present the relationships I'd felt and not yet expressed. 
+[I (Peter) have noticed](https://www.are.na/block/44492688) myself revisiting pings differently knowing there is a clear and inspiring container to shape and present the relationships I'd felt and not yet expressed. 
 
-*What about for you? What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if?"? Anything that gave you pause? Whatever the case, [we'd be eager to hear](https://www.are.na/peter-pelberg/ping-practice-publishing).*
+*What about for you? What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if...?"? Anything that gave you pause? Whatever the case, [we'd be eager to hear](https://www.are.na/peter-pelberg/ping-practice-publishing).*
 
 - - -
 
 Now, getting back to "*What are other people Pinging?"*
 
-We would like to use this format to try an experiment. Here's how it will go.
+We would like to use this format to try an experiment. If you are up for it, here's how it will go:
 
-We will each:
+1. Revisit the Pings you captured [using the app](https://pingpractice.org/transmissions) between January 1 and February 28, 2026<br>
+2. As you browse these Pings, notice which resonate, and take screenshots of those that do<br>
+3. Visit [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6) and upload up to 5 of the Pings you took screenshots of that you'd like to put out into the universe
+5. We (Joanne and Peter) will then review all of the Pings and publish a selection of them using the format described above
+6. That's it! 
 
-1. Revisit the Pings we captured between January 1 and February 28, 2026<br>
-2. As we browse our respective pings, we will notice which ping(s) resonate and take a screenshot of those that do<br>
-3. After revisiting our Pings, we'll open the Photos app, and select up to five that we want to put out into the universe<br>
-4. We'll each then upload the Pings we selected in "4." using [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6).
-5. We (Joanne and Peter) will then review all of the Pings and publish a selection of them using this format.
-6. That's it 
+Thank you for being open to this prospect. 
 
-Thank you for being open to this prospect. Let’s see what we learn. *
+* Let’s see what we learn. *
 
 - - -
 
