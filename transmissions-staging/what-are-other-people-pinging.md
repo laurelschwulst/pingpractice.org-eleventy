@@ -41,7 +41,7 @@ I (Joanne) am finding the format to be quite intimate: Pings are afforded the sp
 
 [I (Peter) have noticed](https://www.are.na/block/44492688) myself revisiting pings differently knowing there is a clear and inspiring container to shape and present the relationships I'd felt and not yet expressed. 
 
-*What about for you? What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if...?"? Anything that gave you pause? Whatever the case, [we'd be eager to hear](https://www.are.na/peter-pelberg/ping-practice-publishing).*
+*What about for you?*<sup>4</sup>
 
 - - -
 
@@ -57,7 +57,7 @@ We would like to use this format to try an experiment. If you are up for it, her
 
 Thank you for being open to this prospect. 
 
-* Let’s see what we learn. *
+Let’s see what we learn. *
 
 - - -
 
@@ -68,5 +68,8 @@ Thank you for being open to this prospect.
                <li> <i> Joanne is a creative producer, writer, and publisher of projects that bring curious connections into orbit through the senses.
 </i></li><br>
  <li> <i>“Guard the mysteries! Constantly reveal them!”</i> – Lew Welch, <i>“Theology”</i></li><br> 
+ <li> <i>*What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if...?"? Anything that gave you pause? Whatever the case, [we'd be eager to hear](mailto:everyone@pingpractice.org).*
+</i></li>
 </ol>
+
           </footer>
