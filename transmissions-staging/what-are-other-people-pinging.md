@@ -73,7 +73,4 @@ Let’s see what we learn. *
  <li> <i>What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if...?"? Anything that gave you pause? Whatever the case, [we'd be eager to hear](mailto:everyone@pingpractice.org)</i>
 </li>
 </ol>
-
-```
-      </footer>
-```
+</footer>
