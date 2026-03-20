@@ -33,16 +33,15 @@ What follows are some examples of an initial exploration into the above:
 \* [The world is so loud](https://pelberg.com/2026/the-world-is-so-loud/index.html)\
 *TBD. Pings from September and October, 2025*
 
-
 - - -
 
 So far, browsing each other’s Pings in this format has felt fluid and quiet.
 
 I (Joanne) am finding the format to be quite intimate: Pings are afforded the space to resonate with one another, and our innermost expressions are exhibited with care.<sup>3</sup>
 
-[I (Peter) have noticed](https://www.are.na/block/44492688) myself revisiting pings differently knowing there is a clear and inspiring container to shape and present the relationships I'd felt and not yet expressed. 
+I (Peter) have noticed myself revisiting pings differently knowing there is a clear and inspiring container to shape and present the relationships I'd felt and not yet expressed. 
 
-*What about for you?*<sup>4</sup>
+*What about for you?* <sup>4</sup>
 
 - - -
 
@@ -53,8 +52,8 @@ We would like to use this format to try an experiment. If you are up for it, her
 1. Revisit the Pings you captured [using the app](https://pingpractice.org/transmissions) between January 1 and February 28, 2026<br>
 2. As you browse these Pings, notice which resonate, and take screenshots of those that do<br>
 3. Visit [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6) and upload up to 5 of the Pings you took screenshots of that you'd like to put out into the universe
-5. We (Joanne and Peter) will then review all of the Pings and publish a selection of them using the format described above
-6. That's it! 
+4. We (Joanne and Peter) will then review all of the Pings and publish a selection of them using the format described above
+5. That's it! 
 
 Thank you for being open to this prospect. 
 
@@ -69,8 +68,10 @@ Let’s see what we learn. *
                <li> <i> Joanne is a creative producer, writer, and publisher of projects that bring curious connections into orbit through the senses.
 </i></li><br>
  <li> <i>“Guard the mysteries! Constantly reveal them!”</i> – Lew Welch, <i>“Theology”</i></li><br> 
- <li> <i>*What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if...?"? Anything that gave you pause? Whatever the case, [we'd be eager to hear](mailto:everyone@pingpractice.org).*
-</i></li>
+ <li> <i>What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if...?"? Anything that gave you pause? Whatever the case, [we'd be eager to hear](mailto:everyone@pingpractice.org)</i>
+</li>
 </ol>
 
-          </footer>
+```
+      </footer>
+```
