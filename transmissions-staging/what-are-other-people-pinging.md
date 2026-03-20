@@ -45,13 +45,15 @@ I (Peter) have noticed myself revisiting pings differently knowing there is a cl
 
 - - -
 
-Now, getting back to "*What are other people Pinging?"*
+Now, getting back to *"What are other people Pinging?"*
 
-We would like to use this format to try an experiment. If you are up for it, here's how it will go:
+We would like to use this format to try an experiment. 
+
+If you are up for it, here's how it will go:
 
 1. Revisit the Pings you captured [using the app](https://pingpractice.org/transmissions) between January 1 and February 28, 2026<br>
 2. As you browse these Pings, notice which resonate, and take screenshots of those that do<br>
-3. Visit [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6) and upload up to 5 of the Pings you took screenshots of that you'd like to put out into the universe
+3. Visit [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6) and upload up to 5 of the Pings you screenshotted that you'd like to put into the universe
 4. We (Joanne and Peter) will then review all of the Pings and publish a selection of them using the format described above
 5. That's it! 
 
