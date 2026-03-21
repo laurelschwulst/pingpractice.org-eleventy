@@ -27,10 +27,10 @@ What follows are some examples of an initial exploration into the above:
 \* [In practice](https://joannelam.com/inpractice/)\
 *Tracing how Joanne crossed paths with Ping Practice*
 
-\* [Mendocino 2025](https://pelberg.com/2026/mendocino-2025/)\
+\* [Mendocino](https://pelberg.com/2026/mendocino-2025/)\
 *Pings from April and May, 2025*
 
-\* [The world is so loud](https://pelberg.com/pingpractice/bike-seat/index.html)\
+\* [Bike Seat](https://pelberg.com/pingpractice/bike-seat/index.html)\
 *Pings from June, 2025*
 
 - - -
