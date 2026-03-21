@@ -61,7 +61,7 @@ If you are up for it, here's how it will go:
 
 Thank you for being open to this prospect. 
 
-\* Let’s see what we discover. *
+\* Let’s see what surfaces *
 
 - - -
 
@@ -72,7 +72,7 @@ Thank you for being open to this prospect.
                <li> <i> Joanne is a creative producer, writer, and publisher of projects that bring curious connections into orbit through the senses.
 </i></li><br>
  <li> <i>“Guard the mysteries! Constantly reveal them!”</i> – Lew Welch, <i>“Theology”</i></li><br> 
- <li> <i>What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if...?"? Anything that gave you pause? Whatever the case, [we'd be eager to hear](mailto:everyone@pingpractice.org)</i>
+ <li> <i>What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if...?"? Anything that gave you pause? Whatever the case, we'd be eager to hear: everyone@pingpractice.org</i>
 </li>
 </ol>
 </footer>
