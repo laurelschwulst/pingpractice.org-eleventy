@@ -45,9 +45,11 @@ I (Peter) have noticed myself revisiting pings differently knowing there is a cl
 
 - - -
 
-Now, getting back to *"What are other people Pinging?"*
+Now, getting back to where this Transmission started.
 
-We would like to use this format to try an experiment. 
+We would like to use this format to experiment with a way to learn:
+
+> What are other people pinging?
 
 If you are up for it, here's how it will go:
 
