@@ -61,7 +61,7 @@ If you are up for it, here's how it will go:
 
 Thank you for being open to this prospect. 
 
-\* Let’s see what we discover.
+\* Let’s see what we discover. *
 
 - - -
 
