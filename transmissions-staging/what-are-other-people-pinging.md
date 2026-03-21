@@ -28,10 +28,10 @@ What follows are some examples of an initial exploration into the above:
 *Tracing how Joanne crossed paths with Ping Practice*
 
 \* [Mendocino 2025](https://pelberg.com/2026/mendocino-2025/)\
-*Changing plans and following intuition. Pings from April and May, 2025*
+*Pings from April and May, 2025*
 
 \* [The world is so loud](https://pelberg.com/2026/the-world-is-so-loud/index.html)\
-*TBD. Pings from September and October, 2025*
+*Pings from September and October, 2025*
 
 - - -
 
@@ -55,7 +55,7 @@ If you are up for it, here's how it will go:
 
 1. Revisit the Pings you captured [using the app](https://pingpractice.org/transmissions) between January 1 and February 28, 2026<br>
 2. As you browse these Pings, notice which resonate, and take screenshots of those that do<br>
-3. Visit [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6) and upload up to 5 of the Pings you screenshotted that you'd like to put into the universe
+3. Visit [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6) and upload up to 5 of the Pings you screenshotted
 4. We (Joanne and Peter) will then review all of the Pings and publish a selection of them using the format described above
 5. That's it! 
 
