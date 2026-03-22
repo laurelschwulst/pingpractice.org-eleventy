@@ -27,7 +27,7 @@ What follows are some examples of an initial exploration into the above:
 \* [In practice](https://joannelam.com/inpractice/)\
 *Tracing how Joanne crossed paths with Ping Practice*
 
-\* [Mendocino](https://pelberg.com/2026/mendocino-2025/)\
+\* [Mendocino](https://pelberg.com/pingpractice/mendocino-2025/)\
 *Pings from April and May, 2025*
 
 \* [Bike Seat](https://pelberg.com/pingpractice/bike-seat/index.html)\
@@ -53,7 +53,7 @@ We would like to use this format to experiment with a way to learn:
 
 If you are up for it, here's how it will go:
 
-1. Revisit the Pings you captured [using the app](https://pingpractice.org/transmissions) between January 1 and February 28, 2026<br>
+1. Revisit the Pings you captured [using the app](https://pingpractice.org/transmissions/why-an-app/) between January 1 and February 28, 2026<br>
 2. As you browse these Pings, notice which resonate, and take screenshots of those that do<br>
 3. Visit [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6) and upload up to 5 of the Pings you screenshotted
 4. We (Joanne and Peter) will then review all of the Pings and publish a selection of them using the format described above
