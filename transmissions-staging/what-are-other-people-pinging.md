@@ -21,7 +21,8 @@ A format that:
 3. **Enables** the learning and connection that’s [emerged in Practitioner Calls.](https://pingpractice.org/transmissions/reflection-2025-practitioner-calls/)
 
 - - -
-
+<figure class="photo" alt="Screenshots of Pings published by Joanne (left) and Peter (right).">
+            <img src="/assets/images/joanne-peter-ping.jpg">
 What follows are some examples of an initial exploration into the above:
 
 \* [In Practice](https://joannelam.com/inpractice/)\
