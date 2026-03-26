@@ -24,7 +24,7 @@ A format that:
 
 What follows are some examples of an initial exploration into the above:
 
-\* [In practice](https://joannelam.com/inpractice/)\
+\* [In Practice](https://joannelam.com/inpractice/)\
 *Tracing how Joanne crossed paths with Ping Practice*
 
 \* [Mendocino](https://pelberg.com/pingpractice/mendocino-2025/)\
@@ -56,7 +56,7 @@ If you are up for it, here's how it will go:
 1. Revisit the Pings you captured [using the app](https://pingpractice.org/transmissions/why-an-app/) between January 1 and February 28, 2026<br>
 2. As you browse these Pings, notice which resonate, and take screenshots of those that do<br>
 3. Visit [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6) and upload up to 5 of the Pings you screenshotted
-4. We (Joanne and Peter) will then review all of the Pings and publish a selection of them using the format described above
+4. We (Joanne and Peter) will then review all of the Pings and publish a selection of them using the format demonstrated above
 5. That's it
 
 Thank you for being open to this prospect. 
@@ -72,7 +72,7 @@ Thank you for being open to this prospect.
                <li> <i> Joanne is a creative producer, writer, and publisher of projects that bring curious connections into orbit through the senses.
 </i></li><br>
  <li> <i>“Guard the mysteries! Constantly reveal them!”</i> – Lew Welch, <i>“Theology”</i></li><br> 
- <li> <i>"Storage and retrieval are fundamentally different from remembering, which is a narrative process." – Byung-Chul Han, [Psychopolitics](https://en.wikipedia.org/wiki/Byung-Chul_Han#Works_in_English)</i></li><br> 
+ <li> <i>"Storage and retrieval are fundamentally different from remembering, which is a narrative process." – Byung-Chul Han, \[Psychopolitics](https://en.wikipedia.org/wiki/Byung-Chul_Han#Works_in_English)</i></li><br> 
  <li> <i>What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if...?"? Anything that gave you pause? Whatever the case, we'd be eager to hear: everyone@pingpractice.org</i>
 </li>
 </ol>
