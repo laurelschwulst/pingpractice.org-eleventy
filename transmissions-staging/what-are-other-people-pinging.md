@@ -25,7 +25,7 @@ A format that:
 Pictured (and linked) below are some examples of an initial exploration into the above.
 
 <figure class="photo" alt="Screenshots of Pings published by Joanne (left) and Peter (right).">
-            <img src="/assets/images/joanne-peter-ping.jpg">
+            <img src="/images/peter-ping.jpg">
 
 \* [In Practice](https://joannelam.com/inpractice/)\
 *Tracing how Joanne crossed paths with Ping Practice*
