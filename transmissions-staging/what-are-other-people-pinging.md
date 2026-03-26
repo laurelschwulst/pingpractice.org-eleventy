@@ -21,9 +21,12 @@ A format that:
 3. **Enables** the learning and connection that’s [emerged in Practitioner Calls.](https://pingpractice.org/transmissions/reflection-2025-practitioner-calls/)
 
 - - -
+
+What follows are some examples of an initial exploration into the above.
+
 <figure class="photo" alt="Screenshots of Pings published by Joanne (left) and Peter (right).">
             <img src="/assets/images/joanne-peter-ping.jpg">
-What follows are some examples of an initial exploration into the above:
+
 
 \* [In Practice](https://joannelam.com/inpractice/)\
 *Tracing how Joanne crossed paths with Ping Practice*
@@ -73,7 +76,7 @@ Thank you for being open to this prospect.
                <li> <i> Joanne is a creative producer, writer, and publisher of projects that bring curious connections into orbit through the senses.
 </i></li><br>
  <li> <i>“Guard the mysteries! Constantly reveal them!”</i> – Lew Welch, <i>“Theology”</i></li><br> 
- <li> <i>"Storage and retrieval are fundamentally different from remembering, which is a narrative process." – Byung-Chul Han, \[Psychopolitics](https://en.wikipedia.org/wiki/Byung-Chul_Han#Works_in_English)</i></li><br> 
+ <li> <i>"Storage and retrieval are fundamentally different from remembering, which is a narrative process." – Byung-Chul Han, \\[Psychopolitics](https://en.wikipedia.org/wiki/Byung-Chul_Han#Works_in_English)</i></li><br> 
  <li> <i>What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if...?"? Anything that gave you pause? Whatever the case, we'd be eager to hear: everyone@pingpractice.org</i>
 </li>
 </ol>
