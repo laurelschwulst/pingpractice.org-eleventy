@@ -74,7 +74,7 @@ Thank you for being open to this prospect.
 </i></li><br>
  <li> <i>“Guard the mysteries! Constantly reveal them!”</i> – Lew Welch, <i>“Theology”</i></li><br> 
  <li> <i>"Storage and retrieval are fundamentally different from remembering, which is a narrative process." – Byung-Chul Han, [Psychopolitics](https://en.wikipedia.org/wiki/Byung-Chul_Han#Works_in_English)</i></li><br> 
- <li> <i>What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if...?"? Anything that gave you pause? Whatever the case, we'd be eager to hear: everyone@pingpractice.org</i>
+ <li> <i>What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate 'Yes'"? Anything that gave you pause? Whatever the case, we'd be eager to hear: everyone@pingpractice.org</i>
 </li>
 </ol>
 </footer>
