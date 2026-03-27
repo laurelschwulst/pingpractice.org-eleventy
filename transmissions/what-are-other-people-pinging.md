@@ -6,7 +6,7 @@ template: transmission
 ---
 Versions of this question continue to emerge in conversations with people who are pinging.<sup>1</sup>
 
-Informed by the above, and inspired by an [experimental short documentary](https://writing.joannelam.com/a-portrait-of-tracy/) Joanne<sup>2</sup> wrote and directed, we began wondering together: 
+Informed by the above, and inspired by an [experimental short documentary](https://writing.joannelam.com/a-portrait-of-tracy/) Joanne<sup>2</sup> wrote and directed, we began wondering: 
 
 > *What might a reflection-oriented publishing format look like?* 
 
@@ -40,7 +40,7 @@ So far, browsing each other’s Pings in this format has felt fluid and quiet.
 
 I (Joanne) am finding the format to be quite intimate: Pings are afforded the space to resonate with one another, and our innermost expressions are exhibited with care.<sup>3</sup>
 
-I (Peter) have noticed myself revisiting pings differently knowing there is a clear and inspiring container to shape and present the relationships I'd felt and not yet expressed.<sup>4</sup> 
+I (Peter) have noticed myself revisiting pings differently knowing there is a clear and inspiring form to relate and present them with.<sup>4</sup> 
 
 *What about for you?* <sup>5</sup>
 
