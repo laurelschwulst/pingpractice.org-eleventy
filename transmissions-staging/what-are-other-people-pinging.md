@@ -42,7 +42,7 @@ So far, browsing each other’s Pings in this format has felt fluid and quiet.
 
 I (Joanne) am finding the format to be quite intimate: Pings are afforded the space to resonate with one another, and our innermost expressions are exhibited with care.<sup>3</sup>
 
-I (Peter) have noticed myself revisiting pings differently knowing there is a clear and inspiring container to shape and present the relationships I'd felt and not yet expressed.<sup>4</sup> 
+I (Peter) have noticed myself revisiting pings differently knowing there is a clear and inspiring frame to shape and present them with.<sup>4</sup> 
 
 *What about for you?* <sup>5</sup>
 
@@ -75,7 +75,7 @@ Thank you for being open to this prospect.
                <li> <i> Joanne is a creative producer, writer, and publisher of projects that bring curious connections into orbit through the senses.
 </i></li><br>
  <li> <i>“Guard the mysteries! Constantly reveal them!”</i> – Lew Welch, <i>“Theology”</i></li><br> 
- <li> <i>"Storage and retrieval are fundamentally different from remembering, which is a narrative process." – Byung-Chul Han, \\\\\[Psychopolitics](https://en.wikipedia.org/wiki/Byung-Chul_Han#Works_in_English)</i></li><br> 
+ <li> <i>"Storage and retrieval are fundamentally different from remembering, which is a narrative process." – Byung-Chul Han, [Psychopolitics](https://en.wikipedia.org/wiki/Byung-Chul_Han#Works_in_English)</i></li><br> 
  <li> <i>What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if...?"? Anything that gave you pause? Whatever the case, we'd be eager to hear: everyone@pingpractice.org</i>
 </li>
 </ol>
