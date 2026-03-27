@@ -1,9 +1,14 @@
 ---
+authors: Joanne Lam & Peter Pelberg
 title: What are other people pinging?
 date: 2026-03-26T21:15:00.000-07:00
 layout: layouts/transmission.njk
+sent_date: 2026-03-27
+sent_status: true
 template: transmission
+began_date: 2026-01-23
 ---
+
 Versions of this question continue to emerge in conversations with people who are pinging.<sup>1</sup>
 
 Informed by the above, and inspired by an [experimental short documentary](https://writing.joannelam.com/a-portrait-of-tracy/) Joanne<sup>2</sup> wrote and directed, we began wondering: 
