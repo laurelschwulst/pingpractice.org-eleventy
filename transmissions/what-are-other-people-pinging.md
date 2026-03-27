@@ -68,7 +68,7 @@ Thank you for being open to this prospect.
 
  <footer>
             <ol>
-              <li> <i>“Am I doing this ‘right’?” What can “pinging” actually look like? Might there be ways of Pinging that I could consider trying? Might other people be Pinging around related ideas and experiences? Who else is pinging?”
+              <li> <i>“Am I doing this ‘right’?” What can 'pinging' actually look like? What might I learn from how other people are pinging? Who else is pinging?”
 </i></li><br>
                <li> <i> Joanne is a creative producer, writer, and publisher of projects that bring curious connections into orbit through the senses.
 </i></li><br>
