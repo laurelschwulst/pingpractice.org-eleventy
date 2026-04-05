@@ -11,7 +11,7 @@ began_date: 2026-01-23
 
 Versions of this question continue to emerge in conversations with people who are pinging.<sup>1</sup>
 
-Informed by the above, and inspired by an [experimental short documentary](https://writing.joannelam.com/a-portrait-of-tracy/) Joanne<sup>2</sup> wrote and directed, we began wondering: 
+Informed by the above, and inspired by an [experimental short documentary](http://www.aportraitoftracy.com/) Joanne<sup>2</sup> wrote and directed, we began wondering: 
 
 > *What might a reflection-oriented publishing format look like?* 
 
