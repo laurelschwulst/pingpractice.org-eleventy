@@ -1,82 +1,44 @@
 ---
-title: What are other people pinging?
-began_date: 2026-01-23T15:34:00.000-08:00
+title: "In Practice: Cheryl Ohy"
+began_date: 2026-08-31T22:40:00.000-07:00
 sent_date: 2026-03-08T17:30:00.000-07:00
-date: 2026-03-01T17:49:00.000-08:00
+date: 2026-09-12T21:49:00.000-07:00
 layout: layouts/transmission.njk
 template: transmission
 ---
-Versions of this question continue to emerge in conversations with people who are pinging.<sup>1</sup>
-
-Informed by the above, and inspired by an [experimental short documentary](https://writing.joannelam.com/a-portrait-of-tracy/) Joanne<sup>2</sup> wrote and directed, we began wondering together: 
-
-> *What might a reflection-oriented publishing format look like?* 
+### INSERT INTRODUCTION HERE
 
 - - -
 
-A format that:
-
-1. **Aligns** with the openness we receive Pings with
-2. **Inspires** the reflection and meaning-making [Ping Practice supports](https://pingpractice.org/method/)
-3. **Enables** the learning and connection that’s [emerged in Practitioner Calls.](https://pingpractice.org/transmissions/reflection-2025-practitioner-calls/)
-
-- - -
-
-Pictured (and linked) below are some examples of an initial exploration into the above.
+**Peter: Cheryl, hi! To start, might you be able to share a Ping that is speaking to you in this moment?** *What do you recall about when you captured this ping? When you look back at it now, what is it “saying” to you? What (if any) insight might this offer into how you Ping?*
 
 <figure class="photo" alt="Screenshots of Pings published by Joanne (left) and Peter (right).">
-            <img src="/assets/images/joanne-peter-ping.jpg">
+            <img src="/assets/images/Cheryl-Ping-183.png">
 
-\* [In Practice](https://joannelam.com/inpractice/)\
-*Tracing how Joanne crossed paths with Ping Practice*
 
-\* [Mendocino](https://pelberg.com/pingpractice/mendocino-2025/)\
-*Pings from April and May, 2025*
 
-\* [Bike Seat](https://pelberg.com/pingpractice/bike-seat/index.html)\
-*Pings from June, 2025*
+**Cheryl:** Tough question, because I ping across a few categories: epiphanies, self-reflection, memories or conversation threads I want to hold onto, quotes and phrases amongst some random stuff (plus I was wondering which Ping was the most representative of myself at this moment!). This entry stood out in particular.  I’d been randomly thinking about my Europe trip back in June, and pinging it helped capture the spirit of that moment of what I was feeling toward Barcelona. I can’t recall where I was when I wrote it but catching myself in that kind of nostalgic, wondering reverie was a good feeling to hold onto, especially against the backdrop of everything I’ve been disillusioned by lately. 
 
-- - -
+**Peter: In January of this year, we started exchanging emails about Ping Practice. Then in July, you mentioned that you and a friend had started sharing Pings with each other IRL. When I learned this, I felt *immediately* eager to learn more! This leads me to wonder: how has Ping Practice shown up with you and your friend?****What do you recall about how y’all started Pinging together?**
 
-So far, browsing each other’s Pings in this format has felt fluid and quiet.
+**Cheryl:** I shared Ping Practice with my best friend Daphne, because I knew this kind of intentional, seamless note-taking would resonate with her. Almost immediately or as far as I know, she started pinging quotes she’d read.
 
-I (Joanne) am finding the format to be quite intimate: Pings are afforded the space to resonate with one another, and our innermost expressions are exhibited with care.<sup>3</sup>
+One day we were hanging out at a Tim Hortons in a mall, catching up on our relationships with our jobs, creative ideas we were tinkering with, routines versus rituals. I said something that I can’t recall exactly what now and every time it landed, she’d say “Ping,” and log it. It became a fun, interactive way of capturing the key moments in our conversations. Sort of like taking meeting notes, if you will.
 
-I (Peter) have noticed myself revisiting pings differently knowing there is a clear and inspiring frame to shape and present them with.<sup>4</sup> 
+These pings are timestamps and prompts to come back to, for conversations we don’t want to lose.
 
-*What about for you?* <sup>5</sup>
+**Peter:  Might there be a Ping you captured while talking with your friend that you enjoy returning to?**
+<figure class="photo" alt="Screenshots of Pings published by Joanne (left) and Peter (right).">            <img src="/assets/Cheryl-Ping-165-66.png">
 
-- - -
+Ping 165 was in reference to Wild Geese’s podcast that Daphne shared with me about: <https://www.youtube.com/watch?v=tvwAbvkkOXo> 
 
-Now, getting back to where this Transmission started.
+**Peter: By the time we publish this conversation, it’ll be September. Here in Oakland, California, this is when I tend to notice the wind. It usually “gains a voice” as it blows through the drying leaves. You’re in Singapore, I think! Might there be a subtle shift you notice around this time?**
 
-We would like to use this format to experiment with a way to learn:
+Yes, I’m in Singapore! It’s summer all year round because this tiny Southeast Asian country sits on the equator. Weather-wise, the only thing that changes is humidity, or whether it's raining nonstop. Right now we’re experiencing the haze, drifting over from forest fires in Sumatra and Kalimantan.
 
-> What are other people pinging?
+I realised a good number of people on earth have seasons to mark the passage of time. Perhaps the lack of it for me has given me a strange, not entirely healthy relationship with time, where every year starts to feel like its own complete lifetime. So September arrives and it's suddenly Q4, I feel slightly anxious about it like I'm running out of time inside a year I thought I had more of. But there's also a pull toward looking forward to the end of things. I use this stretch to look back at January-me, March-me, and ask how I’ve grown or what I’ve done. Mostly, I try to stay grateful and blessed that I got to do and experience what I did.
 
-If you are up for it, here's how it will go:
 
-1. Revisit the Pings you captured [using the app](https://pingpractice.org/transmissions/why-an-app/) between January 1 and February 28, 2026<br>
-2. As you browse these Pings, notice which resonate, and take screenshots of those that do<br>
-3. Visit [this Google Form](https://forms.gle/YgmbApuAFW7nHh6X6) and upload up to 5 of the Pings you screenshotted
-4. We (Joanne and Peter) will then review all of the Pings and publish a selection of them using the format demonstrated above
-5. That's it
+**Peter: What a joy it’s been to experience these reflections, Cheryl…thank you for being open to this conversation and conducting it in this way. Before we “head out,” I wonder: what is a question you’re sitting with right now?** 
 
-Thank you for being open to this prospect. 
-
-\* Let’s see \*
-
-- - -
-
- <footer>
-            <ol>
-              <li> <i>“Am I doing this ‘right’?” What can “pinging” actually look like? Might there be ways of Pinging that I could consider trying? Might other people be Pinging around related ideas and experiences? Who else is pinging?”
-</i></li><br>
-               <li> <i> Joanne is a creative producer, writer, and publisher of projects that bring curious connections into orbit through the senses.
-</i></li><br>
- <li> <i>“Guard the mysteries! Constantly reveal them!”</i> – Lew Welch, <i>“Theology”</i></li><br> 
- <li> <i>"Storage and retrieval are fundamentally different from remembering, which is a narrative process." – Byung-Chul Han, [Psychopolitics](https://en.wikipedia.org/wiki/Byung-Chul_Han#Works_in_English)</i></li><br> 
- <li> <i>What (if anything) came up as you scrolled these? Might you have seen something within these that felt like an immediate "Yes" or "What if...?"? Anything that gave you pause? Whatever the case, we'd be eager to hear: everyone@pingpractice.org</i>
-</li>
-</ol>
-</footer>
+How do I move with more conviction and allow it to grow through experience rather than waiting for certainty first?
