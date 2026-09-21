@@ -43,5 +43,5 @@ I realised a good number of people on earth have seasons to mark the passage of 
 
 **Peter: What a joy it’s been to experience these reflections, Cheryl…thank you for being open to this conversation and conducting it in this way. Before we “head out,” I wonder: what is a question you’re sitting with right now?** 
 
-How do I move with more conviction and allow it to grow through experience rather than waiting for certainty first?
+**Cheryl:** *How do I move with more conviction and allow it to grow through experience rather than waiting for certainty first?*
 
