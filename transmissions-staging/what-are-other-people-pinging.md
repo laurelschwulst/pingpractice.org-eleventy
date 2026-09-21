@@ -10,16 +10,16 @@ template: transmission
 
 - - -
 
-**Peter: Cheryl, hi! To start, might you be able to share a Ping that is speaking to you in this moment?** *What do you recall about when you captured this ping? When you look back at it now, what is it “saying” to you? What (if any) insight might this offer into how you Ping?*
+**Peter: Cheryl, hi! To start, might you be able to share a Ping that is speaking to you in this moment?** 
 
-<figure class="photo" alt="Screenshots of Pings published by Joanne (left) and Peter (right).">
-            <img src="/assets/images/Cheryl-Ping-183.png">
+<figure class="photo" alt="Screenshot of Pings #183 from Cheryl.">
+            <img src="/images/Cheryl-Ping-183-cropped.png">
 
 
 
 **Cheryl:** Tough question, because I ping across a few categories: epiphanies, self-reflection, memories or conversation threads I want to hold onto, quotes and phrases amongst some random stuff (plus I was wondering which Ping was the most representative of myself at this moment!). This entry stood out in particular.  I’d been randomly thinking about my Europe trip back in June, and pinging it helped capture the spirit of that moment of what I was feeling toward Barcelona. I can’t recall where I was when I wrote it but catching myself in that kind of nostalgic, wondering reverie was a good feeling to hold onto, especially against the backdrop of everything I’ve been disillusioned by lately. 
 
-**Peter: In January of this year, we started exchanging emails about Ping Practice. Then in July, you mentioned that you and a friend had started sharing Pings with each other IRL. When I learned this, I felt *immediately* eager to learn more! This leads me to wonder: how has Ping Practice shown up with you and your friend?****What do you recall about how y’all started Pinging together?**
+**Peter: In January of this year, we started exchanging emails about Ping Practice. Then in July, you mentioned that you and a friend had started sharing Pings with each other IRL. When I learned this, I felt *immediately* eager to learn more! This leads me to wonder: how has Ping Practice shown up with you and your friend?What do you recall about how y’all started Pinging together?**
 
 **Cheryl:** I shared Ping Practice with my best friend Daphne, because I knew this kind of intentional, seamless note-taking would resonate with her. Almost immediately or as far as I know, she started pinging quotes she’d read.
 
