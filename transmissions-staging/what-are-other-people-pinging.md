@@ -19,17 +19,17 @@ template: transmission
 </figure>
 
 
-This entry stood out in particular.  I’d been randomly thinking about my Europe trip back in June, and pinging it helped capture the spirit of that moment of what I was feeling toward Barcelona. I can’t recall where I was when I wrote it but catching myself in that kind of nostalgic, wondering reverie was a good feeling to hold onto, especially against the backdrop of everything I’ve been disillusioned by lately. 
+This entry stood out in particular.  I’d been randomly thinking about my Europe trip back in June, and pinging it helped capture the spirit of that moment of what I was feeling toward Barcelona. I can’t recall where I was when I wrote it, but catching myself in that kind of nostalgic, wondering reverie was a good feeling to hold onto, especially against the backdrop of everything I’ve been disillusioned by lately. 
 
-**Peter: In January of this year, we started exchanging emails about Ping Practice. Then in July, you mentioned that you and a friend had started sharing Pings with each other IRL. When I learned this, I felt *immediately* eager to learn more! This leads me to wonder: how has Ping Practice shown up with you and your friend?What do you recall about how y’all started Pinging together?**
+**Peter: In January of this year, we started exchanging emails about Ping Practice. Then in July, you mentioned that you and a friend had started sharing Pings with each other IRL. When I learned this, I felt _immediately_ eager to learn more! This leads me to wonder: how has Ping Practice shown up with you and your friend? What do you recall about how y’all started Pinging together?**
 
-**Cheryl:** I shared Ping Practice with my best friend Daphne, because I knew this kind of intentional, seamless note-taking would resonate with her. Almost immediately or as far as I know, she started pinging quotes she’d read.
+**Cheryl:** I shared Ping Practice with my best friend Daphne, because I knew this kind of intentional, seamless note-taking would resonate with her. Almost immediately, or as far as I know, she started pinging quotes she’d read.
 
-One day we were hanging out at a Tim Hortons in a mall, catching up on our relationships with our jobs, creative ideas we were tinkering with, routines versus rituals. I said something that I can’t recall exactly what now and every time it landed, she’d say “Ping,” and log it. It became a fun, interactive way of capturing the key moments in our conversations. Sort of like taking meeting notes, if you will.
+One day, we were hanging out at a Tim Hortons in a mall, catching up on our relationships with our jobs, creative ideas we were tinkering with, routines versus rituals. I said something that I can’t recall exactly what now and every time it landed, she’d say “Ping,” and log it. It became a fun, interactive way of capturing the key moments in our conversations. Sort of like taking meeting notes, if you will.
 
 These pings are timestamps and prompts to come back to, for conversations we don’t want to lose.
 
-**Peter:  Might there be a Ping you captured while talking with your friend that you enjoy returning to?**
+**Peter:  Might there be a Ping you captured while talking with Daphne that you enjoy returning to?**
 <figure class="photo" alt="Screenshots of Pings published by Joanne (left) and Peter (right).">            <img src="/assets/Cheryl-Ping-165-66.png">
 
 Ping 165 was in reference to Wild Geese’s podcast that Daphne shared with me about: <https://www.youtube.com/watch?v=tvwAbvkkOXo> 
@@ -41,7 +41,12 @@ Yes, I’m in Singapore! It’s summer all year round because this tiny Southeas
 I realised a good number of people on earth have seasons to mark the passage of time. Perhaps the lack of it for me has given me a strange, not entirely healthy relationship with time, where every year starts to feel like its own complete lifetime. So September arrives and it's suddenly Q4, I feel slightly anxious about it like I'm running out of time inside a year I thought I had more of. But there's also a pull toward looking forward to the end of things. I use this stretch to look back at January-me, March-me, and ask how I’ve grown or what I’ve done. Mostly, I try to stay grateful and blessed that I got to do and experience what I did.
 
 
-**Peter: What a joy it’s been to experience these reflections, Cheryl…thank you for being open to this conversation and conducting it in this way. Before we “head out,” I wonder: what is a question you’re sitting with right now?** 
+**Peter: What a joy it’s been to experience these reflections, Cheryl. Thank you for being open to this conversation and conducting it in this way. Before we head out, I wonder: what is a question you’re sitting with right now?** 
 
 **Cheryl:** *How do I move with more conviction and allow it to grow through experience rather than waiting for certainty first?*
 
+**Peter: Mmm... ** 
+
+- - -
+
+If something here resonates with you, Cheryl would be eager to know what. You can be in touch via email or direct message ([@chwllrz](https://www.instagram.com/chwllrz/)). And if talking about Ping(s) you've captured and your experience with them sounds energizing, I hope you will be touch: peter@pingpractice.org.
