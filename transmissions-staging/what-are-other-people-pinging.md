@@ -49,4 +49,4 @@ I realised a good number of people on earth have seasons to mark the passage of 
 
 - - -
 
-If something here resonates with you, Cheryl would be eager to know what. You can be in touch via email or direct message ([@chwllrz](https://www.instagram.com/chwllrz/)). And if talking about Ping(s) you've captured and your experience with them sounds energizing, I hope you will be touch: peter@pingpractice.org.
+If something here resonates with you, Cheryl would be eager to know what. You can be in touch via email or direct message ([@chwllrz](https://www.instagram.com/chwllrz/)). And if talking about Ping(s) you've captured and your experience with them sounds energizing, I hope you will let me know: peter@pingpractice.org.
