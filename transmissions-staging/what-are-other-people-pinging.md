@@ -30,6 +30,11 @@ One day, we were hanging out at a Tim Hortons in a mall, catching up on our rela
 These pings are timestamps and prompts to come back to, for conversations we don’t want to lose.
 
 **Peter:  Might there be a Ping you captured while talking with Daphne that you enjoy returning to?**
+<figure class="photo">
+    <img src="/assets/images/Cheryl-Ping-165-cropped.png" alt="Screenshot of Ping #183 from Cheryl" style="width:300px;">
+    <img src="/assets/images/Cheryl-Ping-166-cropped.png" alt="Screenshot of Ping #183 from Cheryl" style="width:300px;">
+</figure>
+
 <figure class="photo" alt="Screenshots of Pings published by Joanne (left) and Peter (right).">            <img src="/assets/Cheryl-Ping-165-66.png">
 
 Ping 165 was in reference to Wild Geese’s podcast that Daphne shared with me about: <https://www.youtube.com/watch?v=tvwAbvkkOXo> 
