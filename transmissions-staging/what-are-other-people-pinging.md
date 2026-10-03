@@ -1,12 +1,12 @@
 ---
 title: "In Practice: Cheryl Ohy"
 began_date: 2026-08-31T22:40:00.000-07:00
-sent_date: 2026-03-08T17:30:00.000-07:00
-date: 2026-09-12T21:49:00.000-07:00
+sent_date: 2026-10-04T17:30:00.000-07:00
+date: 2026-10-02T22:52:00.000-07:00
 layout: layouts/transmission.njk
 template: transmission
 ---
-### INSERT INTRODUCTION HERE
+*Cheryl Ong works full-time in the secondary art market, while freelancing across marketing, community, partnerships and music writing. She studied Fashion Media and is interested in the ways people build their lives around the things they care about, and how we find our way through work, creativity and life. She tends to explore these questions through conversations and following her curiosity wherever it takes her. Outside of work, she’s usually listening to music, bouldering or cycling around the park.*
 
 - - -
 
@@ -35,9 +35,9 @@ These pings are timestamps and prompts to come back to, for conversations we don
     <img src="/assets/images/Cheryl-Ping-166-cropped.png" alt="Screenshot of Ping #166 from Cheryl that reads routine or ritual" style="width:300px;">
 </figure>
 
-Ping 165 was in reference to Wild Geese’s podcast that Daphne shared with me about: <https://www.youtube.com/watch?v=tvwAbvkkOXo> 
+Ping 165 was in reference to [Wild Geese’s podcast](https://www.youtube.com/watch?v=tvwAbvkkOXo) that Daphne shared with me. The episode is about fighting self-abandonment, plugging into yourself and embodying your desires.  
 
-**Peter: By the time we publish this conversation, it’ll be September. Here in Oakland, California, this is when I tend to notice the wind. It usually “gains a voice” as it blows through the drying leaves. You’re in Singapore, I think! Might there be a subtle shift you notice around this time?**
+**Peter: Mmm. You're now the second person who's referenced this podcast to me in the context of Ping Practice (the first was [Natalia](https://www.instagram.com/lunaconleche/)!). I'm taking this as a sign I need to listen! Now, by the time we publish this conversation, it’ll be early October. Here in Oakland, California, this is when I tend to notice the wind. It usually “gains a voice” as it blows through the drying leaves. You’re in Singapore, I think! Might there be a subtle shift you notice around this time?**
 
 Yes, I’m in Singapore! It’s summer all year round because this tiny Southeast Asian country sits on the equator. Weather-wise, the only thing that changes is humidity, or whether it's raining nonstop. Right now we’re experiencing the haze, drifting over from forest fires in Sumatra and Kalimantan.
 
@@ -48,8 +48,8 @@ I realised a good number of people on earth have seasons to mark the passage of 
 
 **Cheryl:** *How do I move with more conviction and allow it to grow through experience rather than waiting for certainty first?*
 
-**Peter: Mmm... ** 
+**Peter: Mmm. I share this question too.  ** 
 
 - - -
 
-If something here resonates with you, Cheryl would be eager to know what. You can be in touch via email or direct message ([@chwllrz](https://www.instagram.com/chwllrz/)). And if talking about Ping(s) you've captured and your experience with them sounds energizing, I hope you will let me know: peter@pingpractice.org.
+*If something here resonates with you, Cheryl would be eager to know what. You can be in touch [via email](mailto:cheryl.ohy@gmail.com) or [direct message](https://www.instagram.com/chwllrz/). And if a conversation of this sort feels energizing to you, I hope you will [let me know](mailto:peter@pingpractice.org).*
