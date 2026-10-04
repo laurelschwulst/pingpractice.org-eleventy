@@ -51,7 +51,7 @@ I realised a good number of people on earth have seasons to mark the passage of 
 
 **Cheryl:** *How do I move with more conviction and allow it to grow through experience rather than waiting for certainty first?*
 
-**Peter: Mmm. I share this question too.  ** 
+**Peter: Mmm. I share this question too.** 
 
 - - -
 
