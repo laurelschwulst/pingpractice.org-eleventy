@@ -1,9 +1,14 @@
 ---
-title: "In Practice: Cheryl Ong"
+authors: Cheryl Ong & Peter Pelberg
+title: In Practice: Cheryl Ong
 date: 2026-10-03T21:26:00.000-07:00
 layout: layouts/transmission.njk
+sent_date: 2026-10-04
+sent_status: true
 template: transmission
+began_date: 2026-08-31
 ---
+
 *Cheryl Ong works full-time in the secondary art market, while freelancing across marketing, community, partnerships and music writing. She studied Fashion Media and is interested in the ways people build their lives around the things they care about, and how we find our way through work, creativity and life. She tends to explore these questions through conversations and following her curiosity wherever it takes her. Outside of work, she’s usually listening to music, bouldering or cycling around the park.*
 
 - - -
