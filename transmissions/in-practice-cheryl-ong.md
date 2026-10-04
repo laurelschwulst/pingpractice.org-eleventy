@@ -1,6 +1,6 @@
 ---
 authors: Cheryl Ong & Peter Pelberg
-title: In Practice: Cheryl Ong
+title: "In Practice: Cheryl Ong"
 date: 2026-10-03T21:26:00.000-07:00
 layout: layouts/transmission.njk
 sent_date: 2026-10-04
