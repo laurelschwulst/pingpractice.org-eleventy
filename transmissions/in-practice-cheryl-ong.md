@@ -24,7 +24,7 @@ began_date: 2026-08-31
 
 This entry stood out in particular.  I’d been randomly thinking about my Europe trip back in June, and pinging it helped capture the spirit of that moment of what I was feeling toward Barcelona. I can’t recall where I was when I wrote it, but catching myself in that kind of nostalgic, wondering reverie was a good feeling to hold onto, especially against the backdrop of everything I’ve been disillusioned by lately. 
 
-**Peter: In January of this year, we started exchanging emails about Ping Practice. Then in July, you mentioned that you and a friend had started sharing Pings with each other IRL. When I learned this, I felt _immediately_ eager to learn more.<sup>[1]</sup> This leads me to wonder: how has Ping Practice shown up with you and your friend? What do you recall about how y’all started Pinging together?**
+**Peter: In January of this year, we started exchanging emails about Ping Practice. Then in July, you mentioned that you and a friend had started sharing Pings with each other IRL. When I learned this, I felt eager to learn more.<sup>[1]</sup> This leads me to wonder: how has Ping Practice shown up with you and your friend? What do you recall about how y’all started Pinging together?**
 
 **Cheryl:** I shared Ping Practice with my best friend Daphne, because I knew this kind of intentional, seamless note-taking would resonate with her. Almost immediately, or as far as I know, she started pinging quotes she’d read.
 
@@ -40,7 +40,7 @@ These pings are timestamps and prompts to come back to, for conversations we don
 
 Ping 165 was in reference to [Wild Geese’s podcast](https://www.youtube.com/watch?v=tvwAbvkkOXo) that Daphne shared with me. The episode is about fighting self-abandonment, plugging into yourself, and embodying your desires.  
 
-**Peter: Mmm. You're now the second person who's referenced this podcast to me (the first was [Natalia](https://www.instagram.com/lunaconleche/)!). I'm taking this as a sign I need to listen! Noted. Okay, now: by the time we publish this conversation, it’ll be early October. Here in Oakland, California, this is when I tend to notice the wind. It usually “gains a voice” as it blows through the drying leaves. You’re in Singapore, I think! Might there be a subtle shift you notice around this time?**
+**Peter: Mmm. You're now the second person who's referenced this podcast to me (the first was [Natalia](https://www.instagram.com/lunaconleche/)!). I'm taking this as a sign to listen! Noted. Okay, now: by the time we publish this conversation, it’ll be early October. Here in Oakland, California, this is around when I tend to notice the wind. It usually “gains a voice” as it blows through the drying leaves. You’re in Singapore, I think! Might there be a subtle shift you notice around this time?**
 
 **Cheryl**: Yes, I’m in Singapore! It’s summer all year round because this tiny Southeast Asian country sits on the equator. Weather-wise, the only thing that changes is humidity, or whether it's raining nonstop. Right now, we’re experiencing the haze, drifting over from forest fires in [Sumatra](https://en.wikipedia.org/wiki/Sumatra) and [Kalimantan](https://en.wikipedia.org/wiki/Kalimantan).
 
