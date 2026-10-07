@@ -32,7 +32,7 @@ One day, we were hanging out at a Tim Hortons in a mall, catching up on our rela
 
 These pings are timestamps and prompts to come back to, for conversations we don’t want to lose.
 
-**Peter:  Might there be a Ping you captured while talking with Daphne that you enjoy returning to?**
+**Peter: Might there be a Ping you captured while talking with Daphne that you enjoy returning to?**
 <figure class="photo">
     <img src="/assets/images/Cheryl-Ping-165-cropped.png" alt="Screenshot of Ping #165 from Cheryl that reads, whatever you want is already within your reach" style="width:300px;">
     <img src="/assets/images/Cheryl-Ping-166-cropped.png" alt="Screenshot of Ping #166 from Cheryl that reads routine or ritual" style="width:300px;">
@@ -40,14 +40,14 @@ These pings are timestamps and prompts to come back to, for conversations we don
 
 Ping 165 was in reference to [Wild Geese’s podcast](https://www.youtube.com/watch?v=tvwAbvkkOXo) that Daphne shared with me. The episode is about fighting self-abandonment, plugging into yourself, and embodying your desires.  
 
-**Peter: Mmm. You're now the second person who's referenced this podcast to me (the first was [Natalia](https://www.instagram.com/lunaconleche/)!). I'm taking this as a sign to listen! Noted. Okay, now: by the time we publish this conversation, it’ll be early October. Here in Oakland, California, this is around when I tend to notice the wind. It usually “gains a voice” as it blows through the drying leaves. You’re in Singapore, I think! Might there be a subtle shift you notice around this time?**
+**Peter: Mmm. You're now the second person who's referenced this podcast to me (the first was [Natalia](https://www.instagram.com/lunaconleche/)). I'm taking this as a sign to listen! Noted. Okay, now: by the time we publish this conversation, it’ll be early October. Here in Oakland, California, this is around when I tend to notice the wind. It usually “gains a voice” as it blows through the drying leaves. You’re in Singapore, I think? Might there be a subtle shift you notice around this time?**
 
 **Cheryl**: Yes, I’m in Singapore! It’s summer all year round because this tiny Southeast Asian country sits on the equator. Weather-wise, the only thing that changes is humidity, or whether it's raining nonstop. Right now, we’re experiencing the haze, drifting over from forest fires in [Sumatra](https://en.wikipedia.org/wiki/Sumatra) and [Kalimantan](https://en.wikipedia.org/wiki/Kalimantan).
 
 I realised a good number of people on earth have seasons to mark the passage of time. Perhaps the lack of it for me has given me a strange, not entirely healthy relationship with time, where every year starts to feel like its own complete lifetime. So September arrives and it's suddenly Q4, I feel slightly anxious about it like I'm running out of time inside a year I thought I had more of. But there's also a pull toward looking forward to the end of things. I use this stretch to look back at January-me, March-me, and ask how I’ve grown or what I’ve done. Mostly, I try to stay grateful and blessed that I got to do and experience what I did.
 
 
-**Peter: What a joy it’s been to experience these reflections, Cheryl. Thank you for being open to this conversation and conducting it in this way. Before we head out, I wonder: what is a question you’re sitting with right now?** 
+**Peter: What a joy it’s been to travel through these memories, Cheryl. Thank you for being open to this conversation and conducting it in this way. Before we head out, I wonder: what is a question you’re sitting with right now?** 
 
 **Cheryl:** *How do I move with more conviction and allow it to grow through experience rather than waiting for certainty first?*
 
@@ -55,7 +55,7 @@ I realised a good number of people on earth have seasons to mark the passage of 
 
 - - -
 
-*If something here resonates with you, Cheryl would be eager to know what. You can be in touch [via email](mailto:cheryl.ohy@gmail.com) or [direct message](https://www.instagram.com/chwllrz/). And if a conversation of this sort feels energizing to you, I hope you will [let me know](mailto:peter@pingpractice.org).*
+*If something here resonates with you, Cheryl would be eager to know what. You can be in touch [via email](mailto:cheryl.ohy@gmail.com) or [direct message](https://www.instagram.com/chwllrz/). And if participating in a conversation of this sort feels energizing to you, I hope you will [let me know](mailto:peter@pingpractice.org).*
 
 - - - 
 <footer>
